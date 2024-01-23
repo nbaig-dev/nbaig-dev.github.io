@@ -1,6 +1,6 @@
-base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
-description = "tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score."
+base_url = "https://nbaig-dev.github.io/"
+title = "~/nbaig-dev"
+description = "I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language."
 author = "welpo"
 generate_feed = true
 compile_sass = true
@@ -40,22 +40,22 @@ smart_punctuation = true
 [link_checker]
 internal_level = "warn"
 
-[languages.es]
-title = "~/tabi"
-description = "tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse."
-generate_feed = true
-compile_sass = true
-minify_html = true
-taxonomies = [{name = "tags", feed = true}]
-build_search_index = true
+#[languages.es]
+#title = "~/tabi"
+#description = "tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse."
+#generate_feed = true
+#compile_sass = true
+#minify_html = true
+#taxonomies = [{name = "tags", feed = true}]
+#build_search_index = true
 
-[languages.ca]
-title = "~/tabi"
-description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
-generate_feed = true
-compile_sass = true
-minify_html = true
-taxonomies = [{name = "tags", feed = true}]
+#[languages.ca]
+#title = "~/tabi"
+#description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
+#generate_feed = true
+#compile_sass = true
+#minify_html = true
+#taxonomies = [{name = "tags", feed = true}]
 
 [extra]
 # Check out the documentation (or the comments below) to learn how to customise tabi:
@@ -106,7 +106,7 @@ stylesheets = []
 # Remote repository for your Zola site.
 # Used for `show_remote_changes` and `show_remote_source` (see below).
 # Supports GitHub, GitLab, Gitea, and Codeberg.
-remote_repository_url = "https://github.com/welpo/tabi"
+remote_repository_url = "https://github.com/nbaig-dev/nbaig-dev.github.io"
 # Set this to "auto" to try and auto-detect the platform based on the repository URL.
 # Accepted values are "github", "gitlab", "gitea", and "codeberg".
 remote_repository_git_platform = "auto"  # Defaults to "auto".
@@ -114,9 +114,9 @@ remote_repository_git_platform = "auto"  # Defaults to "auto".
 remote_repository_branch = "main"  # Defaults to "main".
 # Show a link to the commit history of updated posts, right next to the last updated date.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-show_remote_changes = true  # Defaults to true.
+show_remote_changes = false  # Defaults to true.
 # Show a link to the repository of the site, right next to the "Powered by Zola & tabi" text.
-show_remote_source = true  # Defaults to true.
+show_remote_source = false  # Defaults to true.
 
 # Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
@@ -188,7 +188,7 @@ menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
-    { name = "projects", url = "projects", trailing_slash = true },
+    #{ name = "projects", url = "projects", trailing_slash = true },
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
@@ -202,24 +202,25 @@ full_content_in_feed = false
 # Protect against spambots:
 # 1. Use base64 for email (convert at https://www.base64encode.org/ or `printf 'your@email.com' | base64`).
 # 2. Or, set 'encode_plaintext_email' to true for auto-encoding (only protects on site, not in public repos).
-email = "dGFiaUBvc2MuZ2FyZGVu"
+email = "bmJhaWcuZGV2QGdtYWlsLmNvbQ=="
 # Decoding requires ~400 bytes of JavaScript. If JS is disabled, the email won't be displayed.
 encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder.
 socials = [
-    { name = "github", url = "https://github.com/welpo/", icon = "github" },
-    { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-    { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
-    { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
-    { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
+    { name = "github", url = "https://github.com/nbaig-dev/", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/nbaig-dev/", icon = "linkedin" },
+#    { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
+#    { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
+#    { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
+#    { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 ]
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "about", name = "about", trailing_slash = true},
     {url = "privacy", name = "privacy", trailing_slash = true},
-    {url = "https://tabi-stats.osc.garden", name = "site_statistics", trailing_slash = true},
+#    {url = "https://tabi-stats.osc.garden", name = "site_statistics", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
 

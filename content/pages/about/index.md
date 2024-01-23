@@ -8,20 +8,29 @@ quick_navigation_buttons = true
 social_media_card = "social_cards/about.jpg"
 +++
 
-Welcome to the demo of [**tabi**](https://github.com/welpo/tabi), a theme for [Zola](https://www.getzola.org/), a fast static site generator.
+## 14+ years of experience in Full Stack Web Development.
 
-**tabi** is the creation of Óscar Fernández ([welpo](https://github.com/welpo/) on GitHub), initially designed for [his personal site](https://osc.garden/). It is a feature-rich, modern theme that provides sane (and safe) defaults.
+#### You should hire me because
+- You want someone to own build and deliver projects
+- Automate Automate Automate (Identify opportunities brainstorm and build them)
+- Proven debugging skills, have spent weeks to identify and fix critical issues (where none on the team can identify the issue)
+- Want to implement something complex without compromising on quality
+- Can work in a multi cultural environment (Have worked with US, UK, Europe, Australian teams)
+- Will provide support once the post launch
 
-Looking for detailed instructions or tips on using **tabi**? The [blog](https://welpo.github.io/tabi/blog/) and [archive](https://welpo.github.io/tabi/archive/) sections feature the theme's documentation, offering a variety of articles from feature overviews to step-by-step guides.
+#### Why you should not hire me
+- Want me to attend a lot of non technical meetings
+- Want me to build a company website
+- Want me to manage a team
 
-## Features
+#### Checklist
+- I can build / debug complex projects using Rust (Axum | Actix-web) and core PHP.
+- Can Implement unit test for the written code with 80% code coverage
+- Can provide technical support on the product (debugging client issues)
+- Build / maintain CI CD pipelines
+- Automate the release process
+- Perform releases
 
-**tabi** supports [multiple languages](https://welpo.github.io/tabi/blog/faq-languages/), [customisable appearance](https://welpo.github.io/tabi/blog/customise-tabi/), [comment integrations](https://welpo.github.io/tabi/blog/comments/), and much more, all with an emphasis on performance ([all JavaScript is optional](https://welpo.github.io/tabi/blog/javascript/)) and [security](https://welpo.github.io/tabi/blog/security/).
-
-## Contributing
-
-Contributions are much appreciated! We appreciate bug reports, improvements to translations or documentation (however minor), feature requests… Check out the [Contributing Guidelines](https://github.com/welpo/tabi/blob/main/CONTRIBUTING.md) to learn how you can help. Thank you!
-
-## License
-
-The code is available under the [MIT license](https://choosealicense.com/licenses/mit/).
+#### Portfolio (Recent):
+- [ContractorPlus](https://contractorplus.app/)
+- [Curatal](https://www.curatal.com/) (For tech Interviews)
