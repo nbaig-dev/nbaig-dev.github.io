@@ -36,6 +36,7 @@ My learning alternates between reading books and watching videos related to Rust
 ## So far I have consumed:
 - [The Rust Book](https://doc.rust-lang.org/book/)
 - [The Rust Lang Book Video Series](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+- [C++Now 2017: Niko Matsakis "Rust: Hack Without Fear!"](https://www.youtube.com/watch?v=lO1z-7cuRYI)
 - Udemy courses on Rust:
 - - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 - - [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/)
