@@ -2,7 +2,7 @@
 title = "My journey learning Rust"
 date = 2024-01-23
 updated = 2024-01-23
-description = "In this blog post I will outline my journey learning The RUst Programming Language."
+description = "In this blog post I will outline my journey learning The Rust Programming Language."
 
 [taxonomies]
 tags = ["rust", "learning"]

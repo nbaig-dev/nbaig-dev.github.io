@@ -1,8 +1,8 @@
 +++
-title = "My journey learning Rust"
+title = "Understanding rust ownership and borrowing."
 date = 2024-01-23
 updated = 2024-01-23
-description = "In this blog post I will outline my journey learning The RUst Programming Language."
+description = "In this blog post I will try to explain the concepts of ownership and borrowing in Rust."
 
 [taxonomies]
 tags = ["rust", "learning"]
@@ -131,3 +131,86 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 In this example, 'a is a lifetime annotation. The function signature tells Rust that for some lifetime 'a, the function takes two parameters, both of which are string references that live at least as long as 'a. The function returns a string reference that also lives at least as long as 'a.
 
 This does not change the lifetimes of any values passed in or returned, but it does tell Rust that any values that do not adhere to this contract should be rejected by the compiler. This is the core of Rust's ability to make memory safety guarantees without needing a garbage collector.
+
+## 4. Ownership and Concurrency
+
+### 4.1 Ownership in Concurrent Programming
+
+Discuss how Rust's ownership model facilitates safe concurrent programming. Explain how ownership rules help prevent data races and other common concurrency issues.
+
+## 5. Common Patterns and Best Practices
+
+### 5.1 Structuring Code with Ownership
+
+Provide best practices for structuring code to maximize the benefits of ownership and borrowing. Illustrate common patterns and idioms used in Rust code.
+
+### 5.2 Avoiding Common Pitfalls
+
+Highlight common pitfalls when working with ownership and borrowing. Provide guidance on how to recognize and address these issues.
+
+## 6. Conclusion
+
+Summarize the key takeaways from the article, emphasizing the significance of ownership and borrowing in Rust for achieving memory safety and concurrency without sacrificing performance. Encourage readers to embrace these concepts and explore further by building real-world projects in Rust, leveraging the language's unique features for robust and efficient code.
+
+
+
+=====================================================================
+
+
+
+# Understanding Ownership and Borrowing in Rust
+
+Rust is a unique programming language with a focus on performance, safety, and especially concurrency. One of the key features that enables Rust to achieve these goals is its system of ownership with a feature called borrowing. Let's dive into these concepts.
+
+## Ownership
+
+In Rust, every value has a variable that's called its _owner_. There can only be one owner at a time, and when the owner goes out of scope, the value will be dropped.
+
+```rust
+fn main() {
+    let s = String::from("hello");  // s is now the owner of the value
+}  // s goes out of scope and the value is dropped
+```
+
+This ownership system allows Rust to make memory safety guarantees without needing a garbage collector.
+
+## Borrowing
+
+While ownership is a powerful concept, it would be very limiting if we could never have multiple variables interact with the same piece of data. This is where borrowing comes in.
+
+Borrowing is accomplished with the `&` symbol and allows you to have a reference to a value without taking ownership of it.
+
+```rust
+fn main() {
+    let s = String::from("hello");
+    let len = calculate_length(&s);
+    println!("The length of '{}' is {}.", s, len);
+}
+
+fn calculate_length(s: &String) -> usize {
+    s.len()
+}
+```
+
+In this example, `calculate_length` borrows `s` but does not take ownership, so `s` is still valid after the function call.
+
+## Mutable Borrowing
+
+Rust also allows mutable borrowing, which lets a function modify a value. This is done with the `&mut` symbol.
+
+```rust
+fn main() {
+    let mut s = String::from("hello");
+    change(&mut s);
+}
+
+fn change(some_string: &mut String) {
+    some_string.push_str(", world");
+}
+```
+
+However, Rust enforces a rule that you can have either one mutable reference or any number of immutable references, but not both. This prevents data races at compile time.
+
+## Conclusion
+
+Ownership and borrowing are fundamental concepts in Rust that enable it to ensure memory safety and prevent data races. By understanding these concepts, you can write efficient and safe Rust code.
