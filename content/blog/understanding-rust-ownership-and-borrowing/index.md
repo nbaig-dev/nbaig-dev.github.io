@@ -86,3 +86,48 @@ In this code, r1 is a mutable reference to s. It can modify s, but no other refe
 
 By enforcing these rules, Rust's borrowing system allows your program to access data in a controlled and safe manner, preventing a whole class of bugs related to ownership and concurrency.
 
+## 3. Lifetimes
+
+### 3.1 Understanding Lifetimes
+
+In Rust, memory safety is a core principle. One of the ways Rust achieves this is through a feature called 'lifetimes'. Lifetimes are Rust's way of ensuring that all references in your code are valid for as long as you're using them.
+
+A lifetime is a construct in Rust that prevents dangling references by ensuring that any reference to an object will not outlive the object itself. In other words, it guarantees that the referenced object will not be destroyed while there are still references to it.
+
+When you create a reference to an object in Rust, the compiler automatically assigns a lifetime to that reference. This lifetime determines the scope within which that reference is valid. Once you leave that scope, the reference is no longer valid and you can't use it anymore.
+Here's a simple example:
+
+```rust
+{
+    let x = 5; // x has a lifetime for this block
+    let r = &x; // r has the same lifetime as x
+} // x and r go out of scope here
+
+In this example, x and r have the same lifetime, which is the scope of the block they're in. Once we leave that block, x and r go out of scope and are no longer valid.
+
+### 3.2 Lifetimes Prevent Dangling References
+One of the main benefits of lifetimes is that they prevent dangling references. A dangling reference is a reference that points to an object that has already been destroyed. This can lead to undefined behavior and serious bugs in your programs.
+
+By ensuring that a reference cannot outlive the object it refers to, lifetimes prevent this kind of problem. If you try to use a reference after its object has been destroyed, the Rust compiler will give you an error.
+
+### 3.3 Lifetime Annotations
+
+Lifetime annotations in Rust are a way for explicitly specifying the lifetimes of references in function signatures. This is necessary when the lifetimes of arguments or return values depend on each other.
+
+The syntax for lifetime annotations is an apostrophe followed by a name, like `'a`. This name is then used to refer to the lifetime in the rest of the function signature.
+
+Here's an example of a function with lifetime annotations:
+
+```rust
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+    if x.len() > y.len() {
+        x
+    } else {
+        y
+    }
+}
+```
+
+In this example, 'a is a lifetime annotation. The function signature tells Rust that for some lifetime 'a, the function takes two parameters, both of which are string references that live at least as long as 'a. The function returns a string reference that also lives at least as long as 'a.
+
+This does not change the lifetimes of any values passed in or returned, but it does tell Rust that any values that do not adhere to this contract should be rejected by the compiler. This is the core of Rust's ability to make memory safety guarantees without needing a garbage collector.
