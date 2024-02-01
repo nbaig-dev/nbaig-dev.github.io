@@ -160,3 +160,72 @@ fn main() {
 }
 
 In this example, we're creating multiple threads and sharing read-only data between them using Rc, a reference-counted smart pointer. If we tried to mutate data from within the threads, the Rust compiler would give us an error, preventing a potential data race.
+
+## 5. Common Patterns and Best Practices
+
+### 5.1 Structuring Code with Ownership
+
+#### 5.1.1 Minimize Scope of Mutability
+
+In Rust, you should aim to minimize the scope of mutability. This means you should prefer using let over let mut unless you specifically need a mutable variable. This helps prevent accidental mutations.
+
+```
+let x = 5; // prefer this
+let mut y = 5; // over this, unless you need to mutate y
+```
+
+#### 5.1.2 Use References Instead of Moving Ownership
+
+If you don't need to take ownership of a value, prefer to take a reference to it instead. This allows the caller to continue using the value after the call.
+
+```
+fn print_length(s: &String) { // prefer this
+    println!("{}", s.len());
+}
+
+fn print_length(s: String) { // over this
+    println!("{}", s.len());
+}
+```
+
+#### 5.1.3 Leverage Lifetimes
+
+When dealing with references, you may need to specify lifetimes. Lifetimes are a way of ensuring that references are valid for a certain scope. They help prevent dangling references and memory safety issues.
+
+```
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str { // lifetimes in action
+    if x.len() > y.len() {
+        x
+    } else {
+        y
+    }
+}
+```
+
+#### 5.1.4 Use Result for Error Handling
+
+Rust doesn't have exceptions. Instead, it uses the Result type for functions that can fail. This forces you to handle errors where they occur, leading to more robust code.
+
+```
+use std::fs::File;
+
+fn open_file(path: &str) -> std::io::Result<File> { // using Result for error handling
+    File::open(path)
+}
+```
+
+#### 5.1.5 Use match or if let for Control Flow
+
+Rust's match and if let constructs are powerful tools for control flow. They allow you to handle multiple patterns in a clear and concise way.
+
+```
+let some_option = Some(5);
+match some_option {
+    Some(i) => println!("{}", i),
+    None => {},
+}
+
+if let Some(i) = some_option {
+    println!("{}", i);
+}
+```
