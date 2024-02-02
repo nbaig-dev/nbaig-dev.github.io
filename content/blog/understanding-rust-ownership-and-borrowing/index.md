@@ -1,7 +1,7 @@
 +++
 title = "Understanding rust ownership and borrowing."
-date = 2024-01-31
-updated = 2024-01-31
+date = 2024-02-02
+updated = 2024-02-02
 description = "In this blog post I will try to explain the concepts of ownership and borrowing in Rust."
 
 [taxonomies]
@@ -158,6 +158,7 @@ fn main() {
         });
     }
 }
+```
 
 In this example, we're creating multiple threads and sharing read-only data between them using Rc, a reference-counted smart pointer. If we tried to mutate data from within the threads, the Rust compiler would give us an error, preventing a potential data race.
 
@@ -229,3 +230,65 @@ if let Some(i) = some_option {
     println!("{}", i);
 }
 ```
+
+### 5.2 Avoiding Common Pitfalls
+
+#### 5.2.1 Attempting to Use a Value After Transferring Ownership
+
+One common pitfall is attempting to use a value after its ownership has been transferred. In Rust, once you've passed a value to a function, you no longer have ownership of that value and can't use it again.
+
+```rust
+fn main() {
+    let s = String::from("hello");
+    takes_ownership(s);
+    println!("{}", s); // This will cause a compile error
+}
+
+fn takes_ownership(s: String) {
+    println!("{}", s);
+}
+```
+
+To address this issue, you can return the value from the function if you still need it, or use a reference to borrow the value instead of transferring ownership.
+
+#### 5.2.2 Mutable and Immutable References
+
+Another common pitfall is having a mutable reference while also having an immutable reference. Rust's borrowing rules don't allow this because it could lead to data races.
+
+```
+let mut s = String::from("hello");
+let r1 = &s; // no problem
+let r2 = &s; // no problem
+let r3 = &mut s; // BIG PROBLEM
+```
+
+To address this issue, you need to ensure that you don't have any immutable references to a value before creating a mutable reference.
+
+#### 5.2.3 Dangling References
+
+Dangling references, which are references to a location in memory that may have been given to someone else, are prevented by Rust's ownership system. However, it's still a pitfall to be aware of.
+
+```
+fn main() {
+    let reference_to_nothing = dangle();
+}
+
+fn dangle() -> &String { // dangles a reference
+    let s = String::from("hello");
+    &s
+}
+```
+
+To address this issue, you should return the owned value directly, which gives ownership back to the calling function.
+
+These are just a few of the common pitfalls you might encounter when working with ownership and borrowing in Rust. By understanding these issues and how to address them, you can write safer and more efficient Rust code.
+
+## 6. Conclusion
+
+In this article, we've debunked some common misconceptions about Rust and highlighted the common pitfalls when working with ownership and borrowing. The key takeaway is that Rust's unique features, such as its strict ownership and borrowing rules, are not obstacles but powerful tools for writing safe, concurrent, and efficient code.
+
+Understanding and embracing these concepts is crucial to leveraging the full potential of Rust. While the learning curve may be steep, the payoff in terms of performance and safety is significant. Rust's memory safety guarantees, without the need for a garbage collector, make it a compelling choice for systems programming and beyond.
+
+Moreover, Rust's growing ecosystem and supportive community make it a vibrant language to work with. As you continue to explore Rust, don't shy away from these complex concepts. Instead, embrace them, understand them, and use them to your advantage.
+
+I encourage you to apply what you've learned in this article by building real-world projects in Rust. This will not only solidify your understanding but also give you a sense of the power and efficiency that Rust brings to the table. Happy coding!
