@@ -43,8 +43,8 @@ Ownership is a fundamental concept in Rust that ensures memory safety without th
 
 In Rust, the concept of "moving" ownership is a key part of how the language ensures memory safety. When you assign a variable to another variable, Rust by default "moves" the ownership, rather than copying the data. This means that the original variable can no longer be used.
 
-Here's an example:
-```
+**Here's an example:**
+```rust
 let s1 = String::from("hello");
 let s2 = s1;
 ```
@@ -65,7 +65,7 @@ There are two types of borrowing in Rust: immutable and mutable.
 
 ### 2.1 Imutable Borrowing
 This allows a value to be read from multiple places without changing it. You can have multiple immutable references to the same data. Here's an example:
-```
+```rust
 let s = String::from("hello");
 let r1 = &s;
 let r2 = &s;
@@ -75,8 +75,10 @@ In this code, r1 and r2 are both references to s. They "borrow" s without taking
 
 ### 2.2 Mutable Borrowing
 
-This allows a value to be changed. You can only have one mutable reference to a particular piece of data in a particular scope. This restriction prevents data races at compile time. Here's an example:
-```
+This allows a value to be changed. You can only have one mutable reference to a particular piece of data in a particular scope. This restriction prevents data races at compile time.
+
+**Here's an example:**
+```rust
 let mut s = String::from("hello");
 let r1 = &mut s;
 *r1 += ", world";
@@ -102,6 +104,7 @@ Here's a simple example:
     let x = 5; // x has a lifetime for this block
     let r = &x; // r has the same lifetime as x
 } // x and r go out of scope here
+```
 
 In this example, x and r have the same lifetime, which is the scope of the block they're in. Once we leave that block, x and r go out of scope and are no longer valid.
 
@@ -116,7 +119,7 @@ Lifetime annotations in Rust are a way for explicitly specifying the lifetimes o
 
 The syntax for lifetime annotations is an apostrophe followed by a name, like `'a`. This name is then used to refer to the lifetime in the rest of the function signature.
 
-Here's an example of a function with lifetime annotations:
+**Here's an example of a function with lifetime annotations:**
 
 ```rust
 fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
@@ -141,7 +144,7 @@ In concurrent programming, multiple threads can access data simultaneously. If t
 
 Rust's ownership model helps prevent this. In Rust, each value has a single owner, and the value is dropped when its owner goes out of scope. This ensures that at any given time, either one mutable reference or any number of immutable references to a particular piece of data exist. This rule is enforced at compile time, preventing data races at runtime.
 
-Consider the following example:
+**Consider the following example:**
 
 ```rust
 use std::thread;
@@ -170,7 +173,7 @@ In this example, we're creating multiple threads and sharing read-only data betw
 
 In Rust, you should aim to minimize the scope of mutability. This means you should prefer using let over let mut unless you specifically need a mutable variable. This helps prevent accidental mutations.
 
-```
+```rust
 let x = 5; // prefer this
 let mut y = 5; // over this, unless you need to mutate y
 ```
@@ -179,7 +182,7 @@ let mut y = 5; // over this, unless you need to mutate y
 
 If you don't need to take ownership of a value, prefer to take a reference to it instead. This allows the caller to continue using the value after the call.
 
-```
+```rust
 fn print_length(s: &String) { // prefer this
     println!("{}", s.len());
 }
@@ -193,7 +196,7 @@ fn print_length(s: String) { // over this
 
 When dealing with references, you may need to specify lifetimes. Lifetimes are a way of ensuring that references are valid for a certain scope. They help prevent dangling references and memory safety issues.
 
-```
+```rust
 fn longest<'a>(x: &'a str, y: &'a str) -> &'a str { // lifetimes in action
     if x.len() > y.len() {
         x
@@ -207,7 +210,7 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str { // lifetimes in action
 
 Rust doesn't have exceptions. Instead, it uses the Result type for functions that can fail. This forces you to handle errors where they occur, leading to more robust code.
 
-```
+```rust
 use std::fs::File;
 
 fn open_file(path: &str) -> std::io::Result<File> { // using Result for error handling
@@ -219,7 +222,7 @@ fn open_file(path: &str) -> std::io::Result<File> { // using Result for error ha
 
 Rust's match and if let constructs are powerful tools for control flow. They allow you to handle multiple patterns in a clear and concise way.
 
-```
+```rust
 let some_option = Some(5);
 match some_option {
     Some(i) => println!("{}", i),
@@ -255,7 +258,7 @@ To address this issue, you can return the value from the function if you still n
 
 Another common pitfall is having a mutable reference while also having an immutable reference. Rust's borrowing rules don't allow this because it could lead to data races.
 
-```
+```rust
 let mut s = String::from("hello");
 let r1 = &s; // no problem
 let r2 = &s; // no problem
@@ -268,7 +271,7 @@ To address this issue, you need to ensure that you don't have any immutable refe
 
 Dangling references, which are references to a location in memory that may have been given to someone else, are prevented by Rust's ownership system. However, it's still a pitfall to be aware of.
 
-```
+```rust
 fn main() {
     let reference_to_nothing = dangle();
 }
