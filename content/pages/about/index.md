@@ -12,14 +12,14 @@ social_media_card = "social_cards/about.jpg"
 
 #### You should hire me because
 - You want someone to own build and deliver projects
+- Team player
 - Automate Automate Automate (Identify opportunities brainstorm and build them)
 - Proven debugging skills, have spent weeks to identify and fix critical issues (where none on the team can identify the issue)
 - Want to implement something complex without compromising on quality
 - Can work in a multi cultural environment (Have worked with US, UK, Europe, Australian teams)
 - Will provide support once the post launch
 
-#### Why you should not hire me
-- Want me to attend a lot of non technical meetings
+#### Why you should not hire me 
 - Want me to build a company website
 - Want me to manage a team
 
@@ -34,3 +34,11 @@ social_media_card = "social_cards/about.jpg"
 #### Portfolio (Recent):
 - [ContractorPlus](https://contractorplus.app/)
 - [Curatal](https://www.curatal.com/) (For tech Interviews)
+
+Portfolio:
+- https://switch.tv/ 
+- Just Buy Live
+- Localbanya
+- Ness Technologies
+- Geodesic
+- Vitruvian Technologies

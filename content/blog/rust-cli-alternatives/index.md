@@ -31,8 +31,8 @@ quick_navigation_buttons = true
 - [sd](https://github.com/chmln/sd) alternative for sed for certain use cases
 - [ytop](https://github.com/cjbassi/ytop) (or bottom on windows) alternative for htop
 
-# Terminal Emulators
+## Terminal Emulators
 - [Alacritty](https://github.com/alacritty/alacritty) A cross-platform, OpenGL terminal emulator.
 
-# Editors
+## Editors
 - [helix](https://github.com/helix-editor/helix) A post-modern text editor.
