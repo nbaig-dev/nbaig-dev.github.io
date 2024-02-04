@@ -78,3 +78,5 @@ I will be shadowing and implementing the above course projects myself.
 Also, simultaneously I will be exploring GRPC with tonic.
 
 `I will be updating this page as and when I progress with my Rust learning.`
+
+Happy Coding!
