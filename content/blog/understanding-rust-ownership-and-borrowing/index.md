@@ -20,6 +20,12 @@ quick_navigation_buttons = true
 
 # Understanding Rust's Ownership and Borrowing: Building Robust and Memory-Safe Code
 
+```
+This blog post is just me trying to demonstrate my knowledge of Rust.
+If you are here to learn concepts related to Ownership and Borrowing please refer the Rust Book or for that matter any other resource available on the internet.
+I don't think this post should be considered as a learning material.
+```
+
 ## Introduction
 
 Rust's ownership and borrowing system is a distinctive feature that sets it apart from other programming languages. This system is designed to ensure memory safety without the need for a garbage collector. In this blog post, we will delve into the core concepts of ownership and borrowing in Rust, exploring how they contribute to writing robust, high-performance code with minimal runtime overhead.
