@@ -2,7 +2,7 @@
 title = "My journey learning Rust"
 date = 2024-01-23
 updated = 2024-01-23
-description = "In this blog post I will outline my journey learning The Rust Programming Language."
+description = """Hello there! I'm a seasoned web developer who has recently embarked on a new journey: learning Rust. In this blog post, I'll be sharing my experiences, challenges, and the resources I've used along the way. Whether you're a fellow Rustacean or someone curious about the language, I hope my journey provides some insights and encouragement for your own learning path. Let's dive in!"""
 
 [taxonomies]
 tags = ["rust", "learning"]

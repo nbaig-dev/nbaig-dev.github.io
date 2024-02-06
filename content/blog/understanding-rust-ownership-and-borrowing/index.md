@@ -2,7 +2,9 @@
 title = "Understanding rust ownership and borrowing."
 date = 2024-02-02
 updated = 2024-02-02
-description = "In this blog post I will try to explain the concepts of ownership and borrowing in Rust."
+description = """Welcome to this blog post where I will be sharing my understanding of Rust's ownership and borrowing concepts. These are fundamental aspects of Rust that make it unique among programming languages, providing memory safety without the need for a garbage collector. 
+
+Please note that this post is a reflection of my personal journey with Rust and is not intended to replace comprehensive learning resources like the Rust Book. It's always a good idea to refer to multiple sources when learning a new concept."""
 
 [taxonomies]
 tags = ["rust", "learning"]

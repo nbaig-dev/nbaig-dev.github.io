@@ -2,7 +2,7 @@
 title = "CLI alternatives written in Rust."
 date = 2024-01-28
 updated = 2024-01-28
-description = "In this blog post I will outline some of the cli alternatives written in Rust."
+description = """Welcome to this comprehensive list of command-line interface (CLI) utilities written in Rust. Rust, known for its performance and safety, has been increasingly used to write CLI tools. this post, we will explore some of these tools, their features, and how they can be used as alternatives to their traditional counterparts."""
 
 [taxonomies]
 tags = ["rust", "cli", "rust-cli"]

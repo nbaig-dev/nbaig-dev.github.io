@@ -2,7 +2,7 @@
 title = "Escaping Tutorial Hell - A Guide for Aspiring Developers."
 date = 2024-02-03
 updated = 2024-02-03
-description = "In this blog post I will try to create a guide to escape tutorial hell."
+description = """In the world of self-taught programming, there's a phenomenon known as "tutorial hell". This is a situation where learners get stuck in a cycle of endlessly following tutorials without making progress or truly understanding the concepts they're learning. It's a common trap that many aspiring developers fall into, and it can be incredibly frustrating and demotivating."""
 
 [taxonomies]
 tags = ["tutorial-hell", "dev", "Misc"]
