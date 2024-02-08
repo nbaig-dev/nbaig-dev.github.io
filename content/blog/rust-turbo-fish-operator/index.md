@@ -2,7 +2,7 @@
 title = "Turbofish operator in Rust"
 date = 2024-02-07
 updated = 2024-02-07
-description = """In this guide, we'll explore its usage, understand its role in different contexts, and learn how to avoid common errors. Let's get started on this journey to mastering the Turbofish operator in Rust!"""
+description = """In this guide, we'll explore its usage, understand its role in different contexts, and learn how to avoid common errors. Let's get started on this journey to mastering the Turbofish operator in Rust."""
 
 [taxonomies]
 tags = ["rust", "turbofish"]
