@@ -1,4 +1,3 @@
-
 +++
 title = "Common misconceptions in rust."
 date = 2024-02-03
@@ -13,7 +12,7 @@ footnote_backlinks = true
 quick_navigation_buttons = true
 +++
 
-# Blog Post: Debunking Common Misconceptions about Rust
+# Debunking Common Misconceptions about Rust
 
 ## Introduction
 Rust is a modern system programming language focused on performance, safety, and concurrency. Rust is used by many companies for a variety of tasks, including web development, game development, and systems programming. It's known for its focus on creating reliable, efficient software, and for having a friendly, inclusive community.
