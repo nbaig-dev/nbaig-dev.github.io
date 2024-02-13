@@ -8,7 +8,7 @@ quick_navigation_buttons = true
 social_media_card = "social_cards/about.jpg"
 +++
 
-## 14+ years of experience in Full Stack Web Development.
+## 14+ years of experience in Backend Web Development.
 
 #### You should hire me because
 - You want someone to own build and deliver projects
@@ -24,7 +24,7 @@ social_media_card = "social_cards/about.jpg"
 - Want me to manage a team
 
 #### Checklist
-- I can build / debug complex projects using Rust (Axum | Actix-web) and core PHP.
+- I can build / debug complex projects using  PHP (Symfony, Codeigniter) and Rust (Axum | Actix-web).
 - Can Implement unit test for the written code with 80% code coverage
 - Can provide technical support on the product (debugging client issues)
 - Build / maintain CI CD pipelines
@@ -35,7 +35,7 @@ social_media_card = "social_cards/about.jpg"
 - [ContractorPlus](https://contractorplus.app/)
 - [Curatal](https://www.curatal.com/) (For tech Interviews)
 
-Portfolio:
+#### Portfolio:
 - https://switch.tv/ 
 - Just Buy Live
 - Localbanya
