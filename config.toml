@@ -14,7 +14,7 @@ build_search_index = true
 # See https://welpo.github.io/tabi/blog/faq-languages/ for more details.
 default_language = "en"
 
-taxonomies = [{name = "tags", feed = true}]
+taxonomies = [{name = "tags", feed = true}, {name = "category", feed = true}]
 
 [search]
 # Whether to include the title of the page/section in the index.
