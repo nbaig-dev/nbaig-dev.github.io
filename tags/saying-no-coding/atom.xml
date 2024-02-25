@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - saying-no-coding</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/saying-no-coding/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/saying-no-coding/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a High-Stress Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/193-strategies-for-learning-to-code-in-a-high-stress-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/193-strategies-for-learning-to-code-in-a-high-stress-environment/</id>
+        <summary type="html">In today&#x27;s fast-paced and high-pressure world, learning to code can be an incredibly rewarding experience but it&#x27;s not always easy. Whether you&#x27;re studying computer science at university, working as part of a development team, or trying to pick up coding skills in your spare time, the stress levels can sometimes feel overwhelming. This blog post explores 10 strategies for learning to code in a high-stress environment. The author emphasizes the importance of prioritizing self-care, setting realistic goals, practicing mindfulness, building a support network, learning to say &#x27;no&#x27;, embracing failure, practicing self-reflection, developing a growth mindset, setting boundaries around technology use, and staying focused on long-term goals. By adopting these strategies, readers can better manage stress levels, stay motivated and committed to their coding journey, and achieve success in the field of computer science or development. The author encourages readers to share this post with others in their own coding community or network who might find these strategies helpful!</summary>
+        </entry>
+</feed>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - goal-setting</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/goal-setting/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/goal-setting/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Starting a New Project</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/105-how-to-overcome-the-fear-of-starting-a-new-project/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/105-how-to-overcome-the-fear-of-starting-a-new-project/</id>
+        <summary type="html">Conquer the fear of starting new projects with our comprehensive guide! From setting clear goals to embracing failure, unlock 15 strategies for success. Overcome uncertainty and embark on your journey with confidence. Read now and share the wisdom!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Stay Motivated During Challenging Tech Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/107-how-to-stay-motivated-during-challenging-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/107-how-to-stay-motivated-during-challenging-tech-projects/</id>
+        <summary type="html">Discover the secrets to unwavering motivation in challenging tech projects. Our guide unveils 15 actionable strategies, from goal setting to celebrating wins. Stay motivated, conquer challenges, and achieve project success!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Goal Setting for Tech Career Advancement</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/</id>
+        <summary type="html">Unleash your tech career&#x27;s full potential with 15 expert strategies for goal setting. From skill development to mentorship, discover the roadmap to career advancement in the dynamic tech landscape.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Meeting Project Deadlines</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/72-how-to-deal-with-the-pressure-of-meeting-project-deadlines/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/72-how-to-deal-with-the-pressure-of-meeting-project-deadlines/</id>
+        <summary type="html">Learn how to effectively manage project deadlines with these practical tips and strategies. From setting clear goals to celebrating milestones, conquer project pressure and deliver successful results on time.
+</summary>
+        </entry>
+</feed>

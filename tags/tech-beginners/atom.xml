@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tech-beginners</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tech-beginners/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tech-beginners/atom.xml</id><entry xml:lang="en">
+        <title>Finding Your Passion in the Tech Field</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/47-finding-your-passion-in-the-tech-field/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/47-finding-your-passion-in-the-tech-field/</id>
+        <summary type="html">In today&#x27;s digital age, the tech industry presents endless opportunities for career growth and personal development. However, with so many options available, it can be overwhelming to determine where to start or what path to take. In this guide for beginners, we explore ten practical points that will help you find your passion in the tech field. From identifying your strengths and weaknesses to seeking out mentorship and feedback, this post aims to provide a roadmap for those who are just starting their journey in tech. By following these insights, you&#x27;ll be well on your way to a successful and fulfilling career in this exciting industry. We encourage you to share this post with others who may benefit from its insights as we strive to help aspiring professionals find their passion in the tech field. Together, let&#x27;s build a community that supports and inspires one another!</summary>
+        </entry>
+</feed>

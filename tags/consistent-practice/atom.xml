@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - consistent-practice</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/consistent-practice/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/consistent-practice/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Not Being Able to Pass a Coding Interview</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/176-strategies-for-dealing-with-the-frustration-of-not-being-able-to-pass-a-coding-interview/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/176-strategies-for-dealing-with-the-frustration-of-not-being-able-to-pass-a-coding-interview/</id>
+        <summary type="html">In today&#x27;s competitive job market, passing coding interviews has become a crucial factor for securing a desirable position in the tech industry. However, not being able to pass such an interview can be a frustrating and demotivating experience for many aspiring developers. In this blog post, we&#x27;ll explore ten strategies that can help you cope with this frustration and improve your skills for future interviews. From reflecting on feedback and practicing consistently to building a personal development plan and collaborating with others, these tips will empower you to approach coding interviews with confidence and resilience. Remember, failure is not the end, but an opportunity for growth, and by implementing these strategies, we can all improve our skills and achieve success in this exciting field of technology. So, let&#x27;s dive in and explore how we can tackle the frustration of not being able to pass a coding interview!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Competitive Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/</id>
+        <summary type="html">In today&#x27;s digitally connected world, coding skills have become an essential requirement for individuals looking to stay ahead in their respective fields. With automation and technology transforming industries worldwide, there is a pressing demand for individuals who can code efficiently and effectively. However, learning to code in such a competitive environment can be daunting. This blog post aims to offer 10 strategies that can help aspiring coders stand out from the crowd and become proficient in coding. From defining goals to continuously improving skills, this guide covers a range of approaches that will equip readers with the knowledge they need to thrive in an increasingly competitive job market. By following these tips, readers can take their coding abilities to new heights and make a real impact in their chosen fields. Whether you&#x27;re a seasoned coder or just starting out on your coding journey, this guide is sure to provide valuable insights and practical advice that will help you stay ahead of the curve. So, let&#x27;s get started!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code Fast Enough</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for anyone looking to succeed in various industries. However, many people are hesitant to learn how to code due to the fear of not being able to do it quickly enough. This fear can be paralyzing and prevent individuals from ever starting their coding journey. In this blog post, we provide practical tips on how to overcome the fear of not being able to code fast enough. With 10 actionable points, we aim to help beginners develop confidence in their abilities, learn at their own pace, and build proficiency in coding. From embracing learning at one&#x27;s own pace to utilizing resources, consistent practice, focusing on understanding concepts, collaborating with others, learning shortcuts and optimization techniques, debugging, and not giving up, this post aims to provide a comprehensive guide for anyone looking to overcome their fear of not being able to code fast enough. We believe that everyone can become proficient in coding with dedication, persistence, and hard work. Join us as we explore these practical tips and create a community of learners who support and encourage one another!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Learning New Technologies Quickly</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/71-how-to-deal-with-the-pressure-of-learning-new-technologies-quickly/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/71-how-to-deal-with-the-pressure-of-learning-new-technologies-quickly/</id>
+        <summary type="html">In today&#x27;s fast-paced tech landscape, it has become imperative for professionals across various industries to learn new technologies rapidly. Whether you are an entrepreneur, developer, or marketer, keeping up with technological advancements is vital to remain relevant and competitive in your field. In this blog post, we offer ten practical tips to help individuals navigate the pressure of learning new technologies quickly. The post commences by encouraging readers to define their learning goals clearly and create a roadmap to achieve them. It emphasizes the importance of staying informed about industry trends through attending conferences, webinars, forums, and online communities. Additionally, it highlights the need to set realistic expectations, choose learning resources wisely, practice consistently, collaborate with others, embrace failure as part of the learning process, take breaks when necessary, measure progress regularly, and stay positive and patient throughout the journey. By implementing these tips, individuals can accelerate their learning curve, gain mastery over new technologies, and remain competitive in their respective fields.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Feeling Overwhelmed</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/</id>
+        <summary type="html">In this blog post, titled &quot;How to Learn Coding Without Feeling Overwhelmed,&quot; we explore ten tips for those who want to learn coding without becoming overwhelmed by the process. The author emphasizes starting with the basics, breaking tasks down into smaller pieces, practicing consistently, focusing on understanding rather than memorization, and seeking out resources when needed. Additionally, the post encourages setting realistic goals, learning from mistakes, embracing failure, and remembering the big picture. By following these tips, anyone can develop their coding skills gradually and enjoyably without feeling overwhelmed by frustration or confusion. The author invites readers to share this post with others who may be interested in learning more about coding and other technical skills, as we strive together to help more people unlock the benefits of these essential skills!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Getting Stuck in Tutorial Hell</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/</id>
+        <summary type="html">In today&#x27;s digitally-driven world, learning coding has become an essential skill for personal and professional growth. However, many beginners find themselves getting stuck in tutorial hell - a state where they spend more time following tutorials than actually writing code. In this blog post, we share ten actionable tips for learning coding without falling into the trap of tutorial hell. From defining your goals to embracing mistakes and taking breaks, our tips aim to help you master coding with consistency and focus. By practicing consistently, using real-world projects, collaborating with others, focusing on problem-solving, learning debugging techniques, utilizing a variety of online resources, and avoiding burnout, you&#x27;ll be well on your way to becoming a proficient coder without getting overwhelmed by the vastness of the coding landscape. We encourage our readers to share this post with their networks and continue exploring the exciting world of coding!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Programming Concepts</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/85-how-to-learn-programming-concepts/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/85-how-to-learn-programming-concepts/</id>
+        <summary type="html">In today&#x27;s digital age, programming skills have become an essential part of various industries. From healthcare and finance to retail and entertainment, programming concepts are being used to solve complex problems and improve operational efficiency. However, learning programming can be challenging for beginners, as it requires a solid understanding of fundamental concepts such as variables, data types, operators, control structures, functions, and loops. In this blog post, we will explore ten practical tips to learn programming concepts effectively, covering various approaches, tools, and resources that can help you master programming skills.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Starting Your Own Tech Blog</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/89-how-to-learn-to-code-by-starting-your-own-tech-blog/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/89-how-to-learn-to-code-by-starting-your-own-tech-blog/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill that is in high demand across various industries. However, for beginners looking to learn how to code, it can be both exciting and overwhelming. That&#x27;s where starting your own tech blog comes into the picture! This 8000-character blog post explores ten ways that starting a tech blog can help individuals learn how to code, regardless of their programming experience level. From choosing user-friendly content management systems like WordPress or Squarespace to collaborating with other coders, this post offers practical tips and resources for those interested in embarking on the coding journey through their own tech blogs. With consistent practice and a commitment to learning, anyone can become a proficient coder by following these ten tips. So why not take the first step today and start your own tech blog? The possibilities are endless!</summary>
+        </entry><entry xml:lang="en">
+        <title>Building Confidence as a Self-Taught Developer</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/32-building-confidence-as-a-self-taught-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/32-building-confidence-as-a-self-taught-developer/</id>
+        <summary type="html">In this blog post, we explore strategies and practices that self-taught developers can implement to build confidence in their abilities. As someone who has embarked on a similar journey, I understand the unique set of challenges and insecurities that come with being a self-taught developer. However, by embracing our learning journeys, setting achievable goals, joining online communities, collaborating with others, consistently practicing, learning from mistakes, focusing on problem-solving, learning from others, taking on new challenges, and not being afraid to ask questions, we can build the confidence needed to succeed as a self-taught developer. Through implementing these tips, we create a supportive community for all developers, regardless of their educational background, and encourage each other&#x27;s growth and development in the ever-evolving world of technology.</summary>
+        </entry>
+</feed>

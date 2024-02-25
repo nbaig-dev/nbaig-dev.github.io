@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - industry-insights</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/industry-insights/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/industry-insights/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming Perfectionism in Tech Projects</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/</id>
+        <summary type="html">Perfectionism can be both a blessing and a curse in tech projects. While it drives innovation, it also leads to unnecessary delays, missed deadlines, and wasted resources. In this blog post, we explore practical tips on how to overcome perfectionism in tech projects, drawn from the experiences of industry professionals. The post is structured around ten actionable points that help foster a productive work environment, deliver high-quality products, and enhance job satisfaction. We start by defining the Minimum Viable Product (MVP), embrace failure as an opportunity to learn and grow, set realistic goals, prioritize communication, cultivate a culture of collaboration, manage time effectively, learn to delegate, celebrate wins, prioritize feedback, and learn from peers in the tech industry. By implementing these practices, you can minimize the negative impacts of perfectionism while maximizing productivity, innovation, and job satisfaction. We encourage you to share this post with your networks to spread awareness about overcoming perfectionism in tech projects and continue our collective growth journey!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Being a Tech Consultant</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/59-how-to-deal-with-the-pressure-of-being-a-tech-consultant/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/59-how-to-deal-with-the-pressure-of-being-a-tech-consultant/</id>
+        <summary type="html">In today&#x27;s digital age, being a tech consultant has become an increasingly popular career choice for individuals with expertise in various aspects of technology. While being a tech consultant can be incredibly rewarding, it is also a highly pressurized role that requires individuals to manage multiple clients with conflicting demands, stay up-to-date with the latest technologies, and deliver high-quality services. In this blog post, we provide ten practical tips for managing stress levels and thriving as a tech consultant. From defining your niche to cultivating a growth mindset, these strategies will help individuals deepen their expertise, navigate the highs and lows of consulting, and provide clients with exceptional services. Whether you&#x27;re an experienced tech consultant or just starting in this field, we hope that these tips will inspire you to continue learning, growing, and thriving in your career!</summary>
+        </entry>
+</feed>

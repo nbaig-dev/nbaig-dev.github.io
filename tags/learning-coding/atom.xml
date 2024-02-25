@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - learning-coding</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/learning-coding/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/learning-coding/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Good Enough in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill in various industries. However, many beginners feel overwhelmed and doubt their capabilities due to the perceived expertise of seasoned coders. This blog post offers ten practical ways for overcoming the fear of not being good enough in coding. The post encourages readers to understand that everyone starts somewhere, focus on learning rather than perfection, break down complex problems into smaller parts, seek out learning opportunities, practice regularly, collaborate with others, embrace failure, celebrate achievements, reflect on their learning journey, and cultivate a growth mindset. With these tips, readers will be well on their way to becoming confident and competent coders. By sharing this post with your coding community, we can make learning coding more accessible and less intimidating for all!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Participating in Hackathons</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/87-how-to-learn-to-code-by-participating-in-hackathons/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/87-how-to-learn-to-code-by-participating-in-hackathons/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, learning how to code has become an essential skill for individuals seeking career growth or simply pursuing a passion for technology. However, not everyone finds it easy to learn coding on their own, and that&#x27;s where hackathons come in! This blog post discusses ten ways that novice coders can learn to code by participating in hackathons. From immersing oneself in a coding community to practicing problem-solving skills, working with experienced developers, collaborating with multi-disciplinary teams, learning time management skills, and having fun, this post explores the numerous benefits of participating in hackathons for novice coders. By sharing this post, individuals can contribute to building a vibrant coding community that can help enhance skills and create opportunities. Don&#x27;t miss out on these fantastic insights into how to learn to code through hackathons!</summary>
+        </entry>
+</feed>

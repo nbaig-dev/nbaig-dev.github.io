@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - cost-benefit-analysis</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/cost-benefit-analysis/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-22T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/cost-benefit-analysis/atom.xml</id><entry xml:lang="en">
+        <title>Building Confidence in Tech Decision-Making</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/</id>
+        <summary type="html">In today&#x27;s tech-driven world, making informed and effective tech decisions has become essential for business success. However, navigating the complex and ever-changing tech landscape can be daunting, especially for those without a background in IT. In this blog post, we&#x27;ll explore ten practical tips that will help build confidence in your tech decision-making abilities. From defining your tech strategy to fostering a culture of continuous learning, these tips will guide you through the process and ensure that each new tech investment delivers real value to your business. By following our advice, you can stay ahead of the curve in terms of tech innovation and best practice, driving real value to your organization and delivering on your strategic goals. So whether you&#x27;re a seasoned tech pro or a relative newcomer, this guide is for you! Join us as we explore the world of tech decision-making and build confidence in your ability to lead your business into the future.</summary>
+        </entry>
+</feed>

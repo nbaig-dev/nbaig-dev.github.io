@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - artificial-intelligence</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/artificial-intelligence/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/artificial-intelligence/atom.xml</id><entry xml:lang="en">
+        <title>Tech Industry Trends: Adapting to Change</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/206-tech-industry-trends-adapting-to-change/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/206-tech-industry-trends-adapting-to-change/</id>
+        <summary type="html">In this blog post, we explore ten critical industry trends that are shaping the tech landscape today and into the future. These trends include remote work, artificial intelligence (AI), cybersecurity, quantum computing, blockchain, Internet of Things (IoT), cloud computing, virtual and augmented reality (VR&#x2F;AR), 5G networks, and digital transformation. As the COVID-19 pandemic has demonstrated, unexpected events can disrupt established business models and force companies to adopt new strategies and technologies. Therefore, it&#x27;s essential for tech companies to prioritize innovation, collaboration, and sustainability in their decision-making processes. This post offers insights and commentary on these trends, their implications for the industry, and how companies can adapt and thrive in this evolving landscape. We encourage our readers to share this post with their networks and join the conversation on how these trends are shaping the tech landscape today and into the future. Together, we can stay informed and adaptive to the evolving demands of the market.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Keeping Up with Rapidly Changing Tech Trends</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/</id>
+        <summary type="html">In today&#x27;s fast-paced technological landscape, it&#x27;s crucial for individuals and businesses to adapt quickly to new trends and innovations. However, with emerging technologies such as artificial intelligence, virtual reality, and the Internet of Things (IoT) disrupting traditional industries, it can be challenging to keep up. In this blog post, we explore ten strategies that can help you navigate rapidly changing tech trends, from embracing a growth mindset and staying informed to investing in training and development, being agile, and prioritizing user experience. By implementing these tactics, you&#x27;ll be better equipped to stay ahead of the curve and achieve long-term success. Whether you&#x27;re an entrepreneur, a small business owner, or a technology professional, this post offers practical advice and insights that can help you thrive in a rapidly evolving technological landscape.</summary>
+        </entry><entry xml:lang="en">
+        <title>Tech Industry Ethics: Navigating Moral Dilemmas</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/202-tech-industry-ethics-navigating-moral-dilemmas/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/202-tech-industry-ethics-navigating-moral-dilemmas/</id>
+        <summary type="html">In today&#x27;s rapidly evolving tech industry, where innovation and progress are prioritized over moral principles, it is imperative for companies to navigate complex ethical dilemmas that arise due to technological advancements. In this 8000-word blog post written in markdown format, we delve into ten critical points that shed light on the intricate moral issues faced by tech giants today. From privacy and data protection, AI and autonomy, digital manipulation and misinformation, cybersecurity and national security, worker rights and working conditions, environmental sustainability, accessibility and inclusion, regulation and government oversight, globalization and economic disparity, and long-term impact on society, this post highlights the significant challenges and opportunities for innovation and positive social change that tech companies must consider. By sharing our insights and inviting readers to continue the conversation, we aim to contribute positively to shaping a responsible and equitable tech industry for the future.</summary>
+        </entry>
+</feed>

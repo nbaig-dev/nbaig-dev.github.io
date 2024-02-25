@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - development-processes</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/development-processes/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/development-processes/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Handling Criticism in Code Reviews</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/185-strategies-for-handling-criticism-in-code-reviews/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/185-strategies-for-handling-criticism-in-code-reviews/</id>
+        <summary type="html">In today&#x27;s fast-paced software development industry, code reviews are an essential part of the development process. They enable teams to catch bugs, ensure compliance with coding standards, and identify areas for improvement. However, receiving criticism during a code review can be challenging, as harsh or unfounded feedback can be demoralizing and hinder productivity. In this blog post, we will discuss strategies for handling criticism in code reviews that are aimed at helping developers navigate through these situations with grace and professionalism. By following the ten points discussed in this article, developers can improve their collaboration skills, foster a more productive team environment, and continuously enhance their skills as software engineers. The post includes practical tips for listening to feedback, evaluating criticism objectively, communicating clearly, maintaining professionalism, practicing empathy, and learning from feedback. We encourage our readers to share any additional strategies they use in the comments section below. Let&#x27;s work together to build better software and improve our development practices!</summary>
+        </entry>
+</feed>

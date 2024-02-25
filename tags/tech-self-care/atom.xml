@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tech-self-care</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tech-self-care/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tech-self-care/atom.xml</id><entry xml:lang="en">
+        <title>Mindful Coding: Integrating Meditation into Tech Work</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/116-mindful-coding-integrating-meditation-into-tech-work/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/116-mindful-coding-integrating-meditation-into-tech-work/</id>
+        <summary type="html">In our fast-paced world, tech work has become an integral part of daily life. However, the high-stress environment can lead to burnout, anxiety, and stress-related illnesses among tech workers. To address this issue, mindful coding has emerged as a way to integrate meditation and mindfulness practices into the coding process. This blog post explores 10 ways to incorporate mindful coding into daily work routines. From starting with a mindful breath to practicing mindful collaboration, these tips can help reduce stress, increase focus, and improve overall well-being in the workplace. By cultivating mindfulness through coding, we can promote a more fulfilling and productive work experience for all. Share this post with others in the tech community to spread awareness of the importance of mindfulness and well-being in the workplace.</summary>
+        </entry>
+</feed>

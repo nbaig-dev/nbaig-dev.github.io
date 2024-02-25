@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - collaboration-in-learning</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/collaboration-in-learning/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/collaboration-in-learning/atom.xml</id><entry xml:lang="en">
+        <title>How to Learn Coding Without Feeling Overwhelmed</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/</id>
+        <summary type="html">In this blog post, titled &quot;How to Learn Coding Without Feeling Overwhelmed,&quot; we explore ten tips for those who want to learn coding without becoming overwhelmed by the process. The author emphasizes starting with the basics, breaking tasks down into smaller pieces, practicing consistently, focusing on understanding rather than memorization, and seeking out resources when needed. Additionally, the post encourages setting realistic goals, learning from mistakes, embracing failure, and remembering the big picture. By following these tips, anyone can develop their coding skills gradually and enjoyably without feeling overwhelmed by frustration or confusion. The author invites readers to share this post with others who may be interested in learning more about coding and other technical skills, as we strive together to help more people unlock the benefits of these essential skills!</summary>
+        </entry>
+</feed>

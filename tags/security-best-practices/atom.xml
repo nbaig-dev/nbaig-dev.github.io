@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - security-best-practices</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/security-best-practices/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/security-best-practices/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Keeping Up with the Latest Coding Best Practices</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/</id>
+        <summary type="html">In today&#x27;s fast-paced world, staying updated with the latest coding best practices is crucial for any developer. With new languages, frameworks, and tools emerging every day, it can be challenging to keep up. But neglecting these best practices can result in subpar code quality, increased maintenance costs, and decreased productivity. In this blog post, we provide 10 actionable tips for overcoming the challenges of keeping up with the latest coding best practices. From making a habit of learning continuously to collaborating with peers, we discuss practical strategies that developers can adopt to improve their skills and stay ahead of the curve. Whether you&#x27;re a seasoned developer or just starting out, this post is for you. Join us as we explore the world of coding best practices and learn how to overcome the challenges of staying up-to-date in a fast-evolving field. Let&#x27;s dive into these 10 tips together!</summary>
+        </entry>
+</feed>

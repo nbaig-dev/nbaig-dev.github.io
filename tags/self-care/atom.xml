@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - self-care</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/self-care/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/self-care/atom.xml</id><entry xml:lang="en">
+        <title>Mind-Body Wellness Tips for Tech Workers</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/115-mind-body-wellness-tips-for-tech-workers/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/115-mind-body-wellness-tips-for-tech-workers/</id>
+        <summary type="html">Explore 15 actionable tips for tech workers to enhance mind-body wellness. From sleep hygiene to mindful breathing, discover practical strategies for a healthier work-life balance in the fast-paced tech industry. Share these tips to inspire a well-rounded approach to professional well-being.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Coping with Job Loss in the Tech Sector</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/35-coping-with-job-loss-in-the-tech-sector/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/35-coping-with-job-loss-in-the-tech-sector/</id>
+        <summary type="html">Navigate job loss in the tech sector with resilience! Explore 15 strategies, from updating your resume to prioritizing self-care. Embrace new opportunities and rebuild your career path.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Creating a Healthy Work-Life Integration in Tech</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/36-creating-a-healthy-work-life-integration-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/36-creating-a-healthy-work-life-integration-in-tech/</id>
+        <summary type="html">Unlock the secret to a balanced tech life! Explore 15 strategies for a healthy work-life integration, from setting boundaries to embracing flexibility. Elevate your well-being in the dynamic tech industry!
+</summary>
+        </entry>
+</feed>

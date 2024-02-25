@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - burnout</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/burnout/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/burnout/atom.xml</id><entry xml:lang="en">
+        <title>The Impact of Sleep on Tech Performance</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/212-the-impact-of-sleep-on-tech-performance/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/212-the-impact-of-sleep-on-tech-performance/</id>
+        <summary type="html">In this comprehensive guide, we delve into the topic &#x27;The Impact of Sleep on Tech Performance&#x27; and discuss ten compelling reasons why getting enough sleep is essential for tech professionals. From improved cognitive functionality to reduced risk of errors and mistakes, sleep plays a critical role in enhancing tech performance. This blog post also highlights the importance of prioritizing sleep as part of a healthy work-life balance, encourages tech professionals to aim for seven to eight hours of sleep per night, and shares tips for establishing healthy sleep habits. Let&#x27;s make sleep a priority and achieve optimal tech performance! Share this blog post with your peers in the tech industry to raise awareness about the importance of sleep for tech performance. Together, let&#x27;s prioritize sleep as part of a healthy work-life balance and achieve optimal tech performance! #SleepandTechPerformance #HealthyWorkLifeBalance #PrioritizeSleep</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being an Older Developer</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/147-overcoming-the-challenges-of-being-an-older-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/147-overcoming-the-challenges-of-being-an-older-developer/</id>
+        <summary type="html">In this blog post, we explore ten points that discuss some of the most significant obstacles older developers face in today&#x27;s rapidly changing software development industry. From staying updated with new technologies to navigating the job market and dealing with ageism, these tips provide practical advice on how older developers can overcome these challenges and thrive in their careers. By focusing on soft skills, networking, and embracing change, older developers can remain relevant and contribute valuable insights to the growth and development of the industry. This post aims to create a community that supports and encourages older developers to stay competitive and continue making a difference in software development. We hope you find this content helpful, and we encourage you to share it with your network of older developers to help them overcome similar challenges. Let&#x27;s work together to create a brighter future for the industry!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Self-Taught Developer</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/149-overcoming-the-challenges-of-being-a-self-taught-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/149-overcoming-the-challenges-of-being-a-self-taught-developer/</id>
+        <summary type="html">In today&#x27;s rapidly evolving tech industry, self-taught developers have become increasingly common. However, learning to code on one&#x27;s own can be challenging due to the lack of structure, resources, feedback, and motivation. In this blog post, we explore ten strategies that aspiring and current self-taught developers can use to overcome these challenges. We provide practical tips on creating a roadmap for learning, making use of free resources, seeking feedback from peers, managing time effectively, keeping up with technology trends, balancing theory and practical application, dealing with imposter syndrome, managing burnout, and seeking mentorship and guidance. By implementing these strategies, self-taught developers can achieve success in the industry while enjoying the flexibility and freedom of learning at their own pace. We encourage our readers to share this blog post with their networks and help others overcome the challenges they may face as self-taught developers. Together, let&#x27;s build a stronger community of self-taught developers!</summary>
+        </entry><entry xml:lang="en">
+        <title>Creating a Healthy Work-Life Integration in Tech</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/36-creating-a-healthy-work-life-integration-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/36-creating-a-healthy-work-life-integration-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-paced world, where the lines between work and personal life have become increasingly blurred, especially in the tech industry, striking a balance between professional and personal commitments has become a significant challenge for many individuals. The culture of hustle culture and constant connectivity has led to burnout, decreased productivity, and poor overall wellbeing. This blog post explores ten practical tips for creating a healthy work-life integration in tech, emphasizing the importance of setting clear boundaries, prioritizing self-care, practicing time management skills, fostering workplace flexibility, learning to say &#x27;no&#x27;, cultivating strong communication skills, practicing gratitude and mindfulness, promoting a supportive work culture, and learning to disconnect. By following these tips, individuals in tech can achieve a happier, healthier lifestyle and long-term success while avoiding burnout and improving overall wellbeing. This post aims to raise awareness about the importance of work-life integration in our industry and encourage readers to share its insights with their networks of tech professionals and entrepreneurs.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Getting Stuck in Tutorial Hell</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/</id>
+        <summary type="html">In today&#x27;s digitally-driven world, learning coding has become an essential skill for personal and professional growth. However, many beginners find themselves getting stuck in tutorial hell - a state where they spend more time following tutorials than actually writing code. In this blog post, we share ten actionable tips for learning coding without falling into the trap of tutorial hell. From defining your goals to embracing mistakes and taking breaks, our tips aim to help you master coding with consistency and focus. By practicing consistently, using real-world projects, collaborating with others, focusing on problem-solving, learning debugging techniques, utilizing a variety of online resources, and avoiding burnout, you&#x27;ll be well on your way to becoming a proficient coder without getting overwhelmed by the vastness of the coding landscape. We encourage our readers to share this post with their networks and continue exploring the exciting world of coding!</summary>
+        </entry>
+</feed>

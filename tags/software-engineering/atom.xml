@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - software-engineering</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/software-engineering/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/software-engineering/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Agile and Scrum Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/214-the-importance-of-understanding-agile-and-scrum-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/214-the-importance-of-understanding-agile-and-scrum-principles/</id>
+        <summary type="html">In this blog post, we delve into the importance of understanding Agile and Scrum principles in modern software development projects. With an emphasis on collaboration, iterative development, customer feedback, self-organizing teams, continuous improvement, flexibility, timeboxing, and documentation over excessive documentation, these methodologies help teams deliver better software faster while remaining adaptable to changing requirements. From the role of teamwork, collaboration, and communication in Agile and Scrum projects to the significance of delivering value, customer feedback, self-organizing teams, continuous improvement, flexibility, timeboxing, and documentation over excessive documentation, this post highlights the key principles and practices associated with these methodologies. As software development continues to evolve at a rapid pace, understanding Agile and Scrum principles is crucial for success in today&#x27;s projects. By embracing these principles, teams can deliver high-quality software faster while remaining flexible to changing requirements, ultimately leading to better outcomes for customers, stakeholders, and end-users alike. So, whether you&#x27;re a seasoned software development professional or just starting out, we encourage you to take the time to learn more about Agile and Scrum principles and how they can benefit your team. Share this post with your colleagues, friends, and social networks, and let&#x27;s continue to push the boundaries of what&#x27;s possible in software development together!</summary>
+        </entry><entry xml:lang="en">
+        <title>The Importance of Understanding Declarative Programming Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/220-the-importance-of-understanding-declarative-programming-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/220-the-importance-of-understanding-declarative-programming-principles/</id>
+        <summary type="html">In this blog post, we explore the significance of understanding declarative programming principles for modern software development. With the evolution of programming paradigms, declarative programming has emerged as a crucial aspect that offers several advantages over traditional imperative programming. We delve into 10 crucial points that highlight the importance of declarative programming principles in software development. From better expressiveness and enhanced reusability to improved scalability and facilitated integration with other technologies, declarative programming brings significant benefits to modern software development practices. We encourage our readers to share their experiences with declarative programming and how it has impacted their software development practices. Together, we can continue to learn and improve our understanding of this exciting and rapidly evolving field. Let&#x27;s work together to create more efficient, maintainable, and flexible applications for a better tomorrow!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Balancing Coding with Life</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/124-overcoming-the-challenges-of-balancing-coding-with-life/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/124-overcoming-the-challenges-of-balancing-coding-with-life/</id>
+        <summary type="html">In today&#x27;s fast-paced digital world, where technology is constantly evolving, it has become increasingly challenging for developers to balance their coding projects with other aspects of their lives. From missing important family events to neglecting personal health and wellbeing, many developers find themselves struggling to maintain a healthy work-life balance. In this blog post, we explore ten strategies that can help developers overcome these challenges and lead more fulfilling lives. From setting priorities and learning to say no, to practicing self-care and staying connected with others, these strategies are essential in balancing coding with life. By implementing them, developers can improve their coding abilities, reduce stress and burnout, and lead happier, healthier lives both personally and professionally. So, whether you&#x27;re a seasoned developer or just starting out, take some time to reflect on these strategies and see how they might help you achieve a better work-life balance. Remember, it&#x27;s not just about achieving success in your career but also about leading a happy, fulfilling life outside of work!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a High Pressure Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/132-overcoming-the-challenges-of-being-a-developer-in-a-high-pressure-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/132-overcoming-the-challenges-of-being-a-developer-in-a-high-pressure-environment/</id>
+        <summary type="html">In today&#x27;s fast-paced and high-pressure work environments, being a developer can present its own set of challenges. Whether it&#x27;s meeting tight deadlines, handling complex projects, or dealing with demanding clients, these situations can be both exhilarating and overwhelming. In this blog post, we explore ten points that developers can utilize to overcome these challenges and thrive in high-pressure environments. From staying calm and focused to prioritizing tasks, collaborating with team members, learning from mistakes, keeping learning and growing continuously, maintaining a healthy work-life balance, embracing feedback, managing time effectively, and celebrating wins while learning from failures, we discuss practical strategies that developers can implement in their daily routine. This post aims to provide insightful tips for software engineers working under pressure, helping them navigate these situations with ease and confidence. By sharing our knowledge and experiences, we hope to inspire and empower developers worldwide, fostering a community of learning and growth. So, whether you&#x27;re a seasoned developer or just starting in the industry, this post is for you. We invite you to read on, implement these tips, share your thoughts with us, and join our mission to spread knowledge and collaboration across the development community.</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Remote Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/138-overcoming-the-challenges-of-being-a-developer-in-a-remote-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/138-overcoming-the-challenges-of-being-a-developer-in-a-remote-environment/</id>
+        <summary type="html">In today&#x27;s digital age, remote work has become increasingly popular in various industries, particularly among developers who can perform their duties from virtually anywhere with an internet connection. While working remotely presents numerous benefits such as increased flexibility and reduced costs, it also comes with its unique set of challenges. In this blog post, we will explore ten ways to overcome these obstacles and succeed as a developer in a remote environment. We will cover topics such as establishing boundaries between work and personal life, effective communication skills, time management strategies, learning opportunities, collaboration tools, security measures, maintaining work-life balance, staying motivated, dealing with distractions, and embracing the remote work culture. By following these tips, developers can thrive in a remote environment and deliver high-quality results consistently. As a community of developers, we encourage our fellow remote workers to share their experiences and best practices for working remotely in the comments section below, let&#x27;s continue to learn from each other and build a stronger remote developer community!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning New Tech Stacks</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, proficiency in multiple tech stacks has become a necessity for developers. However, learning new tech stacks can be an intimidating task. In this blog post, we&#x27;ve compiled ten tips that can help overcome the challenges of learning new tech stacks. Our tips include identifying reasons for learning, researching and planning your approach, breaking down learning into smaller pieces, practicing consistently, leveraging online resources, seeking out mentorship or peer learning opportunities, embracing failure as a learning opportunity, collaborating with others, being open to learning new concepts and tools, and reflecting on progress regularly. By following these tips, you&#x27;ll be better equipped to develop proficiency in new tech stacks and thrive in today&#x27;s dynamic tech landscape. Share your thoughts and experiences in the comments section below, and let&#x27;s continue learning and growing together as a community!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Failure in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/</id>
+        <summary type="html">In this blog post, we delve into one of the most significant obstacles for software developers: the fear of failure. With a combination of tips, anecdotes, and insights from industry experts, we explore practical strategies to overcome this pervasive mindset. We begin by acknowledging that failures are essential for learning, and they should be embraced rather than feared. Next, we advise breaking down complex tasks into smaller pieces, learning to embrace failure as an opportunity for growth, developing a growth mindset, seeking out feedback, collaborating with others, practicing mindfulness, building resilience through self-care, setting realistic goals, and taking risks and embracing change. Our post ends by encouraging developers to take that first step towards overcoming their fear of failure, share their experiences, and inspire the community. Let&#x27;s overcome our fears together and create a more vibrant and thriving developer ecosystem! #OvercomeFailureTogether</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Being a Tech Lead</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/63-how-to-deal-with-the-pressure-of-being-a-tech-lead/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/63-how-to-deal-with-the-pressure-of-being-a-tech-lead/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, being a tech lead comes with immense pressure and responsibility. In this blog post, we explore ten practical tips for dealing with the pressure that comes with being a tech lead. We discuss the importance of embracing the role, setting clear expectations, encouraging feedback, delegating responsibilities, prioritizing workload, taking care of oneself, learning to say no, collaborating with other departments, staying updated on industry trends, and continuously developing oneself. By following these tips, tech leads can succeed in their roles, create a productive and fulfilling work environment for their teams, and contribute significantly to the overall success of their projects or products. We encourage our readers to share this post with their networks and continue spreading knowledge and promoting best practices within the tech community. Let&#x27;s strive to make our industry a more productive and rewarding place for everyone involved!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn from Your Coding Mistakes</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/84-how-to-learn-from-your-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/84-how-to-learn-from-your-coding-mistakes/</id>
+        <summary type="html">In this blog post, we delve into the topic of how developers can learn from their coding mistakes. We acknowledge that errors are an inherent part of the learning process and share ten practical tips on how to turn these setbacks into opportunities for growth and improvement. Our tips range from accepting responsibility for the mistake, understanding its root cause, documenting findings, seeking feedback, practicing continuous learning, implementing best practices, collaborating with others, embracing failure, and reflecting regularly. By following these strategies, developers can become more aware of their coding strengths and weaknesses, handle new challenges better, and grow in their development journeys. We encourage readers to share this post with their peers and continue the conversation about how we can learn from our coding mistakes together as a community.</summary>
+        </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - automated-testing</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/automated-testing/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/automated-testing/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding DevOps Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/222-the-importance-of-understanding-devops-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/222-the-importance-of-understanding-devops-principles/</id>
+        <summary type="html">In recent years, DevOps has revolutionized the way organizations build, deliver, and operate software. DevOps is an approach that combines the best practices from development (Dev) and operations (Ops) teams to create a continuous delivery pipeline. In this blog post, we will discuss the importance of understanding DevOps principles with 10 key points.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Effective Problem Solving in Coding</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/183-strategies-for-effective-problem-solving-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/183-strategies-for-effective-problem-solving-in-coding/</id>
+        <summary type="html">This blog post explores ten strategies for effective problem-solving in coding, essential skills that every developer must possess. The author highlights the importance of understanding the problem, breaking it down into smaller parts, collaborating with team members, using design patterns, practicing debugging techniques, embracing failure, using data-driven decision making, practicing cognitive reflection, leveraging automated testing, and continuously learning and improving. By following these strategies, developers can tackle complex coding challenges, maintain consistency and reliability in their codebase, and achieve better outcomes for themselves and their organizations. The author invites the reader to share this post with other developers and contribute to building a stronger and more collaborative developer community through their experiences related to effective problem-solving in coding.</summary>
+        </entry>
+</feed>

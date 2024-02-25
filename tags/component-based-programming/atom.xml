@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - component-based-programming</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/component-based-programming/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/component-based-programming/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Component-Based Programming Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/216-the-importance-of-understanding-component-based-programming-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/216-the-importance-of-understanding-component-based-programming-principles/</id>
+        <summary type="html">As software development practices continue to evolve at an ever-increasing pace, it&#x27;s more important than ever for developers to prioritize component-based programming (CBP) principles. In this blog post, we will explore ten reasons why understanding CBP principles is crucial in modern software development practices. From modularity and reusability to testability and scalability, these design concepts promote cleaner, more modular, and more testable code that is easier to understand, test, and maintain over time. By applying these principles, developers can create more reliable, stable, and adaptable software systems that are future-proofed for the pace of technological change. Let&#x27;s continue sharing our knowledge and experience with CBP so that we can all benefit from its many advantages! Thank you for reading this post, and please feel free to share your thoughts and experiences with CBP in the comments below. Together, we can build better software systems and advance the field of software engineering!</summary>
+        </entry>
+</feed>

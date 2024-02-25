@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - mentors</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/mentors/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/mentors/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being an Older Developer</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/147-overcoming-the-challenges-of-being-an-older-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/147-overcoming-the-challenges-of-being-an-older-developer/</id>
+        <summary type="html">In this blog post, we explore ten points that discuss some of the most significant obstacles older developers face in today&#x27;s rapidly changing software development industry. From staying updated with new technologies to navigating the job market and dealing with ageism, these tips provide practical advice on how older developers can overcome these challenges and thrive in their careers. By focusing on soft skills, networking, and embracing change, older developers can remain relevant and contribute valuable insights to the growth and development of the industry. This post aims to create a community that supports and encourages older developers to stay competitive and continue making a difference in software development. We hope you find this content helpful, and we encourage you to share it with your network of older developers to help them overcome similar challenges. Let&#x27;s work together to create a brighter future for the industry!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Starting a New Project</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/105-how-to-overcome-the-fear-of-starting-a-new-project/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/105-how-to-overcome-the-fear-of-starting-a-new-project/</id>
+        <summary type="html">Starting a new project can be an exciting yet daunting prospect, filled with uncertainty and risk. Many people struggle with the fear of starting a new project because it requires stepping outside their comfort zone, taking risks, and facing uncertainty. However, overcoming this fear is essential for personal growth, professional development, and achieving our goals.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Asking for Help in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/</id>
+        <summary type="html">In today&#x27;s tech-driven world, coding has become an essential skill for many individuals. However, the fear of asking for help in coding is a common obstacle that prevents some developers from fully realizing their potential. In this blog post, we explore ten tips to help coders overcome this fear and achieve success. The post covers topics such as embracing ignorance, identifying resources, practicing active listening, seeking out mentors, and more. We also provide insights into the importance of collaboration and learning from failure. By following these tips, coders can develop the skills and confidence needed to succeed in the field. We encourage our readers to share their experiences and insights in the comments below, as we believe that supporting each other is key to growth and success in coding.</summary>
+        </entry><entry xml:lang="en">
+        <title>Goal Setting for Tech Career Advancement</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technology landscape, it is crucial for tech professionals to set goals that enable them to grow and advance in their careers. In this blog post, we explore ten effective strategies for goal-setting in a tech career. These include defining long-term career objectives, breaking them down into smaller milestones, setting SMART goals, creating a plan, seeking feedback, taking risks, embracing failure, continuously learning, networking, and being patient and persistent. By following these tips, readers can enhance their professional development and achieve success in the tech industry. Our blog post aims to provide valuable insights and actionable advice for anyone looking to advance their tech career. We encourage our readers to share this post with their peers, mentors, and colleagues, as collective learning and growth can benefit us all!</summary>
+        </entry>
+</feed>

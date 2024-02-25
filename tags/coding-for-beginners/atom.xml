@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - coding-for-beginners</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/coding-for-beginners/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/coding-for-beginners/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Fear of Starting Your First Real Project</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/164-overcoming-the-fear-of-starting-your-first-real-project/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/164-overcoming-the-fear-of-starting-your-first-real-project/</id>
+        <summary type="html">In today&#x27;s digital age, programming has become an essential skill for many individuals and businesses alike. However, starting your first real project can be overwhelming, especially if you&#x27;re new to programming. In this blog post, we explore ten strategies that can help overcome the fear of starting your first real project and build the confidence you need to succeed. From defining your project goals and breaking them into smaller tasks to getting feedback, focusing on progress instead of perfection, practicing self-care, embracing failure as a learning opportunity, staying motivated, learning from experts, and being kind to yourself throughout the process, this post provides practical tips that will help you tackle your first project with confidence. Whether you&#x27;re a seasoned developer or just starting out, these strategies can be applied to any programming language or framework. So, if you&#x27;re feeling hesitant about taking the first step, read on and learn how to overcome your fears and achieve your goals in the world of programming!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code While Working Full Time</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/195-strategies-for-learning-to-code-while-working-full-time/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/195-strategies-for-learning-to-code-while-working-full-time/</id>
+        <summary type="html">In today&#x27;s digital age, learning to code has become an increasingly important skill for personal and professional growth. However, for those already working full-time jobs, finding the time and resources to learn coding can be a daunting task. In this blog post, we explore ten strategies that can help individuals balance their day jobs with learning to code, covering topics such as goal setting, scheduling, utilizing online resources, collaboration, mentorship, practice, bootcamps, habit building, motivation, and finding a healthy work-life-coding balance. Whether you&#x27;re new to coding or a seasoned developer looking for tips on how to improve your skills while juggling the demands of daily life, this post offers practical insights and actionable advice for achieving your coding goals. So, whether you&#x27;re looking to advance your career, launch a tech startup, or simply learn a new skill for personal fulfillment, read on for our top ten strategies for learning to code while working full-time.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code with No Prior Experience</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill for individuals looking to thrive in various industries. However, learning coding from scratch can be daunting for beginners with no prior experience. In this blog post, we present ten effective strategies that will help aspiring coders embark on a successful journey towards proficiency in programming languages like Python, Ruby, or JavaScript. From starting small and focused to joining communities of coders, this guide outlines practical tips that cover every aspect of the learning process, including mastering basics, problem-solving skills, debugging techniques, version control, collaboration, testing, and staying passionate and curious about learning new concepts. Whether you&#x27;re a complete beginner or struggling with the learning process, these strategies will provide the foundation and resources needed to develop strong coding principles and advance your skills over time. So, roll up your sleeves, grab your laptop, and let&#x27;s dive into the world of programming together! #LearnCodingTogether</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Master a Coding Language</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/100-how-to-overcome-the-fear-of-not-being-able-to-master-a-coding-language/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/100-how-to-overcome-the-fear-of-not-being-able-to-master-a-coding-language/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for individuals who aspire to succeed in various fields. However, many people are still hesitant to learn coding due to the fear of not being able to master it. This blog post aims to provide ten practical tips that can help beginners overcome this fear and embark on a rewarding journey towards becoming proficient coders.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Good Enough in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill in various industries. However, many beginners feel overwhelmed and doubt their capabilities due to the perceived expertise of seasoned coders. This blog post offers ten practical ways for overcoming the fear of not being good enough in coding. The post encourages readers to understand that everyone starts somewhere, focus on learning rather than perfection, break down complex problems into smaller parts, seek out learning opportunities, practice regularly, collaborate with others, embrace failure, celebrate achievements, reflect on their learning journey, and cultivate a growth mindset. With these tips, readers will be well on their way to becoming confident and competent coders. By sharing this post with your coding community, we can make learning coding more accessible and less intimidating for all!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code from Scratch</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/</id>
+        <summary type="html">In today&#x27;s digital age, programming skills have become an indispensable asset for professionals in various fields. However, learning how to code from scratch can be intimidating, particularly if you lack prior experience or education in computer science. The fear of not being able to code can hold people back from exploring this exciting field and all the opportunities it offers. In this blog post, we&#x27;re going to explore ten practical tips that can help you overcome your fears and embark on a coding journey with confidence. By starting small, practicing consistently, breaking down complex tasks, utilizing online resources, collaborating with others, embracing failure, learning from others&#x27; code, seeking out mentors, staying curious, and believing in yourself, you can develop the skills and knowledge needed to become a proficient coder. So if you&#x27;re new to coding or have been struggling to overcome your fears, this post is for you. We hope these tips will help you take the first step towards a rewarding and exciting journey into the world of programming!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Learn Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/99-how-to-overcome-the-fear-of-not-being-able-to-learn-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/99-how-to-overcome-the-fear-of-not-being-able-to-learn-coding/</id>
+        <summary type="html">In today&#x27;s tech-driven world, coding has become an essential skill for anyone who wants to stay relevant in their career path. However, many individuals still shy away from learning how to code due to the fear that they might not be able to grasp the concepts or implement them effectively. This fear can lead to missed opportunities and limit one&#x27;s potential in this rapidly evolving field. In this blog post, we offer practical tips on overcoming the fear of not being able to learn coding, focusing on 10 key areas that can help anyone embark on a successful coding journey. Whether you&#x27;re a complete beginner or have some prior knowledge of coding, these tips are designed to cater to your unique needs and learning style. So, if you&#x27;re ready to overcome your fears and unlock the countless opportunities that coding offers, read on! We&#x27;ll provide you with actionable insights, real-world examples, and expert advice that will help you build a solid foundation in coding and take your skills to the next level. Let&#x27;s embark on this exciting learning journey together!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Starting Your Own Tech Blog</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/89-how-to-learn-to-code-by-starting-your-own-tech-blog/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/89-how-to-learn-to-code-by-starting-your-own-tech-blog/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill that is in high demand across various industries. However, for beginners looking to learn how to code, it can be both exciting and overwhelming. That&#x27;s where starting your own tech blog comes into the picture! This 8000-character blog post explores ten ways that starting a tech blog can help individuals learn how to code, regardless of their programming experience level. From choosing user-friendly content management systems like WordPress or Squarespace to collaborating with other coders, this post offers practical tips and resources for those interested in embarking on the coding journey through their own tech blogs. With consistent practice and a commitment to learning, anyone can become a proficient coder by following these ten tips. So why not take the first step today and start your own tech blog? The possibilities are endless!</summary>
+        </entry>
+</feed>

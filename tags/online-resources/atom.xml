@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - online-resources</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/online-resources/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/online-resources/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Demanding Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/190-strategies-for-learning-to-code-in-a-demanding-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/190-strategies-for-learning-to-code-in-a-demanding-environment/</id>
+        <summary type="html">In today&#x27;s tech-driven world, coding skills have become indispensable in various industries. However, learning to code can be challenging, especially in demanding environments where tight deadlines, limited resources, or high-pressure projects are commonplace. This blog post offers ten practical tips for thriving as a developer in such scenarios. From setting clear goals and breaking down big tasks to embracing collaboration and staying updated on trends, this article covers strategies that can help developers overcome the challenges of learning to code in demanding environments. With these tips, readers will be able to learn new skills, complete projects under tight deadlines, and stand out as exceptional developers in high-pressure situations. By sharing their experiences and insights in the comments section, the community can continue to support each other&#x27;s learning journeys and advance our careers in the industry. Join us today and take your coding skills to the next level!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Fast-Paced Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/191-strategies-for-learning-to-code-in-a-fast-paced-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/191-strategies-for-learning-to-code-in-a-fast-paced-environment/</id>
+        <summary type="html">In today&#x27;s fast-paced digital age, learning to code has become essential not just for computer science students but also for professionals across various fields. However, with the vast array of resources and technologies available, it can be overwhelming to learn coding in a fast-paced environment. In this blog post, we will explore ten strategies that will help you learn to code quickly and efficiently. From defining your goals to seeking feedback, these tips will provide you with the necessary tools and resources to develop practical coding skills that will help you succeed in today&#x27;s digital world. So, whether you are a beginner or an experienced developer, join us as we explore the strategies for learning to code in a fast-paced environment. Let&#x27;s dive in!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Remote Setting</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/194-strategies-for-learning-to-code-in-a-remote-setting/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/194-strategies-for-learning-to-code-in-a-remote-setting/</id>
+        <summary type="html">In recent times, remote work has become more popular than ever before due to various factors, including the ongoing COVID-19 pandemic. As a result, many individuals are now learning how to code from the comfort of their own homes. However, learning coding skills remotely presents unique challenges that require specific strategies to overcome. In this blog post, we will discuss ten such strategies that can help those looking to learn programming languages and frameworks in a remote setting. The article is written in 8000 characters and follows a markdown format. It includes practical advice on creating a dedicated workspace, establishing a routine, finding a mentor, breaking down tasks into manageable chunks, practicing regularly, utilizing online resources, staying up to date with industry trends, collaborating with others, and setting achievable goals. The post concludes by encouraging readers to share the content with their network, highlighting the potential for remote learning success stories in the tech community. With these strategies and a supportive network, anyone can successfully learn coding skills from the comfort of their own home!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code with No Prior Experience</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill for individuals looking to thrive in various industries. However, learning coding from scratch can be daunting for beginners with no prior experience. In this blog post, we present ten effective strategies that will help aspiring coders embark on a successful journey towards proficiency in programming languages like Python, Ruby, or JavaScript. From starting small and focused to joining communities of coders, this guide outlines practical tips that cover every aspect of the learning process, including mastering basics, problem-solving skills, debugging techniques, version control, collaboration, testing, and staying passionate and curious about learning new concepts. Whether you&#x27;re a complete beginner or struggling with the learning process, these strategies will provide the foundation and resources needed to develop strong coding principles and advance your skills over time. So, roll up your sleeves, grab your laptop, and let&#x27;s dive into the world of programming together! #LearnCodingTogether</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning Advanced Coding Concepts</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/155-overcoming-the-challenges-of-learning-advanced-coding-concepts/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/155-overcoming-the-challenges-of-learning-advanced-coding-concepts/</id>
+        <summary type="html">In today&#x27;s rapidly evolving digital landscape, advanced coding concepts have become increasingly important for individuals looking to excel in the tech industry. However, learning these complex topics can be a daunting task, filled with challenges that test one&#x27;s patience, problem-solving abilities, and determination. In this blog post, we explore ten strategies for overcoming the challenges of learning advanced coding concepts. From defining your goals to taking risks and joining communities, these tips will help you develop the skills you need to succeed in today&#x27;s tech industry. Whether you are new to coding or a seasoned professional looking to advance your skills, this blog post is a must-read for anyone seeking to master advanced coding concepts. By implementing these strategies, you&#x27;ll be on your way to building a strong foundation of knowledge and developing the confidence and expertise needed to thrive in the tech industry. So why wait? Start exploring these tips today, and see just how far your coding skills can take you!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning New Tech Stacks</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, proficiency in multiple tech stacks has become a necessity for developers. However, learning new tech stacks can be an intimidating task. In this blog post, we&#x27;ve compiled ten tips that can help overcome the challenges of learning new tech stacks. Our tips include identifying reasons for learning, researching and planning your approach, breaking down learning into smaller pieces, practicing consistently, leveraging online resources, seeking out mentorship or peer learning opportunities, embracing failure as a learning opportunity, collaborating with others, being open to learning new concepts and tools, and reflecting on progress regularly. By following these tips, you&#x27;ll be better equipped to develop proficiency in new tech stacks and thrive in today&#x27;s dynamic tech landscape. Share your thoughts and experiences in the comments section below, and let&#x27;s continue learning and growing together as a community!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning to Code Alone</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/158-overcoming-the-challenges-of-learning-to-code-alone/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/158-overcoming-the-challenges-of-learning-to-code-alone/</id>
+        <summary type="html">In today&#x27;s digital age, programming skills have become an essential part of staying relevant in various industries. While many choose to learn coding in traditional classroom settings, others prefer self-directed learning due to its flexibility and convenience. However, learning alone can be challenging, as individuals lack the support of a teacher or peers. In this blog post, we&#x27;ll explore ten strategies that can help overcome some of the most common challenges of learning to code on your own.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Effectively Learn New Programming Languages</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/</id>
+        <summary type="html">As technology continues to evolve, learning new programming languages becomes an essential skill for developers. However, mastering a new language can be a daunting task. In this blog post, we&#x27;ll provide ten effective ways to learn new programming languages. From researching the language thoroughly to continuously improving your skills through practical exercises and projects, our tips cover every aspect of learning a new language efficiently and comprehensively. Whether you&#x27;re a beginner or an experienced developer, these strategies will help you enhance your understanding of syntax, functions, and operations in real-world scenarios. So, grab your computer, and let&#x27;s dive into the world of programming!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Feeling Overwhelmed</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/</id>
+        <summary type="html">In this blog post, titled &quot;How to Learn Coding Without Feeling Overwhelmed,&quot; we explore ten tips for those who want to learn coding without becoming overwhelmed by the process. The author emphasizes starting with the basics, breaking tasks down into smaller pieces, practicing consistently, focusing on understanding rather than memorization, and seeking out resources when needed. Additionally, the post encourages setting realistic goals, learning from mistakes, embracing failure, and remembering the big picture. By following these tips, anyone can develop their coding skills gradually and enjoyably without feeling overwhelmed by frustration or confusion. The author invites readers to share this post with others who may be interested in learning more about coding and other technical skills, as we strive together to help more people unlock the benefits of these essential skills!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Getting Stuck in Tutorial Hell</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/</id>
+        <summary type="html">In today&#x27;s digitally-driven world, learning coding has become an essential skill for personal and professional growth. However, many beginners find themselves getting stuck in tutorial hell - a state where they spend more time following tutorials than actually writing code. In this blog post, we share ten actionable tips for learning coding without falling into the trap of tutorial hell. From defining your goals to embracing mistakes and taking breaks, our tips aim to help you master coding with consistency and focus. By practicing consistently, using real-world projects, collaborating with others, focusing on problem-solving, learning debugging techniques, utilizing a variety of online resources, and avoiding burnout, you&#x27;ll be well on your way to becoming a proficient coder without getting overwhelmed by the vastness of the coding landscape. We encourage our readers to share this post with their networks and continue exploring the exciting world of coding!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Building Your Own Website</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/86-how-to-learn-to-code-by-building-your-own-website/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/86-how-to-learn-to-code-by-building-your-own-website/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for anyone looking to stay competitive in the job market. Whether you are a beginner or an experienced coder, learning how to build your own website can be a rewarding and challenging process. In this blog post, we explore ten simple steps that will help you learn the basics of coding while creating a unique and functional website for yourself or your business. From choosing the right platform and understanding HTML, CSS, and JavaScript to optimizing your site for search engines, we&#x27;ve got you covered. So, whether you are looking to improve your coding skills or want to build your own website from scratch, this post is a must-read! Join us as we dive into the world of web development and explore the exciting possibilities that await you in this rapidly evolving field. #LearnToCode #BuildYourOwnWebsite #CodingTips #WebDevResources</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code Without Relying on Tutorials</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for many professions. However, learning how to code can seem like a daunting task, especially for those who prefer self-directed learning over following tutorials. In this blog post, we will discuss ten points that will help you learn coding skills without relying solely on step-by-step guides. We will cover topics such as problem solving, reading code, practicing typing, collaborating with others, debugging, learning new languages, using online resources, mastering fundamentals, practicing real-world projects, and embracing failure. By implementing these strategies, you can develop a deeper understanding of programming principles and build practical coding skills. Let&#x27;s dive in!</summary>
+        </entry>
+</feed>

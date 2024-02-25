@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - coding-strategies</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/coding-strategies/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/coding-strategies/atom.xml</id><entry xml:lang="en">
+        <title>How to Stay Motivated When Learning to Code</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/108-how-to-stay-motivated-when-learning-to-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/108-how-to-stay-motivated-when-learning-to-code/</id>
+        <summary type="html">Learn how to stay motivated when learning to code with these 15 actionable tips! From setting clear goals to finding inspiration, discover strategies to keep you focused and passionate about your coding journey.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Apply What You&#x27;ve Learned from Coding Tutorials</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/52-how-to-apply-what-you-ve-learned-from-coding-tutorials/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/52-how-to-apply-what-you-ve-learned-from-coding-tutorials/</id>
+        <summary type="html">Navigate the transition from coding tutorials to real-world applications with these 15 actionable strategies. From open source contributions to coding challenges, master the art of practical coding.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Break Out of the Tutorial Rut and Start Building Your Own Projects</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/53-how-to-break-out-of-the-tutorial-rut-and-start-building-your-own-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/53-how-to-break-out-of-the-tutorial-rut-and-start-building-your-own-projects/</id>
+        <summary type="html">Escape the tutorial loop and embark on a coding journey of your own. Discover 15 actionable steps to transition from tutorials to building exciting, personalized projects. Unleash your coding creativity!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Coding Deadlines</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/</id>
+        <summary type="html">Discover 15 effective strategies to handle coding deadlines stress-free! From prioritizing tasks to effective communication, this guide has you covered.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Effectively Learn New Programming Languages</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/</id>
+        <summary type="html">Master the art of learning new programming languages! From hands-on practice to engaging with coding communities, this guide unveils effective strategies for a seamless language transition.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Feeling Overwhelmed</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/82-how-to-learn-coding-without-feeling-overwhelmed/</id>
+        <summary type="html">Embark on your coding journey without feeling overwhelmed. From setting clear goals to celebrating victories, this guide offers practical steps for a positive and steady learning experience.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Getting Stuck in Tutorial Hell</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/</id>
+        <summary type="html">Escape the tutorial trap! This guide unveils strategies to learn coding effectively without drowning in endless tutorials. Build skills, not just knowledge. #LearnToCode #CodingJourney
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code Without Relying on Tutorials</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/</id>
+        <summary type="html">Learn to code without relying on tutorials! Explore 15 effective strategies, from mastering basics to contributing to open source. Build a strong foundation, engage with coding communities, and embrace real-world projects. Elevate your skills and become a proficient coder!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code Fast Enough</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/</id>
+        <summary type="html">Learn how to conquer the fear of not coding fast enough with practical strategies. From setting realistic goals to embracing continuous learning, this blog guides you towards efficient and confident programming. Celebrate progress, prioritize understanding, and overcome the common challenges every coder faces. Share with your peers to boost collective coding success!
+</summary>
+        </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - customer-centricity</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/customer-centricity/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/customer-centricity/atom.xml</id><entry xml:lang="en">
+        <title>Tech Entrepreneurship: Navigating the Startup Rollercoaster</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/200-tech-entrepreneurship-navigating-the-startup-rollercoaster/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/200-tech-entrepreneurship-navigating-the-startup-rollercoaster/</id>
+        <summary type="html">In today&#x27;s fast-paced and dynamic tech landscape, entrepreneurship has become increasingly popular as more and more people are drawn towards creating their own tech ventures. However, starting a tech startup is not an easy feat; it&#x27;s a rollercoaster ride filled with highs and lows that can be both exhilarating and terrifying at the same time. In this blog post, we’ll explore ten key points for navigating this exciting yet challenging journey. From defining your vision and mission to managing cash flow, building partnerships, staying customer-centric, and embracing failure, we&#x27;ll provide practical tips and advice for building a successful tech startup. Whether you&#x27;re an aspiring entrepreneur or a seasoned pro, this blog post will offer insights and inspiration that can help you navigate the startup rollercoaster with confidence and resilience. So, buckle up, grab your seat belt, and join us on this thrilling journey as we explore the world of tech entrepreneurship!</summary>
+        </entry>
+</feed>

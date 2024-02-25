@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - value-objects</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/value-objects/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/value-objects/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Domain-Driven Design Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/224-the-importance-of-understanding-domain-driven-design-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/224-the-importance-of-understanding-domain-driven-design-principles/</id>
+        <summary type="html">In this blog post, we delve into the critical principles of domain-driven design (DDD) and why they matter for building better software. DDD is an approach that emphasizes gaining a deep understanding of the business domain and modeling it accurately in code. We explore 10 key concepts of DDD, including understanding the business domain, aggregates, bounded contexts, entities, value objects, services, repositories, events, CQRS, and aggregate roots. These principles help us to build software that accurately reflects the needs of the business and its users while promoting clarity, consistency, scalability, and maintainability. By implementing these concepts in our software development practices, we can ensure that our software is flexible, adaptable, and provides a platform for future growth. So, let&#x27;s all strive to apply these principles and build better software! Spread the word about DDD, and help more people discover its benefits!</summary>
+        </entry>
+</feed>

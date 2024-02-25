@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - consistency</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/consistency/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/consistency/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Distributed Programming Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/223-the-importance-of-understanding-distributed-programming-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/223-the-importance-of-understanding-distributed-programming-principles/</id>
+        <summary type="html">In today&#x27;s era of cloud computing and big data, distributed systems have become an integral part of modern-day software development. These systems are made up of multiple nodes or machines connected over a network, which makes it possible to distribute workloads across these nodes, improve reliability, and scale horizontally. However, working with distributed systems comes with its own set of challenges, including coordination, consistency, communication overhead, data replication, and network latency. In this blog post, we will discuss the importance of understanding distributed programming principles. We will dive into 10 critical principles that form the bedrock of distributed systems, including decentralization, consistency, partition tolerance, communication overhead, data replication, failure handling, coordination, scalability, security, and observability. By understanding these principles, developers can create distributed systems that are robust, reliable, and scalable in a distributed environment. This post is an essential read for anyone looking to understand the intricacies of distributed systems and learn how to design and develop them efficiently and reliably. We hope you find this post informative and insightful, and we welcome your feedback and suggestions for future topics. Stay tuned for more exciting content!</summary>
+        </entry><entry xml:lang="en">
+        <title>The Importance of Understanding Domain-Driven Design Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/224-the-importance-of-understanding-domain-driven-design-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/224-the-importance-of-understanding-domain-driven-design-principles/</id>
+        <summary type="html">In this blog post, we delve into the critical principles of domain-driven design (DDD) and why they matter for building better software. DDD is an approach that emphasizes gaining a deep understanding of the business domain and modeling it accurately in code. We explore 10 key concepts of DDD, including understanding the business domain, aggregates, bounded contexts, entities, value objects, services, repositories, events, CQRS, and aggregate roots. These principles help us to build software that accurately reflects the needs of the business and its users while promoting clarity, consistency, scalability, and maintainability. By implementing these concepts in our software development practices, we can ensure that our software is flexible, adaptable, and provides a platform for future growth. So, let&#x27;s all strive to apply these principles and build better software! Spread the word about DDD, and help more people discover its benefits!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Fast-Paced Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/191-strategies-for-learning-to-code-in-a-fast-paced-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/191-strategies-for-learning-to-code-in-a-fast-paced-environment/</id>
+        <summary type="html">In today&#x27;s fast-paced digital age, learning to code has become essential not just for computer science students but also for professionals across various fields. However, with the vast array of resources and technologies available, it can be overwhelming to learn coding in a fast-paced environment. In this blog post, we will explore ten strategies that will help you learn to code quickly and efficiently. From defining your goals to seeking feedback, these tips will provide you with the necessary tools and resources to develop practical coding skills that will help you succeed in today&#x27;s digital world. So, whether you are a beginner or an experienced developer, join us as we explore the strategies for learning to code in a fast-paced environment. Let&#x27;s dive in!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning Multiple Programming Languages</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/156-overcoming-the-challenges-of-learning-multiple-programming-languages/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/156-overcoming-the-challenges-of-learning-multiple-programming-languages/</id>
+        <summary type="html">In today&#x27;s ever-evolving technology landscape, learning multiple programming languages has become a necessity for developers looking to stay relevant and competitive in their respective industries. However, this process can be daunting and challenging, especially for beginners or those with limited experience. This blog post aims to provide ten practical points that can help overcome these challenges and make the language-learning journey more manageable and enjoyable. From setting realistic goals and prioritizing languages to using multiple resources, practicing consistently, collaborating with others, understanding concepts before moving on, reviewing previous learning, staying motivated, and being patient, this post provides insights and tips that can help readers become more versatile developers in the long run. By sharing these ideas and encouraging our readers to share their experiences, we hope to foster a supportive community of developers who are passionate about expanding their skillset and advancing their careers.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Stay Motivated When Learning to Code</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/108-how-to-stay-motivated-when-learning-to-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/108-how-to-stay-motivated-when-learning-to-code/</id>
+        <summary type="html">In today&#x27;s world, coding has become an essential skill for anyone looking to succeed in their career or pursue a passion project. However, learning to code can be overwhelming and challenging, leaving many beginners feeling demotivated and discouraged. That&#x27;s why we&#x27;ve compiled ten tips to help you stay motivated as you embark on your coding journey. From setting realistic goals to finding inspiration, collaboration, and positivity, these strategies will help you overcome obstacles, build confidence in your abilities, and achieve the success you&#x27;re looking for. Whether you&#x27;re new to programming or have been working on your skills for a while now, these tips are designed to provide actionable steps that will make all the difference. So, grab your keyboard, take a deep breath, and let&#x27;s get started!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Fear of Coding Mistakes</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an integral part of various industries, with developers playing a crucial role in creating innovative solutions. However, one of the most common fears that plagues developers is the fear of making mistakes while coding. This fear can be debilitating, leading to procrastination, anxiety, or even abandoning a project altogether. But what if we told you that it&#x27;s possible to overcome this fear? In this blog post, we&#x27;ll share 10 actionable tips on how to deal with the fear of coding mistakes. From accepting mistakes as part of the learning process and embracing a growth mindset to seeking feedback, practicing consistently, and staying calm and persistent, our tips aim to help developers approach coding with more confidence and less fear. By implementing these techniques, you can improve your skills, prevent errors, and become a more confident and skilled developer. So, whether you&#x27;re a seasoned coder or just starting your journey, let&#x27;s learn together how to overcome the fear of coding mistakes. Happy reading!</summary>
+        </entry><entry xml:lang="en">
+        <title>Building a Personal Brand in the Tech Community</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/29-building-a-personal-brand-in-the-tech-community/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/29-building-a-personal-brand-in-the-tech-community/</id>
+        <summary type="html">In today&#x27;s competitive tech industry, building a strong personal brand is essential for success. This blog post provides ten actionable steps to help tech professionals build their personal brands in the community. From defining your niche and developing a personal brand statement to consistently publishing content, networking with like-minded individuals, collaborating with others, leveraging social media effectively, building a strong offline reputation, continuously learning and improving, and being consistent, this post offers practical advice for anyone looking to establish themselves as an authority in their tech niche. By following these steps, you can attract followers, gain exposure, learn new skills, and expand your professional network. Share this post with others to help them build their personal brands too!</summary>
+        </entry>
+</feed>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - failure-as-opportunity</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/failure-as-opportunity/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/failure-as-opportunity/atom.xml</id><entry xml:lang="en">
+        <title>Staying Creative in a Tech-driven Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/165-staying-creative-in-a-tech-driven-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/165-staying-creative-in-a-tech-driven-environment/</id>
+        <summary type="html">In today&#x27;s technology-driven world, it can be challenging to maintain our creative spirit amidst the constant bombardment of screens and information. While digital tools and online collaboration have revolutionized the way we work, learn, and connect with others, they also pose a threat to creativity, leading to information overload, distraction, and fatigue. In this blog post, we explore ten tips on how to stay creative in a tech-driven environment, including disconnecting occasionally, embracing digital tools for inspiration, collaborating online, limiting screen time, seeking out analog experiences, fostering a growth mindset, practicing mindfulness and meditation, embracing diverse perspectives and experiences, learning and experimenting constantly, and staying curious and embracing failure. These strategies can help us balance the benefits and drawbacks of technology while cultivating creativity, learning, and growth in our tech-driven environment. Join us as we engage in a dialogue that fosters creativity, shares insights, and inspires innovation!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Competitive Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/</id>
+        <summary type="html">In today&#x27;s digitally connected world, coding skills have become an essential requirement for individuals looking to stay ahead in their respective fields. With automation and technology transforming industries worldwide, there is a pressing demand for individuals who can code efficiently and effectively. However, learning to code in such a competitive environment can be daunting. This blog post aims to offer 10 strategies that can help aspiring coders stand out from the crowd and become proficient in coding. From defining goals to continuously improving skills, this guide covers a range of approaches that will equip readers with the knowledge they need to thrive in an increasingly competitive job market. By following these tips, readers can take their coding abilities to new heights and make a real impact in their chosen fields. Whether you&#x27;re a seasoned coder or just starting out on your coding journey, this guide is sure to provide valuable insights and practical advice that will help you stay ahead of the curve. So, let&#x27;s get started!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Solve Coding Problems</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/101-how-to-overcome-the-fear-of-not-being-able-to-solve-coding-problems/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/101-how-to-overcome-the-fear-of-not-being-able-to-solve-coding-problems/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, coding is an essential skill for many professionals. However, even experienced developers can encounter coding problems that seem insurmountable. The fear of not being able to solve these issues can hinder progress and stunt personal and professional growth. In this blog post, we explore ten practical strategies to help developers overcome the fear of not being able to solve coding problems. From accepting normalcy in facing such challenges to seeking feedback from other developers, practicing self-care, learning new skills, and embracing failure as an opportunity for learning, this post provides a comprehensive guide to help coders approach these difficulties with greater clarity, focus, and determination. By adopting these strategies, developers can continue growing as a collective community and learn from the experiences of others. Join us in our quest to overcome coding problems and thrive in the tech world!</summary>
+        </entry>
+</feed>

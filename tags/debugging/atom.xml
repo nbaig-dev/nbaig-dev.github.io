@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - debugging</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/debugging/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/debugging/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Debugging</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/</id>
+        <summary type="html">As software developers, we often encounter the frustrating task of debugging. Whether it&#x27;s a simple syntax error or a complex memory leak issue, the process can be daunting and time-consuming. In this blog post, we discuss ten practical tips for dealing with frustration during debugging sessions. From staying calm and focused to using debugging tools effectively, collaborating with others, and learning from mistakes, these strategies aim to make the debugging process less painful and more productive. By following these tips, developers can approach debugging sessions with confidence and resilience, leading to more rewarding outcomes. Whether you&#x27;re a seasoned developer or a newcomer to the field, this post offers valuable insights and resources for tackling one of the most challenging aspects of software development. So let&#x27;s share our tips and experiences with debugging with the community and support each other in this journey!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Debugging Your Own Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/</id>
+        <summary type="html">In today&#x27;s world, where software applications are an integral part of our daily lives, debugging has become a critical aspect of software development. Debugging refers to the process of identifying and fixing errors or bugs in code that cause unexpected behavior or crashes. In this blog post, we will explore ten strategies for efficiently and effectively debugging your own code. These tips cover various aspects such as understanding your code, using debugging tools, testing early and often, following best practices, collaborating with others, learning from mistakes, debugging remote issues, and being patient and persistent. Whether you&#x27;re an experienced developer or just starting out, these tips will help you identify and fix bugs more quickly and efficiently, making the debugging process less painful and more productive. We hope that by sharing these strategies, we can inspire others to improve their debugging skills and promote software development best practices. So, join us as we delve into the world of debugging and explore ways to make it a more rewarding experience for all developers!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Effective Problem Solving in Coding</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/183-strategies-for-effective-problem-solving-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/183-strategies-for-effective-problem-solving-in-coding/</id>
+        <summary type="html">This blog post explores ten strategies for effective problem-solving in coding, essential skills that every developer must possess. The author highlights the importance of understanding the problem, breaking it down into smaller parts, collaborating with team members, using design patterns, practicing debugging techniques, embracing failure, using data-driven decision making, practicing cognitive reflection, leveraging automated testing, and continuously learning and improving. By following these strategies, developers can tackle complex coding challenges, maintain consistency and reliability in their codebase, and achieve better outcomes for themselves and their organizations. The author invites the reader to share this post with other developers and contribute to building a stronger and more collaborative developer community through their experiences related to effective problem-solving in coding.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code with No Prior Experience</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill for individuals looking to thrive in various industries. However, learning coding from scratch can be daunting for beginners with no prior experience. In this blog post, we present ten effective strategies that will help aspiring coders embark on a successful journey towards proficiency in programming languages like Python, Ruby, or JavaScript. From starting small and focused to joining communities of coders, this guide outlines practical tips that cover every aspect of the learning process, including mastering basics, problem-solving skills, debugging techniques, version control, collaboration, testing, and staying passionate and curious about learning new concepts. Whether you&#x27;re a complete beginner or struggling with the learning process, these strategies will provide the foundation and resources needed to develop strong coding principles and advance your skills over time. So, roll up your sleeves, grab your laptop, and let&#x27;s dive into the world of programming together! #LearnCodingTogether</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code Fast Enough</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for anyone looking to succeed in various industries. However, many people are hesitant to learn how to code due to the fear of not being able to do it quickly enough. This fear can be paralyzing and prevent individuals from ever starting their coding journey. In this blog post, we provide practical tips on how to overcome the fear of not being able to code fast enough. With 10 actionable points, we aim to help beginners develop confidence in their abilities, learn at their own pace, and build proficiency in coding. From embracing learning at one&#x27;s own pace to utilizing resources, consistent practice, focusing on understanding concepts, collaborating with others, learning shortcuts and optimization techniques, debugging, and not giving up, this post aims to provide a comprehensive guide for anyone looking to overcome their fear of not being able to code fast enough. We believe that everyone can become proficient in coding with dedication, persistence, and hard work. Join us as we explore these practical tips and create a community of learners who support and encourage one another!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code Without Relying on Tutorials</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/90-how-to-learn-to-code-without-relying-on-tutorials/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for many professions. However, learning how to code can seem like a daunting task, especially for those who prefer self-directed learning over following tutorials. In this blog post, we will discuss ten points that will help you learn coding skills without relying solely on step-by-step guides. We will cover topics such as problem solving, reading code, practicing typing, collaborating with others, debugging, learning new languages, using online resources, mastering fundamentals, practicing real-world projects, and embracing failure. By implementing these strategies, you can develop a deeper understanding of programming principles and build practical coding skills. Let&#x27;s dive in!</summary>
+        </entry>
+</feed>

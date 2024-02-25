@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - confidence-building</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/confidence-building/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/confidence-building/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Good Enough in Coding</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/</id>
+        <summary type="html">Discover 15 actionable strategies to overcome the fear of not being good enough in coding. From setting realistic goals to embracing failure, this comprehensive guide provides insights, tips, and a roadmap for building confidence on your coding journey. Don&#x27;t let self-doubt hold you back—embrace progress and thrive in the world of coding!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Building Confidence in Tech Decision-Making</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/</id>
+        <summary type="html">Elevate your tech decision-making with confidence! Explore 15 strategies, from staying informed to embracing a growth mindset. Empower your choices in the dynamic world of technology.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Coding in Front of Others</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/94-how-to-overcome-the-fear-of-coding-in-front-of-others/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/94-how-to-overcome-the-fear-of-coding-in-front-of-others/</id>
+        <summary type="html">Discover 15 actionable strategies to overcome the fear of coding in front of others. From acknowledging your feelings to building confidence through practice, this guide provides practical tips for every developer. Conquer your coding anxiety and foster a supportive learning environment. Share the journey with others seeking to overcome this common hurdle in the world of programming.
+</summary>
+        </entry>
+</feed>

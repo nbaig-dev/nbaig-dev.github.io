@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - cultural-competence</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/cultural-competence/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/cultural-competence/atom.xml</id><entry xml:lang="en">
+        <title>Developing Emotional Intelligence in the Tech World</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/</id>
+        <summary type="html">In our rapidly evolving tech industry, where innovation and productivity are highly valued, emotional intelligence is increasingly becoming a critical component for success. Emotional intelligence allows individuals to navigate complex relationships with colleagues, stakeholders, and customers, which is essential for driving innovation and achieving business objectives. In this blog post, we explore ten ways to develop emotional intelligence in the tech world, emphasizing active listening, empathy, self-awareness, conflict management, cultural competence, feedback skills, gratitude, communication abilities, adaptability, and work-life balance. By implementing these strategies, individuals can better manage relationships with team members and stakeholders, ultimately leading to a more empathetic, productive, and innovative tech industry overall. We encourage our readers to share this post with their teams, organizations, and peers to promote the development of emotional intelligence in the tech world. Together, we can create a more cohesive and effective tech industry that prioritizes both innovation and interpersonal relationships.</summary>
+        </entry>
+</feed>

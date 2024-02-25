@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - self-care-practices</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/self-care-practices/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/self-care-practices/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Fear of Starting Your First Real Project</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/164-overcoming-the-fear-of-starting-your-first-real-project/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/164-overcoming-the-fear-of-starting-your-first-real-project/</id>
+        <summary type="html">In today&#x27;s digital age, programming has become an essential skill for many individuals and businesses alike. However, starting your first real project can be overwhelming, especially if you&#x27;re new to programming. In this blog post, we explore ten strategies that can help overcome the fear of starting your first real project and build the confidence you need to succeed. From defining your project goals and breaking them into smaller tasks to getting feedback, focusing on progress instead of perfection, practicing self-care, embracing failure as a learning opportunity, staying motivated, learning from experts, and being kind to yourself throughout the process, this post provides practical tips that will help you tackle your first project with confidence. Whether you&#x27;re a seasoned developer or just starting out, these strategies can be applied to any programming language or framework. So, if you&#x27;re feeling hesitant about taking the first step, read on and learn how to overcome your fears and achieve your goals in the world of programming!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with Distractions While Coding</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/169-strategies-for-dealing-with-distractions-while-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/169-strategies-for-dealing-with-distractions-while-coding/</id>
+        <summary type="html">In today&#x27;s digital era, distractions have become an inevitable part of our daily routine, especially for software developers who spend a significant amount of time in front of their computers. From social media notifications to emails, there are numerous potential sources of disruption that can hinder our productivity and progress as coders. In this blog post, we explore ten practical strategies for dealing with distractions while coding, designed to help you stay focused, minimize interruptions, and maximize your efficiency as a programmer. These tips are tried-and-tested by experienced developers and cover everything from creating a dedicated workspace to practicing self-care techniques that promote mental and physical health. Whether you&#x27;re working in a team environment or sharing a workspace with others, these tactics can significantly improve your coding output and help you stay focused on your coding goals more efficiently and effectively than ever before. By implementing these strategies and taking a proactive approach to managing distractions, you can achieve optimal productivity as a software developer, even in today&#x27;s digital age. So, if you&#x27;re looking for practical tips on how to deal with distractions while coding, this blog post has got you covered!</summary>
+        </entry>
+</feed>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - automation</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/automation/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/automation/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Keeping Up with the Latest Coding Best Practices</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/</id>
+        <summary type="html">In today&#x27;s fast-paced world, staying updated with the latest coding best practices is crucial for any developer. With new languages, frameworks, and tools emerging every day, it can be challenging to keep up. But neglecting these best practices can result in subpar code quality, increased maintenance costs, and decreased productivity. In this blog post, we provide 10 actionable tips for overcoming the challenges of keeping up with the latest coding best practices. From making a habit of learning continuously to collaborating with peers, we discuss practical strategies that developers can adopt to improve their skills and stay ahead of the curve. Whether you&#x27;re a seasoned developer or just starting out, this post is for you. Join us as we explore the world of coding best practices and learn how to overcome the challenges of staying up-to-date in a fast-evolving field. Let&#x27;s dive into these 10 tips together!</summary>
+        </entry><entry xml:lang="en">
+        <title>Effective Time Management for Tech Entrepreneurs</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/44-effective-time-management-for-tech-entrepreneurs/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/44-effective-time-management-for-tech-entrepreneurs/</id>
+        <summary type="html">As tech entrepreneurs, managing our time efficiently is crucial to achieving success while maintaining a healthy work-life balance. However, with multiple priorities and projects competing for our attention, it&#x27;s easy to become overwhelmed and fall into counterproductive habits. In this blog post, we explore 10 strategies that can help tech entrepreneurs manage their time more effectively. From prioritizing tasks based on importance and urgency to practicing mindfulness and meditation, these strategies will not only increase productivity but also reduce stress levels and improve decision-making abilities. Whether you&#x27;re a seasoned tech entrepreneur or just starting out, these tips are applicable to anyone looking to optimize their time management skills. So, roll up your sleeves, grab a cup of coffee, and let&#x27;s dive into this post!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Complexity of Large Codebases</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/54-how-to-deal-with-the-complexity-of-large-codebases/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/54-how-to-deal-with-the-complexity-of-large-codebases/</id>
+        <summary type="html">In today&#x27;s software development landscape, managing large and complex codebases has become an increasingly common challenge for developers worldwide. As applications grow in size and complexity, it can be overwhelming to maintain, scale, and add new features to these systems. In this blog post, we explore 10 practical strategies that can help you manage large codebases effectively.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Fear of Coding Mistakes</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an integral part of various industries, with developers playing a crucial role in creating innovative solutions. However, one of the most common fears that plagues developers is the fear of making mistakes while coding. This fear can be debilitating, leading to procrastination, anxiety, or even abandoning a project altogether. But what if we told you that it&#x27;s possible to overcome this fear? In this blog post, we&#x27;ll share 10 actionable tips on how to deal with the fear of coding mistakes. From accepting mistakes as part of the learning process and embracing a growth mindset to seeking feedback, practicing consistently, and staying calm and persistent, our tips aim to help developers approach coding with more confidence and less fear. By implementing these techniques, you can improve your skills, prevent errors, and become a more confident and skilled developer. So, whether you&#x27;re a seasoned coder or just starting your journey, let&#x27;s learn together how to overcome the fear of coding mistakes. Happy reading!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Delivering Quality Code Quickly</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/68-how-to-deal-with-the-pressure-of-delivering-quality-code-quickly/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/68-how-to-deal-with-the-pressure-of-delivering-quality-code-quickly/</id>
+        <summary type="html">In today&#x27;s fast-paced software development industry, delivering high-quality code quickly has become a necessity for most organizations. However, striking the right balance between speed and efficiency can be a daunting task for developers. This blog post aims to provide practical tips on how to deal with the pressure of delivering quality code quickly while balancing speed and efficiency.</summary>
+        </entry>
+</feed>

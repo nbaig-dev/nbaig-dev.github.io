@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - remote-teams</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/remote-teams/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/remote-teams/atom.xml</id><entry xml:lang="en">
+        <title>Managing Remote Tech Teams Effectively</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/114-managing-remote-tech-teams-effectively/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/114-managing-remote-tech-teams-effectively/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, remote work has become increasingly popular among tech teams worldwide. While working remotely offers numerous benefits such as cost savings on office space and equipment, improved work-life balance, and access to a wider pool of talent, managing remote tech teams comes with its unique set of challenges. In this blog post, we explore ten key strategies for effectively managing remote tech teams, covering topics ranging from defining clear roles and responsibilities to fostering a sense of shared purpose among team members. By following these strategies, you can build high-performing remote teams that are productive, collaborative, and committed to the organization&#x27;s mission. Whether you&#x27;re a seasoned manager or just starting out in your career, we hope you find these tips helpful!</summary>
+        </entry>
+</feed>

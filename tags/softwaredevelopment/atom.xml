@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - softwaredevelopment</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/softwaredevelopment/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/softwaredevelopment/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Overwhelming Amount of Coding Resources</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/181-strategies-for-dealing-with-the-overwhelming-amount-of-coding-resources/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/181-strategies-for-dealing-with-the-overwhelming-amount-of-coding-resources/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for individuals seeking to excel in various fields. With a plethora of resources available online, learning and mastering coding concepts can be both exciting and overwhelming. However, navigating through the vast landscape of coding resources requires a strategic approach that ensures the selection of reputable sources, focus on quality over quantity, consistent practice, and collaboration with others in the industry. In this blog post, we explore ten strategies for dealing with the overwhelming amount of coding resources available online, including defining goals, seeking out feedback, keeping up-to-date with industry trends, and sharing knowledge with others. By implementing these strategies, aspiring coders can deepen their understanding of coding concepts, stay competitive in a rapidly evolving field, and achieve their development goals. So, if you&#x27;re new to coding or struggling with any aspects of your learning journey, join us as we share our insights and experiences in this post. Let&#x27;s work together to help each other grow as coders and stay up-to-date with the latest trends and technologies in our field.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Debugging Your Own Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/</id>
+        <summary type="html">In today&#x27;s world, where software applications are an integral part of our daily lives, debugging has become a critical aspect of software development. Debugging refers to the process of identifying and fixing errors or bugs in code that cause unexpected behavior or crashes. In this blog post, we will explore ten strategies for efficiently and effectively debugging your own code. These tips cover various aspects such as understanding your code, using debugging tools, testing early and often, following best practices, collaborating with others, learning from mistakes, debugging remote issues, and being patient and persistent. Whether you&#x27;re an experienced developer or just starting out, these tips will help you identify and fix bugs more quickly and efficiently, making the debugging process less painful and more productive. We hope that by sharing these strategies, we can inspire others to improve their debugging skills and promote software development best practices. So, join us as we delve into the world of debugging and explore ways to make it a more rewarding experience for all developers!</summary>
+        </entry>
+</feed>

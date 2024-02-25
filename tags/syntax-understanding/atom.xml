@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - syntax-understanding</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/syntax-understanding/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/syntax-understanding/atom.xml</id><entry xml:lang="en">
+        <title>How to Effectively Learn New Programming Languages</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/77-how-to-effectively-learn-new-programming-languages/</id>
+        <summary type="html">As technology continues to evolve, learning new programming languages becomes an essential skill for developers. However, mastering a new language can be a daunting task. In this blog post, we&#x27;ll provide ten effective ways to learn new programming languages. From researching the language thoroughly to continuously improving your skills through practical exercises and projects, our tips cover every aspect of learning a new language efficiently and comprehensively. Whether you&#x27;re a beginner or an experienced developer, these strategies will help you enhance your understanding of syntax, functions, and operations in real-world scenarios. So, grab your computer, and let&#x27;s dive into the world of programming!</summary>
+        </entry>
+</feed>

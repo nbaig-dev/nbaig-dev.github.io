@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - continuous-learning</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/continuous-learning/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-07T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/continuous-learning/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Changing Environment</title>
+        <published>2024-03-07T00:00:00+00:00</published>
+        <updated>2024-03-07T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/</id>
+        <summary type="html">Discover how developers can thrive in a constantly evolving tech landscape! From mastering new languages to embracing agile methodologies, explore 15 strategies to overcome challenges. Unleash your potential in the dynamic world of software development.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Dynamic Environment</title>
+        <published>2024-03-07T00:00:00+00:00</published>
+        <updated>2024-03-07T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/129-overcoming-the-challenges-of-being-a-developer-in-a-dynamic-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/129-overcoming-the-challenges-of-being-a-developer-in-a-dynamic-environment/</id>
+        <summary type="html">Explore the intricacies of navigating a dynamic developer landscape in our comprehensive blog post. From rapid tech shifts to collaboration hurdles, discover 15 strategies to thrive amid challenges. A must-read for developers aiming to conquer the ever-evolving coding realm.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Improving Communication Skills for Tech Professionals</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/</id>
+        <summary type="html">Unlock success in the tech world with our comprehensive guide on improving communication skills. From tailoring your message to mastering the art of listening, elevate your career with 15 key insights. Continuous learning and adaptability are your passport to effective communication in the dynamic tech landscape.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Building Resilience in the Face of Tech Challenges</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/34-building-resilience-in-the-face-of-tech-challenges/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/34-building-resilience-in-the-face-of-tech-challenges/</id>
+        <summary type="html">Empower your tech journey with resilience! Explore 15 strategies to face challenges head-on, from cultivating a growth mindset to maintaining well-being. Thrive in the dynamic world of technology!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Cultivating a Growth Mindset in Tech</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/38-cultivating-a-growth-mindset-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/38-cultivating-a-growth-mindset-in-tech/</id>
+        <summary type="html">Unlock success in tech with a growth mindset! Dive into 15 strategies for continuous learning, resilience, and innovation. Cultivate a mindset that thrives on challenges and embraces constant improvement.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Effective Problem-Solving Strategies for Tech Issues</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/43-effective-problem-solving-strategies-for-tech-issues/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/43-effective-problem-solving-strategies-for-tech-issues/</id>
+        <summary type="html">Master the art of problem-solving in the tech industry! Explore 15 strategies to tackle challenges effectively. Enhance your skills and contribute to seamless operations in the dynamic world of technology.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Fast-Paced Nature of the Tech Industry</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/56-how-to-deal-with-the-fast-paced-nature-of-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/56-how-to-deal-with-the-fast-paced-nature-of-the-tech-industry/</id>
+        <summary type="html">Master the art of thriving in the dynamic tech industry with 15 strategies. From continuous learning to efficient time management, navigate the fast-paced world of technology successfully.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Being a Tech Consultant</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/59-how-to-deal-with-the-pressure-of-being-a-tech-consultant/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/59-how-to-deal-with-the-pressure-of-being-a-tech-consultant/</id>
+        <summary type="html">Master the art of tech consultancy with 15 proven strategies! From client management to crisis handling, this guide offers insights for navigating the pressures and thriving in the dynamic field.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Having to Know Everything in Tech</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/69-how-to-deal-with-the-pressure-of-having-to-know-everything-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/69-how-to-deal-with-the-pressure-of-having-to-know-everything-in-tech/</id>
+        <summary type="html">Discover how to navigate the relentless demand for tech knowledge. From setting realistic goals to prioritizing mental health, learn strategies to overcome the pressure and thrive in the dynamic world of technology.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Keeping Up with Tech Trends</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/70-how-to-deal-with-the-pressure-of-keeping-up-with-tech-trends/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/70-how-to-deal-with-the-pressure-of-keeping-up-with-tech-trends/</id>
+        <summary type="html">Discover effective strategies to conquer the pressure of keeping up with tech trends. From efficient learning tactics to prioritizing mental health, this guide empowers you to thrive in the dynamic tech landscape. #TechTrends #CareerSuccess
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Uncertainty in the Tech Industry</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/74-how-to-deal-with-the-uncertainty-in-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/74-how-to-deal-with-the-uncertainty-in-the-tech-industry/</id>
+        <summary type="html">Navigate uncertainty in the tech industry with resilience. From continuous learning to financial planning, this guide equips you to thrive amid change. #TechIndustry #Adaptability
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Develop a Growth Mindset in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/</id>
+        <summary type="html">Unlock the secrets to fostering a growth mindset in coding. From embracing challenges to continuous learning, this guide empowers you to thrive on the coding journey.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Keep Up with New Technologies Without Getting Overwhelmed</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/80-how-to-keep-up-with-new-technologies-without-getting-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/80-how-to-keep-up-with-new-technologies-without-getting-overwhelmed/</id>
+        <summary type="html">Navigate the ever-changing tech landscape with ease. From focused learning goals to community engagement, this guide empowers you to stay updated on new technologies without feeling overwhelmed.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Being Outdated in Tech</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/93-how-to-overcome-the-fear-of-being-outdated-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/93-how-to-overcome-the-fear-of-being-outdated-in-tech/</id>
+        <summary type="html">Stay ahead in tech! Overcome the fear of obsolescence with 15 actionable strategies. From continuous learning to networking, discover how to thrive in the ever-evolving tech landscape. Your career evolution starts now!
+</summary>
+        </entry>
+</feed>

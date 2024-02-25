@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - constructive-criticism</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/constructive-criticism/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/constructive-criticism/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Fear of Code Reviews</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/163-overcoming-the-fear-of-code-reviews/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/163-overcoming-the-fear-of-code-reviews/</id>
+        <summary type="html">In software development, code reviews are a critical process that helps identify potential issues, improve code quality, and promote collaboration among team members. However, receiving feedback on our code can be nerve-wracking, especially if it&#x27;s critical or leads to a lengthy discussion. In this blog post, we explore ten tips that can help overcome the fear of code reviews, including embracing feedback, understanding the review process, being prepared, responding positively, not taking it personally, collaborating, asking questions, learning from feedback, practicing self-care, and communicating effectively. By implementing these tips, developers can improve their coding skills, foster a positive work environment, and make code reviews less intimidating and more collaborative. Join us as we share these insights with the developer community using the hashtag #CodeReviewTips. Let&#x27;s work together towards making code reviews a productive and valuable experience for everyone involved!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Handling Criticism in Code Reviews</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/185-strategies-for-handling-criticism-in-code-reviews/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/185-strategies-for-handling-criticism-in-code-reviews/</id>
+        <summary type="html">In today&#x27;s fast-paced software development industry, code reviews are an essential part of the development process. They enable teams to catch bugs, ensure compliance with coding standards, and identify areas for improvement. However, receiving criticism during a code review can be challenging, as harsh or unfounded feedback can be demoralizing and hinder productivity. In this blog post, we will discuss strategies for handling criticism in code reviews that are aimed at helping developers navigate through these situations with grace and professionalism. By following the ten points discussed in this article, developers can improve their collaboration skills, foster a more productive team environment, and continuously enhance their skills as software engineers. The post includes practical tips for listening to feedback, evaluating criticism objectively, communicating clearly, maintaining professionalism, practicing empathy, and learning from feedback. We encourage our readers to share any additional strategies they use in the comments section below. Let&#x27;s work together to build better software and improve our development practices!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Handle Criticism in the Tech Industry</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/78-how-to-handle-criticism-in-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/78-how-to-handle-criticism-in-the-tech-industry/</id>
+        <summary type="html">In today&#x27;s tech industry, where innovation and progress are constantly pushing the boundaries, criticism is an inevitable part of professional life for any tech professional. Whether it&#x27;s from customers, stakeholders, or fellow techies, feedback can be both constructive and destructive. While some criticisms are easy to accept and learn from, others can be downright demoralizing. So, let&#x27;s start our journey towards becoming better tech professionals!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Participating in Pair Programming</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/88-how-to-learn-to-code-by-participating-in-pair-programming/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/88-how-to-learn-to-code-by-participating-in-pair-programming/</id>
+        <summary type="html">In our fast-paced digital world, coding skills have become increasingly crucial in almost every industry. However, learning how to code can be a daunting task for many individuals. That&#x27;s where pair programming comes into play. In this blog post, we explore 10 points on how to learn to code by participating in pair programming.</summary>
+        </entry>
+</feed>

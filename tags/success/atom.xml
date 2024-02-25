@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - success</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/success/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/success/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming Procrastination in Tech Projects</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/123-overcoming-procrastination-in-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/123-overcoming-procrastination-in-tech-projects/</id>
+        <summary type="html">In today&#x27;s fast-paced world, where technology is advancing at breakneck speed, the pressure on tech professionals to deliver successful projects has increased exponentially. However, one common challenge that plagues many in this industry is procrastination – the habitual avoidance of starting or completing tasks despite their importance. Procrastination can lead to missed deadlines, decreased productivity, and ultimately, project failure. In this blog post, we&#x27;ll explore ten practical tips for overcoming procrastination in tech projects based on scientific research, personal experience, and best practices from experts in the field. These strategies are designed to help individuals clarify their goals and priorities, break tasks into smaller chunks, set realistic deadlines, eliminate distractions, practice time management, develop a routine, prioritize self-care, collaborate with others, learn to say &#x27;no,&#x27; and embrace failure. By implementing these tips, we can overcome procrastination and deliver successful tech projects. So, whether you&#x27;re a seasoned tech professional or a beginner, read on to discover practical strategies for overcoming procrastination in your tech projects.</summary>
+        </entry><entry xml:lang="en">
+        <title>Finding Mentorship in the Tech Industry</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/46-finding-mentorship-in-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/46-finding-mentorship-in-the-tech-industry/</id>
+        <summary type="html">In today’s highly competitive tech industry, finding guidance and support from experienced professionals in the form of mentorship can significantly impact your professional growth and success. In this blog post, we will explore ten ways to find mentorship opportunities in the tech industry. From attending tech events to joining industry communities, collaborating with peers, seeking feedback, participating in challenges, reading publications, finding role models, connecting with speakers, and joining tech meetups, this guide provides practical tips for building relationships with industry experts and learning from their experiences. Whether you&#x27;re a newcomer to the field or an experienced professional looking to take your career to the next level, these strategies will help you find mentors who can provide invaluable insights, guidance, and support along your journey towards professional growth and success. We hope this post inspires you to take actionable steps towards finding a mentor and building a successful career in the tech industry!</summary>
+        </entry>
+</feed>

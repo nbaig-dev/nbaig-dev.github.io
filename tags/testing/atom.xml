@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - testing</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/testing/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/testing/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Declarative Programming Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/220-the-importance-of-understanding-declarative-programming-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/220-the-importance-of-understanding-declarative-programming-principles/</id>
+        <summary type="html">In this blog post, we explore the significance of understanding declarative programming principles for modern software development. With the evolution of programming paradigms, declarative programming has emerged as a crucial aspect that offers several advantages over traditional imperative programming. We delve into 10 crucial points that highlight the importance of declarative programming principles in software development. From better expressiveness and enhanced reusability to improved scalability and facilitated integration with other technologies, declarative programming brings significant benefits to modern software development practices. We encourage our readers to share their experiences with declarative programming and how it has impacted their software development practices. Together, we can continue to learn and improve our understanding of this exciting and rapidly evolving field. Let&#x27;s work together to create more efficient, maintainable, and flexible applications for a better tomorrow!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Debugging</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/</id>
+        <summary type="html">As software developers, we often encounter the frustrating task of debugging. Whether it&#x27;s a simple syntax error or a complex memory leak issue, the process can be daunting and time-consuming. In this blog post, we discuss ten practical tips for dealing with frustration during debugging sessions. From staying calm and focused to using debugging tools effectively, collaborating with others, and learning from mistakes, these strategies aim to make the debugging process less painful and more productive. By following these tips, developers can approach debugging sessions with confidence and resilience, leading to more rewarding outcomes. Whether you&#x27;re a seasoned developer or a newcomer to the field, this post offers valuable insights and resources for tackling one of the most challenging aspects of software development. So let&#x27;s share our tips and experiences with debugging with the community and support each other in this journey!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Debugging Your Own Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/</id>
+        <summary type="html">In today&#x27;s world, where software applications are an integral part of our daily lives, debugging has become a critical aspect of software development. Debugging refers to the process of identifying and fixing errors or bugs in code that cause unexpected behavior or crashes. In this blog post, we will explore ten strategies for efficiently and effectively debugging your own code. These tips cover various aspects such as understanding your code, using debugging tools, testing early and often, following best practices, collaborating with others, learning from mistakes, debugging remote issues, and being patient and persistent. Whether you&#x27;re an experienced developer or just starting out, these tips will help you identify and fix bugs more quickly and efficiently, making the debugging process less painful and more productive. We hope that by sharing these strategies, we can inspire others to improve their debugging skills and promote software development best practices. So, join us as we delve into the world of debugging and explore ways to make it a more rewarding experience for all developers!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Learning to Code with No Prior Experience</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/197-strategies-for-learning-to-code-with-no-prior-experience/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill for individuals looking to thrive in various industries. However, learning coding from scratch can be daunting for beginners with no prior experience. In this blog post, we present ten effective strategies that will help aspiring coders embark on a successful journey towards proficiency in programming languages like Python, Ruby, or JavaScript. From starting small and focused to joining communities of coders, this guide outlines practical tips that cover every aspect of the learning process, including mastering basics, problem-solving skills, debugging techniques, version control, collaboration, testing, and staying passionate and curious about learning new concepts. Whether you&#x27;re a complete beginner or struggling with the learning process, these strategies will provide the foundation and resources needed to develop strong coding principles and advance your skills over time. So, roll up your sleeves, grab your laptop, and let&#x27;s dive into the world of programming together! #LearnCodingTogether</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Transition from Coding Tutorials to Real Projects</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/</id>
+        <summary type="html">As a beginner coder, transitioning from coding tutorials to real projects can be overwhelming due to the complexity and unpredictability involved. To help make this transition more successful, we&#x27;ve compiled ten tips that cover everything from defining your project&#x27;s scope and goals to deploying it to production. By implementing these tips, you&#x27;ll gain a deeper understanding of frameworks and libraries, learn how to optimize for performance and user experience, and collaborate with others effectively. Whether you&#x27;re building a tool, website, or application, these tips will help you make the most of your project and set you up for success in your coding journey. So what are you waiting for? Read on and start implementing these tips today!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Use Documentation as a Learning Tool</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/111-how-to-use-documentation-as-a-learning-tool/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/111-how-to-use-documentation-as-a-learning-tool/</id>
+        <summary type="html">In today&#x27;s fast-paced world of software development, documentation is often overlooked as a mere requirement to fulfill rather than a valuable resource that can help developers learn and grow. However, this blog post argues that documentation can serve as a powerful learning tool for new or junior developers in several ways. In this article, we present ten points that illustrate the various benefits of using documentation as a learning resource. The post begins by highlighting the importance of understanding the system&#x27;s architecture and design decisions, followed by detailed instructions on how to use each component. Next, it emphasizes the need for explaining error messages and providing insights into system testing, security, performance, and roadmap. Finally, it suggests guidelines for contributing to the project and encourages readers to share the post with their peers and colleagues. This blog post is written in a clear and concise style, using plain language and avoiding technical jargon wherever possible. It is accessible to developers of all levels and serves as an excellent resource for anyone looking to improve their documentation skills or learn about a new system.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Break Out of the Tutorial Rut and Start Building Your Own Projects</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/53-how-to-break-out-of-the-tutorial-rut-and-start-building-your-own-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/53-how-to-break-out-of-the-tutorial-rut-and-start-building-your-own-projects/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, it&#x27;s easy to get stuck in the tutorial rut - constantly consuming content but never applying what you&#x27;ve learned. However, building your own projects is the key to breaking free from this cycle and gaining valuable practical experience. In this blog post, we share ten actionable points that can help you transition from tutorials to real-world project development. From defining your project idea and identifying learning objectives to collaborating with others, testing, launching, and continuously improving - this guide covers everything you need to know to build a successful product. So whether you&#x27;re a beginner or an experienced developer, this post is a must-read for anyone looking to take their skills to the next level!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Fear of Coding Mistakes</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an integral part of various industries, with developers playing a crucial role in creating innovative solutions. However, one of the most common fears that plagues developers is the fear of making mistakes while coding. This fear can be debilitating, leading to procrastination, anxiety, or even abandoning a project altogether. But what if we told you that it&#x27;s possible to overcome this fear? In this blog post, we&#x27;ll share 10 actionable tips on how to deal with the fear of coding mistakes. From accepting mistakes as part of the learning process and embracing a growth mindset to seeking feedback, practicing consistently, and staying calm and persistent, our tips aim to help developers approach coding with more confidence and less fear. By implementing these techniques, you can improve your skills, prevent errors, and become a more confident and skilled developer. So, whether you&#x27;re a seasoned coder or just starting your journey, let&#x27;s learn together how to overcome the fear of coding mistakes. Happy reading!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Coding Deadlines</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/</id>
+        <summary type="html">In today&#x27;s fast-paced software development landscape, meeting coding deadlines has become an ever-increasing challenge for many developers. The pressure to deliver high-quality code on time can lead to stress and anxiety, affecting both productivity and mental health. However, by implementing practical strategies and techniques, it is possible to manage coding deadlines better, reduce stress levels, and still deliver quality code. In this blog post, we explore ten such strategies that developers can use immediately to deal effectively with coding deadlines. These strategies range from prioritizing tasks and breaking them down into smaller subtasks to practicing self-care, collaborating effectively, learning to say no when necessary, testing thoroughly, and refactoring regularly. By implementing these strategies proactively and communicating effectively with stakeholders and team members, developers can significantly reduce stress levels, improve productivity, and deliver high-quality code on time. Let&#x27;s dive into each strategy in detail and explore how we can implement them immediately to manage coding deadlines better.</summary>
+        </entry>
+</feed>

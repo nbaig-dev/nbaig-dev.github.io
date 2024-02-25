@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - active-listening</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/active-listening/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/active-listening/atom.xml</id><entry xml:lang="en">
+        <title>The Art of Negotiation in Tech Salary Discussions</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/209-the-art-of-negotiation-in-tech-salary-discussions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/209-the-art-of-negotiation-in-tech-salary-discussions/</id>
+        <summary type="html">In today&#x27;s tech industry, salary negotiations have become an essential part of the job search process due to the high demand for skilled professionals outweighing supply. This blog post provides ten essential tips on how to master the art of negotiation in tech salary discussions. From doing thorough research about the company and industry to practicing active listening and being confident and assertive, these tips will help tech professionals approach negotiations with confidence and poise. The article also emphasizes the importance of understanding the company&#x27;s financials and culture, being prepared to compromise, following up appropriately, and being ready to walk away if necessary. By applying these strategies, tech professionals can negotiate a fair and commensurate salary that reflects their skills and experience. This blog post aims to provide a valuable resource for tech professionals looking to navigate the complex and often intimidating process of salary negotiations with ease and confidence.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Knowing Enough in Tech</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, it&#x27;s no secret that knowledge is essential for success in the tech industry. However, with the vast amount of information and complexity involved, it can be challenging to know where to start and what to learn. This fear of not knowing enough is a common obstacle for many individuals looking to enter or advance within this field. In this blog post, we&#x27;ll provide practical tips on how to overcome this fear and thrive in the tech industry.</summary>
+        </entry><entry xml:lang="en">
+        <title>Improving Communication Skills for Tech Professionals</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/</id>
+        <summary type="html">In today&#x27;s tech-driven world, it&#x27;s no longer enough to have exceptional technical expertise. Effective communication skills are also critical for success in any tech-related role. In this blog post, we explore 10 essential tips for improving communication skills specifically for tech professionals. From active listening and clarity in communication to persuasion, empathy, cultural awareness, emotional intelligence, and continuous improvement, these strategies will help tech professionals communicate more effectively in both professional and personal settings. By following the tips outlined in this post, readers can cultivate essential communication skills that will drive success throughout their careers. We encourage our readers to share this post with their networks and colleagues who might benefit from these tips and invite them to join us on this journey towards mastering communication skills for tech professionals!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Asking for Help in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/</id>
+        <summary type="html">In today&#x27;s tech-driven world, coding has become an essential skill for many individuals. However, the fear of asking for help in coding is a common obstacle that prevents some developers from fully realizing their potential. In this blog post, we explore ten tips to help coders overcome this fear and achieve success. The post covers topics such as embracing ignorance, identifying resources, practicing active listening, seeking out mentors, and more. We also provide insights into the importance of collaboration and learning from failure. By following these tips, coders can develop the skills and confidence needed to succeed in the field. We encourage our readers to share their experiences and insights in the comments below, as we believe that supporting each other is key to growth and success in coding.</summary>
+        </entry><entry xml:lang="en">
+        <title>Developing Emotional Intelligence in the Tech World</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/</id>
+        <summary type="html">In our rapidly evolving tech industry, where innovation and productivity are highly valued, emotional intelligence is increasingly becoming a critical component for success. Emotional intelligence allows individuals to navigate complex relationships with colleagues, stakeholders, and customers, which is essential for driving innovation and achieving business objectives. In this blog post, we explore ten ways to develop emotional intelligence in the tech world, emphasizing active listening, empathy, self-awareness, conflict management, cultural competence, feedback skills, gratitude, communication abilities, adaptability, and work-life balance. By implementing these strategies, individuals can better manage relationships with team members and stakeholders, ultimately leading to a more empathetic, productive, and innovative tech industry overall. We encourage our readers to share this post with their teams, organizations, and peers to promote the development of emotional intelligence in the tech world. Together, we can create a more cohesive and effective tech industry that prioritizes both innovation and interpersonal relationships.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Being a Tech Mentor</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/64-how-to-deal-with-the-pressure-of-being-a-tech-mentor/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/64-how-to-deal-with-the-pressure-of-being-a-tech-mentor/</id>
+        <summary type="html">In this blog post, we explore the challenges and pressure that come with being a tech mentor and provide tips for success. We cover topics such as defining your role, establishing boundaries, effective communication, building a support network, staying up-to-date, encouraging independence, providing feedback, managing time effectively, active listening, and celebrating successes. Our aim is to help tech mentors navigate the unique demands of their role and build fulfilling and successful mentoring relationships. By implementing these strategies, we hope that you can thrive as a tech mentor and make a meaningful impact on your mentees&#x27; learning journey. Share this post with others in the tech community to promote a more supportive and connected ecosystem!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Handle Criticism in the Tech Industry</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/78-how-to-handle-criticism-in-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/78-how-to-handle-criticism-in-the-tech-industry/</id>
+        <summary type="html">In today&#x27;s tech industry, where innovation and progress are constantly pushing the boundaries, criticism is an inevitable part of professional life for any tech professional. Whether it&#x27;s from customers, stakeholders, or fellow techies, feedback can be both constructive and destructive. While some criticisms are easy to accept and learn from, others can be downright demoralizing. So, let&#x27;s start our journey towards becoming better tech professionals!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn to Code by Participating in Pair Programming</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/88-how-to-learn-to-code-by-participating-in-pair-programming/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/88-how-to-learn-to-code-by-participating-in-pair-programming/</id>
+        <summary type="html">In our fast-paced digital world, coding skills have become increasingly crucial in almost every industry. However, learning how to code can be a daunting task for many individuals. That&#x27;s where pair programming comes into play. In this blog post, we explore 10 points on how to learn to code by participating in pair programming.</summary>
+        </entry>
+</feed>

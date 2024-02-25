@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - organization</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/organization/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/organization/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Not Being Able to Debug Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/175-strategies-for-dealing-with-the-frustration-of-not-being-able-to-debug-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/175-strategies-for-dealing-with-the-frustration-of-not-being-able-to-debug-code/</id>
+        <summary type="html">As software developers, we have all experienced the frustration that comes with trying to identify and fix issues in our code. In this blog post, we share ten practical strategies for dealing with this frustration more effectively. These tips are designed to help you understand the problem, break it down into smaller pieces, use debugging tools, collaborate with others, simplify, take a break, test thoroughly, learn from mistakes, stay organized, and persist in finding a solution. By implementing these strategies, you can become a more effective debugger and overcome the frustrations of debugging code, ultimately leading to more robust and reliable software applications. So, if you&#x27;re struggling with debugging, read on and discover how you can make this process less daunting and more manageable.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Being a Full Stack Developer</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/58-how-to-deal-with-the-pressure-of-being-a-full-stack-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/58-how-to-deal-with-the-pressure-of-being-a-full-stack-developer/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, full stack development has become an essential part of creating cutting-edge web applications. However, with such significant responsibility comes immense pressure that can take a toll on a developer&#x27;s mental and physical wellbeing. In this blog post, we explore ten practical strategies to help full stack developers manage the pressure associated with their work effectively. From prioritizing tasks, communicating effectively, and embracing continuous learning, to managing time wisely, staying calm under pressure, testing early and often, staying organized and documented, and staying passionate about your work, these tips cover everything from time management and communication skills to staying up-to-date with the latest technologies. By implementing these strategies in their daily workflow, full stack developers can stay organized, focused, and productive over time, and continue contributing to the exciting world of full stack development. Let&#x27;s take a closer look at each tip and explore how it can help us better manage pressure as a full stack developer!</summary>
+        </entry>
+</feed>

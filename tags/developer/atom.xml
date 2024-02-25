@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - developer</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/developer/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/developer/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a High Tech Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/133-overcoming-the-challenges-of-being-a-developer-in-a-high-tech-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/133-overcoming-the-challenges-of-being-a-developer-in-a-high-tech-environment/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, being a developer in a high-tech environment presents both exciting opportunities and significant challenges. The need for staying updated with emerging trends and technologies while managing project deadlines and meeting business objectives can be overwhelming at times. However, by embracing lifelong learning, collaboration, agility, quality, DevOps, code reviews, stress management, and a focus on clients&#x27; needs, developers can overcome these challenges and succeed in this competitive industry. In this blog post, we explore ten strategies that can help developers navigate the challenges of working in a high-tech environment and deliver high-quality code that meets client expectations while also staying abreast of emerging technologies. Whether you&#x27;re a seasoned developer or just starting out, these tips will help you stay ahead of the curve and thrive in this dynamic field. So, let&#x27;s collaborate, learn, and grow together! Join us as we explore the world of high-tech development and share your insights and experiences with the community. Together, we can make a difference!</summary>
+        </entry>
+</feed>

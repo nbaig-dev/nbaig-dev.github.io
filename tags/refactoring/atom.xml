@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - refactoring</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/refactoring/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/refactoring/atom.xml</id><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Coding Deadlines</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/65-how-to-deal-with-the-pressure-of-coding-deadlines/</id>
+        <summary type="html">In today&#x27;s fast-paced software development landscape, meeting coding deadlines has become an ever-increasing challenge for many developers. The pressure to deliver high-quality code on time can lead to stress and anxiety, affecting both productivity and mental health. However, by implementing practical strategies and techniques, it is possible to manage coding deadlines better, reduce stress levels, and still deliver quality code. In this blog post, we explore ten such strategies that developers can use immediately to deal effectively with coding deadlines. These strategies range from prioritizing tasks and breaking them down into smaller subtasks to practicing self-care, collaborating effectively, learning to say no when necessary, testing thoroughly, and refactoring regularly. By implementing these strategies proactively and communicating effectively with stakeholders and team members, developers can significantly reduce stress levels, improve productivity, and deliver high-quality code on time. Let&#x27;s dive into each strategy in detail and explore how we can implement them immediately to manage coding deadlines better.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Delivering Quality Code Quickly</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/68-how-to-deal-with-the-pressure-of-delivering-quality-code-quickly/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/68-how-to-deal-with-the-pressure-of-delivering-quality-code-quickly/</id>
+        <summary type="html">In today&#x27;s fast-paced software development industry, delivering high-quality code quickly has become a necessity for most organizations. However, striking the right balance between speed and efficiency can be a daunting task for developers. This blog post aims to provide practical tips on how to deal with the pressure of delivering quality code quickly while balancing speed and efficiency.</summary>
+        </entry>
+</feed>

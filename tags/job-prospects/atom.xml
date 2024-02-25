@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - job-prospects</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/job-prospects/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/job-prospects/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Small Startup</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/139-overcoming-the-challenges-of-being-a-developer-in-a-small-startup/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/139-overcoming-the-challenges-of-being-a-developer-in-a-small-startup/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, small startups have emerged as innovative hubs that offer unique opportunities for developers to learn, grow and make an impact on society. However, these environments come with their own set of challenges such as limited resources, tight deadlines, high pressure, and a lack of industry connections, which can hinder developer growth and job prospects in the future. In this blog post, we explore these challenges and offer practical strategies to help overcome them. We emphasize the importance of open communication, self-care, work-life balance, collaboration, and knowledge sharing, as well as seeking out mentorship and professional development opportunities. Our goal is to provide a comprehensive guide for developers working for small startups, helping them navigate through these challenges and deliver quality work consistently. Through our blog post, we hope to spark meaningful discussions within the developer community, share insights, experiences, and best practices, and ultimately contribute towards building a better tomorrow together.</summary>
+        </entry>
+</feed>

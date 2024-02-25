@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - peer-learning</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/peer-learning/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/peer-learning/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Group Setting</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/192-strategies-for-learning-to-code-in-a-group-setting/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/192-strategies-for-learning-to-code-in-a-group-setting/</id>
+        <summary type="html">In recent times, coding has become an indispensable skill that is in high demand across various industries. However, learning to code can be daunting, particularly for beginners. Group settings offer unique opportunities for learners to collaborate, share knowledge, and support each other in the learning process. In this blog post, we explore ten strategies that individuals can use to learn coding effectively in a group setting. We establish clear goals, define roles and responsibilities, communicate effectively, embrace collaboration, foster a supportive environment, provide opportunities for hands-on learning, encourage peer learning, emphasize problem-solving skills, promote time management, and reflect on learning experiences. By following these strategies, learners can develop the skills they need to become proficient coders while fostering a productive and supportive team environment. Our blog post provides actionable insights that anyone can use to enhance their coding skills in group settings, regardless of their experience level. Whether you&#x27;re an experienced coder or just starting your coding journey, this post offers practical tips that can help you improve your coding skills and collaborate effectively with others. We encourage our readers to share their thoughts and suggestions for improvement below the post. Together, let&#x27;s help each other learn to code effectively in group settings!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Learning New Tech Stacks</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/157-overcoming-the-challenges-of-learning-new-tech-stacks/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, proficiency in multiple tech stacks has become a necessity for developers. However, learning new tech stacks can be an intimidating task. In this blog post, we&#x27;ve compiled ten tips that can help overcome the challenges of learning new tech stacks. Our tips include identifying reasons for learning, researching and planning your approach, breaking down learning into smaller pieces, practicing consistently, leveraging online resources, seeking out mentorship or peer learning opportunities, embracing failure as a learning opportunity, collaborating with others, being open to learning new concepts and tools, and reflecting on progress regularly. By following these tips, you&#x27;ll be better equipped to develop proficiency in new tech stacks and thrive in today&#x27;s dynamic tech landscape. Share your thoughts and experiences in the comments section below, and let&#x27;s continue learning and growing together as a community!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn by Teaching Others to Code</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/81-how-to-learn-by-teaching-others-to-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/81-how-to-learn-by-teaching-others-to-code/</id>
+        <summary type="html">In today&#x27;s fast-paced world, coding has become an essential skill for individuals seeking career opportunities in technology. While many people learn to code on their own, teaching others how to code can be an effective way to consolidate one&#x27;s skills while making a positive impact on the community. In this blog post, we explore ten ways that individuals can learn by teaching others how to code. From understanding concepts thoroughly and identifying target audiences to providing feedback, fostering creativity, practicing empathy, and staying updated with the latest trends in coding, these tips help teachers create an engaging and comprehensive learning experience for their students. By sharing this post with others, we hope to spread knowledge and empower each other through peer learning!</summary>
+        </entry>
+</feed>

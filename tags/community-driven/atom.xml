@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - community-driven.</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/community-driven/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/community-driven/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Working in a Fast-Paced Tech Startup</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/161-overcoming-the-challenges-of-working-in-a-fast-paced-tech-startup/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/161-overcoming-the-challenges-of-working-in-a-fast-paced-tech-startup/</id>
+        <summary type="html">In our fast-paced tech startup environment, staying ahead of the competition while delivering high-quality products and services can be challenging. This 8000-word blog post aims to provide practical tips for employees who want to excel in their roles and navigate through the challenges that come with working in a fast-paced tech startup. From embracing change, staying agile, fostering collaboration, focusing on results, managing stress, developing technical expertise, fostering innovation, developing soft skills, staying customer focused, and contributing to the community, this post offers ten actionable insights that will help you thrive in such an environment. Whether you&#x27;re a seasoned professional or a newcomer to the tech startup world, these tips will enable you to contribute constructively to your team, deliver high-quality work consistently, and make a positive impact on society as a whole. We encourage you to share this post with your peers, mentors, or coaches and collaborate closely to learn from each other and improve collectively. Together, we can build a more innovative, customer-focused, and community-driven tech startup that makes a positive impact on society.</summary>
+        </entry>
+</feed>

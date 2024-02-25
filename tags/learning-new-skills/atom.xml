@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - learning-new-skills</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/learning-new-skills/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/learning-new-skills/atom.xml</id><entry xml:lang="en">
+        <title>Strategies to Break Out of the Coding Comfort Zone</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/199-strategies-to-break-out-of-the-coding-comfort-zone/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/199-strategies-to-break-out-of-the-coding-comfort-zone/</id>
+        <summary type="html">In today&#x27;s fast-paced world, being comfortable with our programming skills can sometimes hold us back from advancing our careers as developers. However, breaking out of this coding comfort zone doesn&#x27;t have to be daunting. In this blog post, we share ten strategies that can help you expand your skillset and take your coding abilities to the next level. From exploring new languages and frameworks to seeking feedback and criticism, we provide practical tips on how to improve your productivity and enhance your career prospects as a developer. By implementing these strategies, you&#x27;ll be well on your way to becoming a more versatile and skilled developer. So why wait? Let&#x27;s dive in and start breaking out of our coding comfort zones today!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Freelance Developer</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/144-overcoming-the-challenges-of-being-a-freelance-developer/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/144-overcoming-the-challenges-of-being-a-freelance-developer/</id>
+        <summary type="html">In today&#x27;s rapidly evolving digital landscape, freelance development has become an increasingly popular career path for many tech-savvy individuals seeking independence and flexibility in their work. However, being a successful freelancer isn&#x27;t without its challenges, from finding consistent work to managing finances, dealing with rejection, and maintaining a healthy work-life balance. In this blog post, we explore these obstacles and provide practical tips for overcoming them. From pricing your services to building an effective portfolio and learning new skills, our expert insights offer valuable advice that can help you thrive as an independent developer. Whether you&#x27;re just starting out or a seasoned pro looking to hone your skills, this post is packed with actionable insights that will empower you to succeed in the freelance development space!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Being Outdated in Tech</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/93-how-to-overcome-the-fear-of-being-outdated-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/93-how-to-overcome-the-fear-of-being-outdated-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-paced technology landscape, it can be challenging to stay updated with the latest trends and developments. Fear of becoming outdated or obsolete is a common sentiment among individuals working in tech. However, this fear can hinder one&#x27;s growth and lead to missed opportunities. In this blog post, we will explore ten practical ways to overcome the fear of being outdated in tech. Our strategies include staying updated with industry trends, learning new skills, collaborating with colleagues, embracing failure, networking, continuously learning, embracing change, seeking feedback, upgrading your toolset, and developing a growth mindset. By implementing these strategies, individuals can adapt to new technologies, remain relevant, and succeed in the tech industry. We hope this blog post will provide practical ways to overcome the fear of being outdated in tech and encourage our readers to share it with their peers and colleagues to help them stay updated with the latest trends in the tech industry. Together, let&#x27;s embrace change, learn continuously, and grow together!</summary>
+        </entry>
+</feed>

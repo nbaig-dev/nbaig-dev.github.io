@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - risk-management</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/risk-management/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-25T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/risk-management/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Big Corporation</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/125-overcoming-the-challenges-of-being-a-developer-in-a-big-corporation/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/125-overcoming-the-challenges-of-being-a-developer-in-a-big-corporation/</id>
+        <summary type="html">As developers, we often face unique challenges while working in big corporations. From managing stakeholder expectations to enhancing team collaboration and performance, these obstacles can make it difficult to thrive in this environment. In this blog post, we&#x27;ll explore ten strategies and best practices that developers can use to overcome these challenges and deliver optimal results. By building relationships, collaborating effectively, navigating resource constraints, balancing short-term vs long-term needs, managing risk and security concerns, enhancing collaborative development practices, supporting continuous improvement and learning, managing stakeholder expectations, and improving team collaboration and performance, developers can succeed in big corporations. Let&#x27;s dive into these strategies and learn how we can overcome the challenges that come with working in a corporate environment. Whether you&#x27;re a seasoned developer or just starting out, this post will provide valuable insights and actionable advice to help you navigate the complex world of big corporation life. So, buckle up and let&#x27;s explore the tips and tricks that will help us overcome the challenges of being a developer in a big corporation! #DeveloperChallenges #BigCorporationLife #CollaborativeDevelopment</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Develop a Project Portfolio from Scratch</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/76-how-to-develop-a-project-portfolio-from-scratch/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/76-how-to-develop-a-project-portfolio-from-scratch/</id>
+        <summary type="html">In today&#x27;s fast-paced business environment, organizations are constantly looking for ways to improve their performance, stay competitive, and achieve strategic objectives. One of the best ways to accomplish these goals is by developing a project portfolio that aligns with the organization&#x27;s strategy, manages risks, and optimizes resource utilization. This blog post provides a step-by-step guide on how to develop a project portfolio from scratch.</summary>
+        </entry>
+</feed>

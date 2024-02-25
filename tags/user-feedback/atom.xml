@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - user-feedback</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/user-feedback/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-22T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/user-feedback/atom.xml</id><entry xml:lang="en">
+        <title>Balancing Innovation with Stability in Tech</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/26-balancing-innovation-with-stability-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/26-balancing-innovation-with-stability-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, striking a balance between innovation and stability is no easy feat for companies. While innovation fuels growth, stability is critical to customer satisfaction and retention. In this blog post, we explore ten ways that tech companies can find the sweet spot between innovation and stability. By defining priorities, fostering collaboration, embracing user feedback, investing in continuous learning and training, implementing agile development methodologies, prioritizing security and reliability, conducting regular risk assessments, focusing on user experience, communicating effectively with customers, and continuously monitoring and adapting, companies can achieve success while ensuring customer satisfaction and retention. Join us as we delve deeper into these strategies and share your experiences and insights in the comments section below! #InnovationStabilityBalance #TechChallenges #ContinuousLearning #AgileDevelopment #UserExperience #CollaborativeCulture</summary>
+        </entry>
+</feed>

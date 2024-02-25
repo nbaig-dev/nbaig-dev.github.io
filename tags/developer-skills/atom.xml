@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - developer-skills</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/developer-skills/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-07T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/developer-skills/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Changing Environment</title>
+        <published>2024-03-07T00:00:00+00:00</published>
+        <updated>2024-03-07T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/</id>
+        <summary type="html">Discover how developers can thrive in a constantly evolving tech landscape! From mastering new languages to embracing agile methodologies, explore 15 strategies to overcome challenges. Unleash your potential in the dynamic world of software development.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Transition from Coding Tutorials to Real Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/</id>
+        <summary type="html">Learn how to move from coding tutorials to real projects effectively! Discover 15 actionable tips, from setting achievable milestones to embracing version control. Start your journey to becoming a proficient developer today.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code Fast Enough</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/</id>
+        <summary type="html">Learn how to conquer the fear of not coding fast enough with practical strategies. From setting realistic goals to embracing continuous learning, this blog guides you towards efficient and confident programming. Celebrate progress, prioritize understanding, and overcome the common challenges every coder faces. Share with your peers to boost collective coding success!
+</summary>
+        </entry>
+</feed>

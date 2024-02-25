@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - project-management</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/project-management/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-07T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/project-management/atom.xml</id><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Collaborative Environment</title>
+        <published>2024-03-07T00:00:00+00:00</published>
+        <updated>2024-03-07T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/127-overcoming-the-challenges-of-being-a-developer-in-a-collaborative-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/127-overcoming-the-challenges-of-being-a-developer-in-a-collaborative-environment/</id>
+        <summary type="html">Unlock the secrets to seamless collaboration in software development! Dive into 15 key challenges faced by developers and discover practical strategies for success. From communication breakdowns to handling remote work, this guide has you covered. Level up your teamwork today!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Starting Your Own Tech Project</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/106-how-to-overcome-the-fear-of-starting-your-own-tech-project/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/106-how-to-overcome-the-fear-of-starting-your-own-tech-project/</id>
+        <summary type="html">Unlock the potential of your tech dreams with our guide on overcoming the fear of starting a project. From defining vision to celebrating wins, discover 15 actionable strategies for a successful journey. Embrace the unknown and turn fear into fuel for your tech aspirations!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Stay Motivated During Challenging Tech Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/107-how-to-stay-motivated-during-challenging-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/107-how-to-stay-motivated-during-challenging-tech-projects/</id>
+        <summary type="html">Discover the secrets to unwavering motivation in challenging tech projects. Our guide unveils 15 actionable strategies, from goal setting to celebrating wins. Stay motivated, conquer challenges, and achieve project success!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Transition from Coding Tutorials to Real Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/</id>
+        <summary type="html">Learn how to move from coding tutorials to real projects effectively! Discover 15 actionable tips, from setting achievable milestones to embracing version control. Start your journey to becoming a proficient developer today.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming Perfectionism in Tech Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/</id>
+        <summary type="html">Dive into strategies to conquer perfectionism in tech projects. From setting realistic goals to fostering a growth mindset, discover 15 actionable tips for balancing quality and progress. Overcome hurdles, celebrate milestones, and lead your team to success!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming Procrastination in Tech Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/123-overcoming-procrastination-in-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/123-overcoming-procrastination-in-tech-projects/</id>
+        <summary type="html">Explore 15 actionable strategies to conquer procrastination in tech projects. From breaking down tasks to fostering a growth mindset, this guide empowers professionals to boost productivity and meet project goals head-on. Share with your team for a more efficient and successful workflow!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Effective Collaboration Tools for Remote Tech Teams</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/42-effective-collaboration-tools-for-remote-tech-teams/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/42-effective-collaboration-tools-for-remote-tech-teams/</id>
+        <summary type="html">Empower your remote tech team with top-notch collaboration tools! Explore 15 essential platforms to streamline communication, project management, and development. Elevate your virtual collaboration game now!
+</summary>
+        </entry>
+</feed>

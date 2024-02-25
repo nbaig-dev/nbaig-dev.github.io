@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - phishing-emails</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/phishing-emails/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/phishing-emails/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding Cybersecurity Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/218-the-importance-of-understanding-cybersecurity-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/218-the-importance-of-understanding-cybersecurity-principles/</id>
+        <summary type="html">In today&#x27;s digitally interconnected world, cyber threats are becoming increasingly prevalent. From phishing emails to ransomware attacks, individuals and organizations alike face numerous risks. In light of this, it is crucial for everyone to understand basic cybersecurity principles to protect themselves from these dangers. This blog post aims to explore ten essential cybersecurity principles that everyone should know. By implementing these principles, individuals and organizations can mitigate potential threats and help ensure the security of sensitive data. The post covers topics such as keeping software up-to-date, using strong passwords, limiting access to sensitive data, implementing multi-factor authentication, backing up data regularly, training employees on cybersecurity best practices, using encryption, regularly testing systems and networks, implementing access controls, and regularly monitoring systems and networks. By spreading awareness about these principles through sharing this post, we can create a safer and more secure digital world for everyone!</summary>
+        </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tips-for-presenting-coding-skills</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tips-for-presenting-coding-skills/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tips-for-presenting-coding-skills/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Coding in Front of Others</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/94-how-to-overcome-the-fear-of-coding-in-front-of-others/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/94-how-to-overcome-the-fear-of-coding-in-front-of-others/</id>
+        <summary type="html">In today&#x27;s age of rapid technological advancement, coding has become an indispensable skill for anyone seeking to succeed in the job market. However, learning how to code can be daunting, especially when it comes to presenting your work in front of others. The fear of coding in front of others is a common obstacle that many aspiring coders face. In this blog post, we explore ten practical tips on how to overcome this fear and gain confidence in showcasing your skills. From practicing regularly to seeking feedback constructively, these tips offer actionable advice that can help anyone, regardless of their coding experience level, feel more comfortable presenting their work. Joining a community, collaborating with others, communicating effectively, embracing mistakes, staying positive, and prioritizing self-care are all essential components for overcoming the fear of coding in front of others. By following these tips, you can develop the confidence to showcase your coding skills effectively and become more comfortable presenting your work in front of others. This blog post aims to help aspiring coders overcome their fears, learn from others, and grow as developers. We encourage our readers to share this post with others who may benefit from these insights and continue learning, growing, and supporting each other in the world of coding. Let&#x27;s embrace the learning process, make mistakes, and develop the confidence we need to showcase our skills effectively!</summary>
+        </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - learning-from-others</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/learning-from-others/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/learning-from-others/atom.xml</id><entry xml:lang="en">
+        <title>Dealing with Failure: Lessons from the Tech Industry</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/40-dealing-with-failure-lessons-from-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/40-dealing-with-failure-lessons-from-the-tech-industry/</id>
+        <summary type="html">In today&#x27;s dynamic and ever-evolving tech industry, failure is an inevitable part of the journey towards success. However, it&#x27;s not just about achieving success but also learning from failures that matter most. In this blog post, we explore 10 lessons learned from the tech industry on dealing with failure. We delve into topics such as embracing failure as a learning opportunity, learning from mistakes, collaborating and communicating, taking risks, failing fast, adapting and pivoting, persevering, fostering a growth mindset, building resilience, and learning from others. These lessons will not only help us transform failures into opportunities for learning, growth, and innovation but also create a culture of resilience, collaboration, and empowerment in the tech industry. Let&#x27;s share these lessons with others and inspire a new generation of innovators and entrepreneurs to embrace failure as a stepping stone towards success. #DealingWithFailureInTech #LearningFromFailures #ResilienceInTech #InnovationInAction #EmpoweringEntrepreneurs #CollaborativeCulture #GrowthMindset #PerseveranceInTech.</summary>
+        </entry>
+</feed>

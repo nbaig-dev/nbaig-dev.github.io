@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - self-care-for-developers</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/self-care-for-developers/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/self-care-for-developers/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Staying Focused During Long Coding Sessions</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/198-strategies-for-staying-focused-during-long-coding-sessions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/198-strategies-for-staying-focused-during-long-coding-sessions/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, long coding sessions have become the norm for many developers as they work to complete complex projects or fix bugs. However, staying focused during these extended periods can be challenging, with distractions and burnout often getting in the way of productivity. In this blog post, we explore 10 strategies that you can use to stay focused during long coding sessions. From setting realistic goals and prioritizing tasks to minimizing distractions, taking breaks, managing stress and anxiety, collaborating with your team, staying hydrated, fueling your body, and embracing your unique working style, this post offers practical tips for improving focus, productivity, and wellbeing during long coding sessions. So whether you&#x27;re a seasoned developer or just starting out, these strategies can help you stay on track and avoid the pitfalls of burnout and distraction. Give them a try during your next long coding session, and see how they work for you!</summary>
+        </entry>
+</feed>

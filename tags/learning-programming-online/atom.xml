@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - learning-programming-online</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/learning-programming-online/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/learning-programming-online/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code from Scratch</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/</id>
+        <summary type="html">In today&#x27;s digital age, programming skills have become an indispensable asset for professionals in various fields. However, learning how to code from scratch can be intimidating, particularly if you lack prior experience or education in computer science. The fear of not being able to code can hold people back from exploring this exciting field and all the opportunities it offers. In this blog post, we&#x27;re going to explore ten practical tips that can help you overcome your fears and embark on a coding journey with confidence. By starting small, practicing consistently, breaking down complex tasks, utilizing online resources, collaborating with others, embracing failure, learning from others&#x27; code, seeking out mentors, staying curious, and believing in yourself, you can develop the skills and knowledge needed to become a proficient coder. So if you&#x27;re new to coding or have been struggling to overcome your fears, this post is for you. We hope these tips will help you take the first step towards a rewarding and exciting journey into the world of programming!</summary>
+        </entry>
+</feed>

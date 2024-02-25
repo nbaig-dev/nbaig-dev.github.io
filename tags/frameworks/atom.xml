@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - frameworks</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/frameworks/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/frameworks/atom.xml</id><entry xml:lang="en">
+        <title>Strategies to Break Out of the Coding Comfort Zone</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/199-strategies-to-break-out-of-the-coding-comfort-zone/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/199-strategies-to-break-out-of-the-coding-comfort-zone/</id>
+        <summary type="html">In today&#x27;s fast-paced world, being comfortable with our programming skills can sometimes hold us back from advancing our careers as developers. However, breaking out of this coding comfort zone doesn&#x27;t have to be daunting. In this blog post, we share ten strategies that can help you expand your skillset and take your coding abilities to the next level. From exploring new languages and frameworks to seeking feedback and criticism, we provide practical tips on how to improve your productivity and enhance your career prospects as a developer. By implementing these strategies, you&#x27;ll be well on your way to becoming a more versatile and skilled developer. So why wait? Let&#x27;s dive in and start breaking out of our coding comfort zones today!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Keeping Up with the Latest Coding Best Practices</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/153-overcoming-the-challenges-of-keeping-up-with-the-latest-coding-best-practices/</id>
+        <summary type="html">In today&#x27;s fast-paced world, staying updated with the latest coding best practices is crucial for any developer. With new languages, frameworks, and tools emerging every day, it can be challenging to keep up. But neglecting these best practices can result in subpar code quality, increased maintenance costs, and decreased productivity. In this blog post, we provide 10 actionable tips for overcoming the challenges of keeping up with the latest coding best practices. From making a habit of learning continuously to collaborating with peers, we discuss practical strategies that developers can adopt to improve their skills and stay ahead of the curve. Whether you&#x27;re a seasoned developer or just starting out, this post is for you. Join us as we explore the world of coding best practices and learn how to overcome the challenges of staying up-to-date in a fast-evolving field. Let&#x27;s dive into these 10 tips together!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Keeping Your Coding Skills Up to Date</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/154-overcoming-the-challenges-of-keeping-your-coding-skills-up-to-date/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/154-overcoming-the-challenges-of-keeping-your-coding-skills-up-to-date/</id>
+        <summary type="html">In today&#x27;s fast-paced and constantly evolving world of technology, it&#x27;s essential for developers and coders to keep their skills up-to-date. This is not an easy task given the plethora of new programming languages, frameworks, and tools emerging every day. But neglecting to update coding skills could lead to missed opportunities, lower productivity, and even job loss in some cases. In this blog post, we&#x27;ll discuss ten ways to overcome the challenges of keeping your coding skills current. From setting realistic goals to seeking feedback and collaborating with others, this post offers practical advice for coders looking to stay competitive in the job market. We&#x27;ll also emphasize the importance of continuous learning, staying updated with industry trends, and encouraging learning within your team. By following these tips, you can ensure that your coding skills remain relevant and in demand in an ever-changing landscape. Whether you&#x27;re a seasoned developer or just starting out, this post is for you. So grab your favorite beverage, sit back, and let&#x27;s dive into the world of coding skills updates!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Transition from Coding Tutorials to Real Projects</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/110-how-to-transition-from-coding-tutorials-to-real-projects/</id>
+        <summary type="html">As a beginner coder, transitioning from coding tutorials to real projects can be overwhelming due to the complexity and unpredictability involved. To help make this transition more successful, we&#x27;ve compiled ten tips that cover everything from defining your project&#x27;s scope and goals to deploying it to production. By implementing these tips, you&#x27;ll gain a deeper understanding of frameworks and libraries, learn how to optimize for performance and user experience, and collaborate with others effectively. Whether you&#x27;re building a tool, website, or application, these tips will help you make the most of your project and set you up for success in your coding journey. So what are you waiting for? Read on and start implementing these tips today!</summary>
+        </entry>
+</feed>

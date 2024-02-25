@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - email-management</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/email-management/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/email-management/atom.xml</id><entry xml:lang="en">
+        <title>Managing Information Overload in the Tech Age</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/113-managing-information-overload-in-the-tech-age/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/113-managing-information-overload-in-the-tech-age/</id>
+        <summary type="html">In this age of technology where we are constantly bombarded with an overwhelming amount of information, it can be challenging to manage and process all that we are exposed to. From emails and notifications to social media updates and news alerts, it&#x27;s easy to feel overwhelmed and stressed out. However, in this blog post, we explore practical tips for managing information overload in the tech age. By setting aside dedicated time for checking emails and messages, unsubscribing from unnecessary newsletters, using email filters and labels, scheduling social media time, muting or unfollowing irrelevant content, using a task manager, learning to say no, using a dedicated note-taking app, limiting screen time before bed, and practicing mindfulness, we can all work towards managing information overload more effectively and improving our overall well-being. These tips are practical and easy to implement, making them accessible to anyone looking to better manage their digital life. Whether you&#x27;re a student, professional, or simply someone who uses technology frequently, these tips can help you stay on top of your workload, reduce stress levels, and improve productivity. By following these practical tips, we can all learn to better navigate the digital age and enjoy a healthier, happier life.</summary>
+        </entry>
+</feed>

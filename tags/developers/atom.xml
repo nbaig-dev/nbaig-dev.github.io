@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - developers</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/developers/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/developers/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Debugging</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/</id>
+        <summary type="html">As software developers, we often encounter the frustrating task of debugging. Whether it&#x27;s a simple syntax error or a complex memory leak issue, the process can be daunting and time-consuming. In this blog post, we discuss ten practical tips for dealing with frustration during debugging sessions. From staying calm and focused to using debugging tools effectively, collaborating with others, and learning from mistakes, these strategies aim to make the debugging process less painful and more productive. By following these tips, developers can approach debugging sessions with confidence and resilience, leading to more rewarding outcomes. Whether you&#x27;re a seasoned developer or a newcomer to the field, this post offers valuable insights and resources for tackling one of the most challenging aspects of software development. So let&#x27;s share our tips and experiences with debugging with the community and support each other in this journey!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with the Isolation of Remote Coding</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/179-strategies-for-dealing-with-the-isolation-of-remote-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/179-strategies-for-dealing-with-the-isolation-of-remote-coding/</id>
+        <summary type="html">In today&#x27;s world, remote work has become increasingly popular due to various reasons such as cost savings, improved work-life balance, and access to a wider pool of talent. However, one major challenge that comes with working remotely is the isolation that developers experience while coding from home or any other location. This blog post, consisting of 8000 words, offers ten strategies for dealing with the isolation of remote coding, specifically designed for developers working remotely. The strategies discussed include establishing a routine, collaborating with others, networking online, taking breaks, setting boundaries, practicing self-care, joining online communities, seeking feedback, staying connected with colleagues, and celebrating wins. By following these strategies, developers can combat isolation while working remotely, stay motivated, and maintain productivity. We hope that these strategies will help you deal with the isolation of remote coding and make your work experience more enjoyable and productive. Share this post with your colleagues and friends to spread the word about these strategies!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Changing Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/126-overcoming-the-challenges-of-being-a-developer-in-a-changing-environment/</id>
+        <summary type="html">As technology continues to evolve at an unprecedented pace, the world of software development has become increasingly complex and dynamic. In this blog post, we explore ten ways developers can overcome these challenges and thrive in a rapidly evolving environment. From embracing change and focusing on user experience to prioritizing security and privacy, ensuring maintainability, adopting agile methodologies, leveraging emerging technologies, and cultivating a growth mindset, developers can stay ahead of the curve and create innovative, effective solutions that meet the needs of their target audience. By following these tips, developers can adapt to changing requirements, feedback, and technologies, collaborate effectively with their teams, and prioritize continuous learning and improvement. Whether you&#x27;re an experienced developer or just starting out in your career, this post provides valuable insights and actionable advice for navigating the ever-evolving world of software development.</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Physical Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/137-overcoming-the-challenges-of-being-a-developer-in-a-physical-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/137-overcoming-the-challenges-of-being-a-developer-in-a-physical-environment/</id>
+        <summary type="html">As software development continues to evolve, the challenges that developers face in physical environments become increasingly complex. Whether working from home or in an office space, finding the right workspace, managing workload, collaborating with others, and dealing with burnout are all essential factors for maintaining productivity and overall wellbeing. In this blog post, we&#x27;ll explore ten tips for overcoming these challenges, providing practical advice and insights that can help developers stay ahead of the curve. From setting clear goals and objectives to building a strong network of fellow developers, these tips will provide a roadmap for success in the world of software development. Whether you&#x27;re a seasoned pro or just starting out, this post is an essential resource for anyone looking to thrive as a developer in a physical environment. So, grab your laptop and let&#x27;s dive into the world of software development, where innovation, collaboration, and creativity reign supreme!</summary>
+        </entry>
+</feed>

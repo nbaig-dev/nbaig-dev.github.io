@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tech-professionals</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tech-professionals/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tech-professionals/atom.xml</id><entry xml:lang="en">
+        <title>Improving Communication Skills for Tech Professionals</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/112-improving-communication-skills-for-tech-professionals/</id>
+        <summary type="html">Unlock success in the tech world with our comprehensive guide on improving communication skills. From tailoring your message to mastering the art of listening, elevate your career with 15 key insights. Continuous learning and adaptability are your passport to effective communication in the dynamic tech landscape.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Mindfulness Techniques for Tech Professionals</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/117-mindfulness-techniques-for-tech-professionals/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/117-mindfulness-techniques-for-tech-professionals/</id>
+        <summary type="html">Discover 15 mindfulness techniques tailored for tech professionals in this comprehensive blog post. From breath awareness to tech-free bedtime, cultivate balance and focus in the fast-paced world of technology. Your well-being is just a read away.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Developing Emotional Intelligence in the Tech World</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/41-developing-emotional-intelligence-in-the-tech-world/</id>
+        <summary type="html">Navigate the tech world with emotional intelligence! Explore 15 strategies for self-awareness, empathy, and effective communication. Elevate your career and foster a positive workplace culture.
+</summary>
+        </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tech-work-life-balance</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tech-work-life-balance/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-22T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tech-work-life-balance/atom.xml</id><entry xml:lang="en">
+        <title>Balancing Tech Work and Parenthood: Tips for Success</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/27-balancing-tech-work-and-parenthood-tips-for-success/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/27-balancing-tech-work-and-parenthood-tips-for-success/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, where long work hours and tight deadlines are the norm, striking a healthy balance between work and parenthood can be a daunting task for many parents. However, with the right strategies and support, it is possible to find harmony between these two important facets of life. In this blog post, we&#x27;ve compiled 10 practical tips that can help you navigate the complex dance of balancing tech work and parenthood. Whether you&#x27;re a working mom or dad, a seasoned professional or new to the industry, these tips will provide actionable insights that you can use to find a sustainable path forward. From establishing clear boundaries and finding work that aligns with your values to embracing technology and seeking out community support, we believe that by following these suggestions, you&#x27;ll be well on your way to finding a healthy, sustainable balance between tech work and parenthood. So, whether you&#x27;re just starting out or have been navigating this complex dance for years, we invite you to read on and share your own experiences and tips in the comments below. Together, we can build a supportive community of working parents who can learn from and support one another as we navigate this exciting but often challenging journey!</summary>
+        </entry>
+</feed>

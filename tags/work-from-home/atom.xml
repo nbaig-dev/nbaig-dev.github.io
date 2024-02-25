@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - work-from-home</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/work-from-home/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/work-from-home/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Healthy Remote Work in Tech</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/186-strategies-for-healthy-remote-work-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/186-strategies-for-healthy-remote-work-in-tech/</id>
+        <summary type="html">In recent years, remote work has become increasingly popular in various industries, particularly in the tech sector. While working from home offers numerous benefits such as flexibility and reduced commuting time, it also presents unique challenges, including isolation, distractions at home, and blurred boundaries between work and personal life. In this blog post, we&#x27;ll explore ten strategies for maintaining a healthy work-life balance while working remotely in the tech industry. From creating a dedicated workspace to practicing gratitude, these tips are designed to help remote workers stay productive, focused, and connected both personally and professionally. Whether you&#x27;re new to remote work or a seasoned pro, these strategies will provide practical insights and actionable steps for promoting a healthy remote work lifestyle. By implementing these tips, you&#x27;ll be able to enjoy the benefits of working from home while avoiding common pitfalls such as burnout, isolation, and distractions. We hope that this post inspires you to make positive changes in your remote work routine and encourages you to share these strategies with your colleagues and fellow tech professionals. Together, we can create a more productive, collaborative, and connected remote work community!</summary>
+        </entry>
+</feed>

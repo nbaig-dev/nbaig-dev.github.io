@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - growth-mindset</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/growth-mindset/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-05T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/growth-mindset/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Knowing Enough in Tech</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/</id>
+        <summary type="html">Discover how to conquer the fear of inadequacy in the ever-evolving tech industry! This comprehensive guide offers 15 practical strategies, empowering you to build confidence, embrace growth, and excel on your learning journey. Don&#x27;t miss out on thriving in tech!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming Perfectionism in Tech Projects</title>
+        <published>2024-03-05T00:00:00+00:00</published>
+        <updated>2024-03-05T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/122-overcoming-perfectionism-in-tech-projects/</id>
+        <summary type="html">Dive into strategies to conquer perfectionism in tech projects. From setting realistic goals to fostering a growth mindset, discover 15 actionable tips for balancing quality and progress. Overcome hurdles, celebrate milestones, and lead your team to success!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Building Resilience in the Face of Tech Challenges</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/34-building-resilience-in-the-face-of-tech-challenges/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/34-building-resilience-in-the-face-of-tech-challenges/</id>
+        <summary type="html">Empower your tech journey with resilience! Explore 15 strategies to face challenges head-on, from cultivating a growth mindset to maintaining well-being. Thrive in the dynamic world of technology!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Cultivating a Growth Mindset in Tech</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/38-cultivating-a-growth-mindset-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/38-cultivating-a-growth-mindset-in-tech/</id>
+        <summary type="html">Unlock success in tech with a growth mindset! Dive into 15 strategies for continuous learning, resilience, and innovation. Cultivate a mindset that thrives on challenges and embraces constant improvement.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>Dealing with Failure: Lessons from the Tech Industry</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/40-dealing-with-failure-lessons-from-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/40-dealing-with-failure-lessons-from-the-tech-industry/</id>
+        <summary type="html">Discover the art of resilience in the tech world! Learn from 15 invaluable lessons on turning failures into success. Embrace a growth mindset and navigate setbacks with confidence.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Constant Learning Curve in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/55-how-to-deal-with-the-constant-learning-curve-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/55-how-to-deal-with-the-constant-learning-curve-in-coding/</id>
+        <summary type="html">Navigate the perpetual learning curve in coding with 15 effective strategies. From embracing a growth mindset to engaging in practical projects, master the art of continuous improvement.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Coding Tests</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/67-how-to-deal-with-the-pressure-of-coding-tests/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/67-how-to-deal-with-the-pressure-of-coding-tests/</id>
+        <summary type="html">Master the art of handling coding test pressure with 15 proven strategies. From time management to maintaining a growth mindset, elevate your coding skills for success.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Learning New Technologies Quickly</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/71-how-to-deal-with-the-pressure-of-learning-new-technologies-quickly/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/71-how-to-deal-with-the-pressure-of-learning-new-technologies-quickly/</id>
+        <summary type="html">Uncover strategies to conquer the pressure of learning new technologies swiftly. From mindset shifts to efficient techniques, this guide empowers your journey in the fast-paced tech landscape.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Performance in Coding Competitions</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/73-how-to-deal-with-the-pressure-of-performance-in-coding-competitions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/73-how-to-deal-with-the-pressure-of-performance-in-coding-competitions/</id>
+        <summary type="html">Uncover strategies to thrive under pressure in coding competitions. From technical mastery to stress management, this guide empowers you to excel in the competitive coding arena.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Develop a Growth Mindset in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/</id>
+        <summary type="html">Unlock the secrets to fostering a growth mindset in coding. From embracing challenges to continuous learning, this guide empowers you to thrive on the coding journey.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Handle Failure and Frustration in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/79-how-to-handle-failure-and-frustration-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/79-how-to-handle-failure-and-frustration-in-coding/</id>
+        <summary type="html">Navigate coding challenges with resilience. From embracing failure to managing frustration, this guide empowers you to turn setbacks into stepping stones on your coding journey.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn from Your Coding Mistakes</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/84-how-to-learn-from-your-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/84-how-to-learn-from-your-coding-mistakes/</id>
+        <summary type="html">Transform coding mistakes into stepping stones for growth. This guide navigates the art of learning from errors, fostering a mindset of improvement. #LearnFromMistakes #CodingJourney
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Asking for Help in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/92-how-to-overcome-the-fear-of-asking-for-help-in-coding/</id>
+        <summary type="html">Conquer your coding fears! Dive into a comprehensive guide on overcoming the fear of seeking help in coding. Explore 15 actionable tips, from fostering a growth mindset to finding a coding buddy. Transform fear into a catalyst for improvement. Your coding journey awaits!
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Failure in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/</id>
+        <summary type="html">Learn how to conquer the fear of failure in coding with our comprehensive guide. Discover 15 practical strategies, from setting realistic goals to embracing a growth mindset. Overcome obstacles, celebrate progress, and thrive on your coding journey.
+</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Making Mistakes in Coding</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/96-how-to-overcome-the-fear-of-making-mistakes-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/96-how-to-overcome-the-fear-of-making-mistakes-in-coding/</id>
+        <summary type="html">Conquer the fear of coding mistakes with our comprehensive guide! Learn essential strategies, foster a growth mindset, and join a supportive community. Overcome challenges and celebrate progress in your coding journey. Share this guide to empower fellow coders!
+</summary>
+        </entry>
+</feed>

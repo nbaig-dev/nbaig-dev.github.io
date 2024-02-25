@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - technology-stack</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/technology-stack/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/technology-stack/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Knowing Enough in Tech</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/104-how-to-overcome-the-fear-of-not-knowing-enough-in-tech/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, it&#x27;s no secret that knowledge is essential for success in the tech industry. However, with the vast amount of information and complexity involved, it can be challenging to know where to start and what to learn. This fear of not knowing enough is a common obstacle for many individuals looking to enter or advance within this field. In this blog post, we&#x27;ll provide practical tips on how to overcome this fear and thrive in the tech industry.</summary>
+        </entry>
+</feed>

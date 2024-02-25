@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tips-for-coders</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tips-for-coders/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tips-for-coders/atom.xml</id><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Performance in Coding Competitions</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/73-how-to-deal-with-the-pressure-of-performance-in-coding-competitions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/73-how-to-deal-with-the-pressure-of-performance-in-coding-competitions/</id>
+        <summary type="html">In today&#x27;s era of technological advancements, coding competitions have become increasingly popular among developers worldwide. These contests offer a unique opportunity for coders to test their skills against others, win cash prizes, and potentially land job offers from top companies. However, these contests are not without their challenges, especially when it comes to handling the pressure of performance. In this blog post, we&#x27;ll share some practical tips on how to deal with the pressure of performance in coding competitions. Whether you&#x27;re a seasoned pro or a newcomer to coding contests, these techniques will help you perform at your best and come out on top. The post covers 10 points, starting from thorough preparation to staying confident and learning from mistakes. It also emphasizes the importance of managing time, collaborating when necessary, testing solutions, and network building during coding competitions. By following these tips, you&#x27;ll be better equipped to handle the pressure of performance and succeed in future contests. The post aims to help coders maximize their potential in these high-pressure situations while minimizing stress levels. We hope that this post will inspire readers to share their own advice for dealing with coding contest pressure in the comments section below, creating a valuable resource for the developer community.</summary>
+        </entry>
+</feed>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - debugging-techniques</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/debugging-techniques/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/debugging-techniques/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with Overwhelming Coding Concepts</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/170-strategies-for-dealing-with-overwhelming-coding-concepts/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/170-strategies-for-dealing-with-overwhelming-coding-concepts/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for many career paths. However, learning coding concepts can be overwhelming, especially for beginners who are drowning in information. This blog post offers ten strategies to help overcome this challenge and master even the most complex coding concepts. By breaking things down, practicing consistently, using online resources, collaborating with others, taking breaks, learning visualization techniques, applying concepts to real-world scenarios, testing your knowledge, learning debugging techniques, and celebrating small wins, you can build a strong foundation in coding and stay motivated throughout the journey. With these strategies, we hope to inspire and support coders of all levels on their learning journeys!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Learning to Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/173-strategies-for-dealing-with-the-frustration-of-learning-to-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/173-strategies-for-dealing-with-the-frustration-of-learning-to-code/</id>
+        <summary type="html">In this blog post, we explore ten practical strategies that can help aspiring coders navigate the frustrating moments of learning to code. From breaking down complex concepts into smaller pieces and practicing regularly, to learning from mistakes and embracing failure, these tips are designed to help you build your skills and stay motivated throughout your coding journey. Whether you&#x27;re just starting out or have been coding for a while, this post offers valuable insights and perspectives that can help you overcome common obstacles and achieve your goals. By sharing this post with others in the coding community, we hope to foster a culture of collaboration and support that can accelerate learning and inspire new ideas. Join us as we explore the world of coding together!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Understanding Complex Algorithms</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/160-overcoming-the-challenges-of-understanding-complex-algorithms/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/160-overcoming-the-challenges-of-understanding-complex-algorithms/</id>
+        <summary type="html">As technology continues to advance, algorithms have become an integral part of our everyday lives. From search engines and social media platforms to medical diagnostics and financial trading systems, algorithms are used in various fields to solve complex problems. However, understanding these algorithms can be a daunting task for many people, as they often involve intricate mathematical calculations, unfamiliar terminology, and abstract concepts.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Apply What You&#x27;ve Learned from Coding Tutorials</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/52-how-to-apply-what-you-ve-learned-from-coding-tutorials/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/52-how-to-apply-what-you-ve-learned-from-coding-tutorials/</id>
+        <summary type="html">In today&#x27;s digital age, learning to code has become an essential skill for many individuals. Coding tutorials provide step-by-step guidance on how to write and execute codes, but merely following along with them isn&#x27;t enough to master programming. In this blog post, we&#x27;ll explore ten points that will guide you on how to apply what you&#x27;ve learned from coding tutorials, including practicing consistently, trying variations of the tutorial, breaking down complex concepts, collaborating with other coders, utilizing resources beyond tutorials, focusing on problem-solving, developing a problem-solving mindset, learning debugging techniques, staying updated with programming trends, and applying your skills in real-world scenarios. By following these tips, you&#x27;ll be well on your way to becoming an expert coder, so let&#x27;s get started!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Handle Failure and Frustration in Coding</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/79-how-to-handle-failure-and-frustration-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/79-how-to-handle-failure-and-frustration-in-coding/</id>
+        <summary type="html">In the world of coding, failure and frustration are unavoidable realities that every developer encounters at some point. Whether it&#x27;s buggy code, incorrect syntax, or system constraints, these setbacks can be discouraging and demoralizing. In this blog post, we explore ten strategies for handling failure and frustration in coding, providing insights and tips to help developers navigate these obstacles. From reframing your mindset and breaking tasks down to collaborating with others and learning new skills, our guide offers practical advice on how to approach these challenges with confidence and resilience. Whether you&#x27;re a seasoned pro or just starting out in the world of coding, this post has something for everyone. So sit back, relax, and let&#x27;s dive into some tips for managing failure and frustration in coding!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Learn Coding Without Getting Stuck in Tutorial Hell</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/83-how-to-learn-coding-without-getting-stuck-in-tutorial-hell/</id>
+        <summary type="html">In today&#x27;s digitally-driven world, learning coding has become an essential skill for personal and professional growth. However, many beginners find themselves getting stuck in tutorial hell - a state where they spend more time following tutorials than actually writing code. In this blog post, we share ten actionable tips for learning coding without falling into the trap of tutorial hell. From defining your goals to embracing mistakes and taking breaks, our tips aim to help you master coding with consistency and focus. By practicing consistently, using real-world projects, collaborating with others, focusing on problem-solving, learning debugging techniques, utilizing a variety of online resources, and avoiding burnout, you&#x27;ll be well on your way to becoming a proficient coder without getting overwhelmed by the vastness of the coding landscape. We encourage our readers to share this post with their networks and continue exploring the exciting world of coding!</summary>
+        </entry>
+</feed>

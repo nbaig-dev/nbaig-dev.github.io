@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - staying-updated</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/staying-updated/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/staying-updated/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Demanding Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/190-strategies-for-learning-to-code-in-a-demanding-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/190-strategies-for-learning-to-code-in-a-demanding-environment/</id>
+        <summary type="html">In today&#x27;s tech-driven world, coding skills have become indispensable in various industries. However, learning to code can be challenging, especially in demanding environments where tight deadlines, limited resources, or high-pressure projects are commonplace. This blog post offers ten practical tips for thriving as a developer in such scenarios. From setting clear goals and breaking down big tasks to embracing collaboration and staying updated on trends, this article covers strategies that can help developers overcome the challenges of learning to code in demanding environments. With these tips, readers will be able to learn new skills, complete projects under tight deadlines, and stand out as exceptional developers in high-pressure situations. By sharing their experiences and insights in the comments section, the community can continue to support each other&#x27;s learning journeys and advance our careers in the industry. Join us today and take your coding skills to the next level!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Dynamic Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/129-overcoming-the-challenges-of-being-a-developer-in-a-dynamic-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/129-overcoming-the-challenges-of-being-a-developer-in-a-dynamic-environment/</id>
+        <summary type="html">In today&#x27;s dynamic business environment, where new technologies and platforms are emerging at an unprecedented pace, being a developer has become increasingly challenging. In this blog post, we explore some of these challenges and how developers can overcome them. From staying updated with the latest technologies to adapting to new platforms, managing time and resources, ensuring security and privacy, enhancing user experience, implementing DevOps practices, adopting agile methodologies, maintaining code quality, and embracing open source, this post offers practical insights and actionable advice for developers looking to succeed in a dynamic environment. By following these best practices and adopting a continuous learning mindset, developers can deliver high-quality software products that meet the ever-evolving needs of businesses and users. Let&#x27;s work together to build a better future for developers and software products!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Having to Know Everything in Tech</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/69-how-to-deal-with-the-pressure-of-having-to-know-everything-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/69-how-to-deal-with-the-pressure-of-having-to-know-everything-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-paced technology landscape, the pressure to stay updated with the latest trends and innovations can be overwhelming for professionals in the field. With new technologies emerging every day, it&#x27;s easy to feel like you need to know everything to remain relevant. However, this expectation is often unrealistic and can lead to burnout and stress. In this blog post, we provide ten practical tips that can help you manage the pressure of having to know everything in tech. From prioritizing what&#x27;s most important to breaking down complex topics into smaller pieces, collaborating with others, and embracing continuous learning, these tips will help you build a strong foundation of skills and knowledge, stay current with the latest developments, and remain competitive over the long term. Whether you&#x27;re a seasoned professional or just starting in the tech industry, these tips are essential for anyone trying to cope with the stress of having to know everything. So, let&#x27;s embark on this learning journey together and enjoy the ride!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Keep Up with New Technologies Without Getting Overwhelmed</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/80-how-to-keep-up-with-new-technologies-without-getting-overwhelmed/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/80-how-to-keep-up-with-new-technologies-without-getting-overwhelmed/</id>
+        <summary type="html">In today&#x27;s fast-paced technological world, it can be overwhelming for individuals and organizations alike to keep up with new developments without getting left behind. However, by adopting practical strategies, it is possible to stay ahead of the curve and make the most of emerging technologies. In this blog post, we explore ten tips that will help you navigate the ever-evolving tech landscape, define your goals and objectives, prioritize relevant skills and technologies, collaborate with others in your industry, invest in training and education, practice continuous learning, leverage technology to your advantage, stay open-minded and adaptable, and evaluate and prioritize new technologies. By following these tips, you can stay updated with emerging technologies without feeling overwhelmed and take full advantage of the opportunities they offer. We hope you find this blog post informative and useful, and we encourage you to share it with your network using the social sharing buttons below!</summary>
+        </entry>
+</feed>

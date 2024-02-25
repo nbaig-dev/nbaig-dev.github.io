@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - security</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/security/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/security/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Understanding DevOps Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/222-the-importance-of-understanding-devops-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/222-the-importance-of-understanding-devops-principles/</id>
+        <summary type="html">In recent years, DevOps has revolutionized the way organizations build, deliver, and operate software. DevOps is an approach that combines the best practices from development (Dev) and operations (Ops) teams to create a continuous delivery pipeline. In this blog post, we will discuss the importance of understanding DevOps principles with 10 key points.</summary>
+        </entry><entry xml:lang="en">
+        <title>The Importance of Understanding Distributed Programming Principles</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/223-the-importance-of-understanding-distributed-programming-principles/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/223-the-importance-of-understanding-distributed-programming-principles/</id>
+        <summary type="html">In today&#x27;s era of cloud computing and big data, distributed systems have become an integral part of modern-day software development. These systems are made up of multiple nodes or machines connected over a network, which makes it possible to distribute workloads across these nodes, improve reliability, and scale horizontally. However, working with distributed systems comes with its own set of challenges, including coordination, consistency, communication overhead, data replication, and network latency. In this blog post, we will discuss the importance of understanding distributed programming principles. We will dive into 10 critical principles that form the bedrock of distributed systems, including decentralization, consistency, partition tolerance, communication overhead, data replication, failure handling, coordination, scalability, security, and observability. By understanding these principles, developers can create distributed systems that are robust, reliable, and scalable in a distributed environment. This post is an essential read for anyone looking to understand the intricacies of distributed systems and learn how to design and develop them efficiently and reliably. We hope you find this post informative and insightful, and we welcome your feedback and suggestions for future topics. Stay tuned for more exciting content!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Continuous Improvement in Tech</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/168-strategies-for-continuous-improvement-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/168-strategies-for-continuous-improvement-in-tech/</id>
+        <summary type="html">In today&#x27;s rapidly evolving tech landscape, staying ahead of the competition requires constant improvement and adaptation. The strategies for continuous improvement discussed in this 8000-character blog post cover various aspects that are essential to driving innovation and achieving sustainable growth. The post highlights ten strategies for continuous improvement in tech, starting with defining clear goals and objectives, fostering a culture of learning and innovation, investing in data and analytics, embracing agile development methodologies, fostering cross-functional collaboration, prioritizing security and compliance, leveraging emerging technologies, measuring and monitoring performance, focusing on the customer experience, and continuously improving your supply chain. These strategies are crucial for organizations that want to stay ahead of the curve in the tech industry. By implementing these practices, companies can foster a culture that values learning and innovation, reduce silos, identify new opportunities for growth, improve operational efficiency, increase customer satisfaction, and deliver superior products and services. As technology continues to advance at an unprecedented pace, continuous improvement is not just about fixing issues or improving performance; it&#x27;s a mindset that drives organizations towards achieving their full potential. In conclusion, this blog post aims to provide tech companies with actionable strategies for driving continuous improvement and staying ahead of the competition. By prioritizing learning, innovation, collaboration, and customer-centricity across the organization, companies can achieve sustainable growth and stay relevant in a rapidly evolving industry.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Keeping Up with Rapidly Changing Tech Trends</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/</id>
+        <summary type="html">In today&#x27;s fast-paced technological landscape, it&#x27;s crucial for individuals and businesses to adapt quickly to new trends and innovations. However, with emerging technologies such as artificial intelligence, virtual reality, and the Internet of Things (IoT) disrupting traditional industries, it can be challenging to keep up. In this blog post, we explore ten strategies that can help you navigate rapidly changing tech trends, from embracing a growth mindset and staying informed to investing in training and development, being agile, and prioritizing user experience. By implementing these tactics, you&#x27;ll be better equipped to stay ahead of the curve and achieve long-term success. Whether you&#x27;re an entrepreneur, a small business owner, or a technology professional, this post offers practical advice and insights that can help you thrive in a rapidly evolving technological landscape.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Use Documentation as a Learning Tool</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/111-how-to-use-documentation-as-a-learning-tool/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/111-how-to-use-documentation-as-a-learning-tool/</id>
+        <summary type="html">In today&#x27;s fast-paced world of software development, documentation is often overlooked as a mere requirement to fulfill rather than a valuable resource that can help developers learn and grow. However, this blog post argues that documentation can serve as a powerful learning tool for new or junior developers in several ways. In this article, we present ten points that illustrate the various benefits of using documentation as a learning resource. The post begins by highlighting the importance of understanding the system&#x27;s architecture and design decisions, followed by detailed instructions on how to use each component. Next, it emphasizes the need for explaining error messages and providing insights into system testing, security, performance, and roadmap. Finally, it suggests guidelines for contributing to the project and encourages readers to share the post with their peers and colleagues. This blog post is written in a clear and concise style, using plain language and avoiding technical jargon wherever possible. It is accessible to developers of all levels and serves as an excellent resource for anyone looking to improve their documentation skills or learn about a new system.</summary>
+        </entry><entry xml:lang="en">
+        <title>Balancing Innovation with Stability in Tech</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/26-balancing-innovation-with-stability-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/26-balancing-innovation-with-stability-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-paced tech industry, striking a balance between innovation and stability is no easy feat for companies. While innovation fuels growth, stability is critical to customer satisfaction and retention. In this blog post, we explore ten ways that tech companies can find the sweet spot between innovation and stability. By defining priorities, fostering collaboration, embracing user feedback, investing in continuous learning and training, implementing agile development methodologies, prioritizing security and reliability, conducting regular risk assessments, focusing on user experience, communicating effectively with customers, and continuously monitoring and adapting, companies can achieve success while ensuring customer satisfaction and retention. Join us as we delve deeper into these strategies and share your experiences and insights in the comments section below! #InnovationStabilityBalance #TechChallenges #ContinuousLearning #AgileDevelopment #UserExperience #CollaborativeCulture</summary>
+        </entry>
+</feed>

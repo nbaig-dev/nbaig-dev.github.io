@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - persistence</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/persistence/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/persistence/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Debugging</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/172-strategies-for-dealing-with-the-frustration-of-debugging/</id>
+        <summary type="html">As software developers, we often encounter the frustrating task of debugging. Whether it&#x27;s a simple syntax error or a complex memory leak issue, the process can be daunting and time-consuming. In this blog post, we discuss ten practical tips for dealing with frustration during debugging sessions. From staying calm and focused to using debugging tools effectively, collaborating with others, and learning from mistakes, these strategies aim to make the debugging process less painful and more productive. By following these tips, developers can approach debugging sessions with confidence and resilience, leading to more rewarding outcomes. Whether you&#x27;re a seasoned developer or a newcomer to the field, this post offers valuable insights and resources for tackling one of the most challenging aspects of software development. So let&#x27;s share our tips and experiences with debugging with the community and support each other in this journey!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Learning to Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/173-strategies-for-dealing-with-the-frustration-of-learning-to-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/173-strategies-for-dealing-with-the-frustration-of-learning-to-code/</id>
+        <summary type="html">In this blog post, we explore ten practical strategies that can help aspiring coders navigate the frustrating moments of learning to code. From breaking down complex concepts into smaller pieces and practicing regularly, to learning from mistakes and embracing failure, these tips are designed to help you build your skills and stay motivated throughout your coding journey. Whether you&#x27;re just starting out or have been coding for a while, this post offers valuable insights and perspectives that can help you overcome common obstacles and achieve your goals. By sharing this post with others in the coding community, we hope to foster a culture of collaboration and support that can accelerate learning and inspire new ideas. Join us as we explore the world of coding together!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Dealing with the Frustration of Not Being Able to Debug Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/175-strategies-for-dealing-with-the-frustration-of-not-being-able-to-debug-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/175-strategies-for-dealing-with-the-frustration-of-not-being-able-to-debug-code/</id>
+        <summary type="html">As software developers, we have all experienced the frustration that comes with trying to identify and fix issues in our code. In this blog post, we share ten practical strategies for dealing with this frustration more effectively. These tips are designed to help you understand the problem, break it down into smaller pieces, use debugging tools, collaborate with others, simplify, take a break, test thoroughly, learn from mistakes, stay organized, and persist in finding a solution. By implementing these strategies, you can become a more effective debugger and overcome the frustrations of debugging code, ultimately leading to more robust and reliable software applications. So, if you&#x27;re struggling with debugging, read on and discover how you can make this process less daunting and more manageable.</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Debugging Your Own Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/</id>
+        <summary type="html">In today&#x27;s world, where software applications are an integral part of our daily lives, debugging has become a critical aspect of software development. Debugging refers to the process of identifying and fixing errors or bugs in code that cause unexpected behavior or crashes. In this blog post, we will explore ten strategies for efficiently and effectively debugging your own code. These tips cover various aspects such as understanding your code, using debugging tools, testing early and often, following best practices, collaborating with others, learning from mistakes, debugging remote issues, and being patient and persistent. Whether you&#x27;re an experienced developer or just starting out, these tips will help you identify and fix bugs more quickly and efficiently, making the debugging process less painful and more productive. We hope that by sharing these strategies, we can inspire others to improve their debugging skills and promote software development best practices. So, join us as we delve into the world of debugging and explore ways to make it a more rewarding experience for all developers!</summary>
+        </entry><entry xml:lang="en">
+        <title>Tech Entrepreneurship: Navigating the Startup Rollercoaster</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/200-tech-entrepreneurship-navigating-the-startup-rollercoaster/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/200-tech-entrepreneurship-navigating-the-startup-rollercoaster/</id>
+        <summary type="html">In today&#x27;s fast-paced and dynamic tech landscape, entrepreneurship has become increasingly popular as more and more people are drawn towards creating their own tech ventures. However, starting a tech startup is not an easy feat; it&#x27;s a rollercoaster ride filled with highs and lows that can be both exhilarating and terrifying at the same time. In this blog post, we’ll explore ten key points for navigating this exciting yet challenging journey. From defining your vision and mission to managing cash flow, building partnerships, staying customer-centric, and embracing failure, we&#x27;ll provide practical tips and advice for building a successful tech startup. Whether you&#x27;re an aspiring entrepreneur or a seasoned pro, this blog post will offer insights and inspiration that can help you navigate the startup rollercoaster with confidence and resilience. So, buckle up, grab your seat belt, and join us on this thrilling journey as we explore the world of tech entrepreneurship!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a Non-English Speaking Country</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/135-overcoming-the-challenges-of-being-a-developer-in-a-non-english-speaking-country/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/135-overcoming-the-challenges-of-being-a-developer-in-a-non-english-speaking-country/</id>
+        <summary type="html">In a rapidly evolving technology landscape, software development has become one of the most sought-after professions globally. However, not all countries prioritize the tech industry equally, leading to unique challenges for developers working in non-English speaking regions. In this blog post, we&#x27;ll explore ten ways to overcome these obstacles and thrive as a developer in a non-English speaking country. The post covers topics such as learning the local language, embracing cultural differences, networking, learning local business practices, collaborating with international clients, participating in online communities, attending conferences, leveraging translation tools, working remotely, and being patient. By following these guidelines, developers can succeed and make a meaningful contribution to the tech industry, irrespective of their location or language proficiency.</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Non-Traditional Student in Tech</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/148-overcoming-the-challenges-of-being-a-non-traditional-student-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/148-overcoming-the-challenges-of-being-a-non-traditional-student-in-tech/</id>
+        <summary type="html">In the ever-evolving world of technology, breaking into the tech industry as a non-traditional student can pose unique challenges. Older students, working professionals, and those with other obligations may find it challenging to balance their studies, work, and personal life while navigating the dynamic landscape of tech. However, these challenges are not insurmountable, and in this blog post, we explore ten practical tips for overcoming them. From identifying your learning style to seeking out mentors, building a portfolio, staying up-to-date with industry trends, collaborating with others, and being persistent, our tips aim to help non-traditional students achieve success in tech. Whether you are just starting your journey into the tech world or looking for ways to improve your chances of breaking through, this post is here to support and guide you. So, if you are a non-traditional student looking to break into tech, read on, embrace the challenge, and let&#x27;s work together towards success!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Switching Careers to Tech</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/159-overcoming-the-challenges-of-switching-careers-to-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/159-overcoming-the-challenges-of-switching-careers-to-tech/</id>
+        <summary type="html">In today&#x27;s rapidly evolving digital age, there&#x27;s no denying that technology has become an integral part of our daily lives. As a result, the demand for tech professionals has skyrocketed. However, transitioning to a career in tech from another industry can be a daunting task, especially for those without prior experience in coding or other tech-related skills. In this blog post, we explore ten practical tips that will help individuals overcome the challenges of switching careers to tech. From researching the industry to staying current with technology trends, building a portfolio, networking, and seeking mentorship, our tips cover everything from developing soft skills to being open to learning new technologies, languages, and frameworks. With these tips in mind, we hope that you&#x27;ll find the inspiration and guidance necessary to embark on a fulfilling career in tech. We encourage you to share this post with your network and leave us a comment below sharing your thoughts or experiences as we continue our journey towards promoting innovation, creativity, and digital literacy for all.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Understand Complex Code</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/102-how-to-overcome-the-fear-of-not-being-able-to-understand-complex-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/102-how-to-overcome-the-fear-of-not-being-able-to-understand-complex-code/</id>
+        <summary type="html">In today&#x27;s software development landscape, encountering unfamiliar or complex code is an inevitable part of any developer&#x27;s journey. However, dealing with such code can be intimidating and lead to feelings of inadequacy and fear. To help overcome these fears and better understand complex code, this blog post offers ten practical strategies that developers can follow. The post encourages readers to approach the code with an open mind, break it down into smaller parts, read documentation, ask questions, try debugging, look for patterns, practice, collaborate with others, and embrace uncertainty. By implementing these tips consistently and persistently, developers can cultivate a deeper understanding of complex codebases and become more comfortable working with unfamiliar code. The post concludes by encouraging readers to share its insights with others and continue learning and growing as developers.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Transition from a Coding Bootcamp to a Real Job</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/109-how-to-transition-from-a-coding-bootcamp-to-a-real-job/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/109-how-to-transition-from-a-coding-bootcamp-to-a-real-job/</id>
+        <summary type="html">In today&#x27;s digital age, coding skills have become an increasingly valuable commodity in the job market. Coding bootcamps offer a quick and efficient way for individuals with little or no coding experience to acquire the necessary knowledge and skills to launch a career in tech. However, transitioning from a coding bootcamp to a real job can be daunting. In this 8000-word blog post, we&#x27;ll explore ten practical tips for making this leap successfully. From mastering the basics and building a portfolio to networking, learning soft skills, staying current with industry trends, and being patient and persistent, these actionable steps will help readers navigate the job search process and launch a fulfilling career in tech. With hard work and dedication, anyone can make the transition from a coding bootcamp to a rewarding job in this exciting and dynamic field.</summary>
+        </entry><entry xml:lang="en">
+        <title>Goal Setting for Tech Career Advancement</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/50-goal-setting-for-tech-career-advancement/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technology landscape, it is crucial for tech professionals to set goals that enable them to grow and advance in their careers. In this blog post, we explore ten effective strategies for goal-setting in a tech career. These include defining long-term career objectives, breaking them down into smaller milestones, setting SMART goals, creating a plan, seeking feedback, taking risks, embracing failure, continuously learning, networking, and being patient and persistent. By following these tips, readers can enhance their professional development and achieve success in the tech industry. Our blog post aims to provide valuable insights and actionable advice for anyone looking to advance their tech career. We encourage our readers to share this post with their peers, mentors, and colleagues, as collective learning and growth can benefit us all!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Develop a Growth Mindset in Coding</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/75-how-to-develop-a-growth-mindset-in-coding/</id>
+        <summary type="html">In today&#x27;s digital age, programming has become an essential skill for individuals looking to thrive in the tech industry. However, developing coding skills is not just about learning programming languages or frameworks, but also about embracing challenges, persistence, and continuous learning. In this blog post, we explore ten points to help you develop a growth mindset in coding - a crucial trait that fosters a positive attitude towards learning, resilience, and improvement. Whether you&#x27;re a seasoned coder or just starting your coding journey, these practices will guide you towards becoming a better programmer and growing your skills over time. So, let&#x27;s dive in!</summary>
+        </entry>
+</feed>

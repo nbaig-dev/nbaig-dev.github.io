@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - tools</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/tools/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/tools/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Debugging Your Own Code</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/182-strategies-for-debugging-your-own-code/</id>
+        <summary type="html">In today&#x27;s world, where software applications are an integral part of our daily lives, debugging has become a critical aspect of software development. Debugging refers to the process of identifying and fixing errors or bugs in code that cause unexpected behavior or crashes. In this blog post, we will explore ten strategies for efficiently and effectively debugging your own code. These tips cover various aspects such as understanding your code, using debugging tools, testing early and often, following best practices, collaborating with others, learning from mistakes, debugging remote issues, and being patient and persistent. Whether you&#x27;re an experienced developer or just starting out, these tips will help you identify and fix bugs more quickly and efficiently, making the debugging process less painful and more productive. We hope that by sharing these strategies, we can inspire others to improve their debugging skills and promote software development best practices. So, join us as we delve into the world of debugging and explore ways to make it a more rewarding experience for all developers!</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Keeping Your Coding Skills Up to Date</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/154-overcoming-the-challenges-of-keeping-your-coding-skills-up-to-date/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/154-overcoming-the-challenges-of-keeping-your-coding-skills-up-to-date/</id>
+        <summary type="html">In today&#x27;s fast-paced and constantly evolving world of technology, it&#x27;s essential for developers and coders to keep their skills up-to-date. This is not an easy task given the plethora of new programming languages, frameworks, and tools emerging every day. But neglecting to update coding skills could lead to missed opportunities, lower productivity, and even job loss in some cases. In this blog post, we&#x27;ll discuss ten ways to overcome the challenges of keeping your coding skills current. From setting realistic goals to seeking feedback and collaborating with others, this post offers practical advice for coders looking to stay competitive in the job market. We&#x27;ll also emphasize the importance of continuous learning, staying updated with industry trends, and encouraging learning within your team. By following these tips, you can ensure that your coding skills remain relevant and in demand in an ever-changing landscape. Whether you&#x27;re a seasoned developer or just starting out, this post is for you. So grab your favorite beverage, sit back, and let&#x27;s dive into the world of coding skills updates!</summary>
+        </entry>
+</feed>

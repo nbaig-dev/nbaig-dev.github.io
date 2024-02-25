@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - agility</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/agility/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/agility/atom.xml</id><entry xml:lang="en">
+        <title>The Importance of Continuous Learning in Tech</title>
+        <published>2024-02-27T00:00:00+00:00</published>
+        <updated>2024-02-27T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/213-the-importance-of-continuous-learning-in-tech/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/213-the-importance-of-continuous-learning-in-tech/</id>
+        <summary type="html">In today&#x27;s fast-evolving tech industry, staying ahead of the curve is essential for success. Continuous learning has become an indispensable aspect of this landscape as new trends and technologies emerge every day. In this blog post, we explore ten compelling reasons why continuous learning is critical in tech. We discuss how it enables individuals to stay updated with industry trends, enhance skill set, improve problem-solving abilities, foster collaboration and networking opportunities, boost confidence and career growth, improve critical thinking and analytical skills, enhance creativity and innovation, facilitate adaptability and agility, and encourage professional development and growth. By prioritizing continuous learning, tech professionals can remain relevant and competitive in this dynamic landscape. We hope that you find our insights informative and inspiring. Join us as we explore the world of tech through a lens of continuous learning!</summary>
+        </entry><entry xml:lang="en">
+        <title>Strategies for Keeping Up with Rapidly Changing Tech Trends</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/187-strategies-for-keeping-up-with-rapidly-changing-tech-trends/</id>
+        <summary type="html">In today&#x27;s fast-paced technological landscape, it&#x27;s crucial for individuals and businesses to adapt quickly to new trends and innovations. However, with emerging technologies such as artificial intelligence, virtual reality, and the Internet of Things (IoT) disrupting traditional industries, it can be challenging to keep up. In this blog post, we explore ten strategies that can help you navigate rapidly changing tech trends, from embracing a growth mindset and staying informed to investing in training and development, being agile, and prioritizing user experience. By implementing these tactics, you&#x27;ll be better equipped to stay ahead of the curve and achieve long-term success. Whether you&#x27;re an entrepreneur, a small business owner, or a technology professional, this post offers practical advice and insights that can help you thrive in a rapidly evolving technological landscape.</summary>
+        </entry><entry xml:lang="en">
+        <title>Overcoming the Challenges of Being a Developer in a High Tech Environment</title>
+        <published>2024-02-25T00:00:00+00:00</published>
+        <updated>2024-02-25T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/133-overcoming-the-challenges-of-being-a-developer-in-a-high-tech-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/133-overcoming-the-challenges-of-being-a-developer-in-a-high-tech-environment/</id>
+        <summary type="html">In today&#x27;s rapidly evolving technological landscape, being a developer in a high-tech environment presents both exciting opportunities and significant challenges. The need for staying updated with emerging trends and technologies while managing project deadlines and meeting business objectives can be overwhelming at times. However, by embracing lifelong learning, collaboration, agility, quality, DevOps, code reviews, stress management, and a focus on clients&#x27; needs, developers can overcome these challenges and succeed in this competitive industry. In this blog post, we explore ten strategies that can help developers navigate the challenges of working in a high-tech environment and deliver high-quality code that meets client expectations while also staying abreast of emerging technologies. Whether you&#x27;re a seasoned developer or just starting out, these tips will help you stay ahead of the curve and thrive in this dynamic field. So, let&#x27;s collaborate, learn, and grow together! Join us as we explore the world of high-tech development and share your insights and experiences with the community. Together, we can make a difference!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Pressure of Keeping Up with Tech Trends</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/70-how-to-deal-with-the-pressure-of-keeping-up-with-tech-trends/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/70-how-to-deal-with-the-pressure-of-keeping-up-with-tech-trends/</id>
+        <summary type="html">In today&#x27;s fast-paced world, technology is advancing at an unprecedented rate, making it challenging for businesses and individuals alike to keep up. The pressure to stay ahead of the curve can be overwhelming, but this blog post provides ten strategies that can help you cope with the constant stream of tech trends. From defining your goals to fostering a culture of experimentation, these tips will guide you through the process of staying informed, adaptable, and agile in your approach towards emerging technologies. Whether you&#x27;re looking to increase productivity, enhance customer experiences, or reduce costs, these strategies will help you prioritize which trends are most relevant for you. By embracing a growth mindset, focusing on the benefits, and leveraging partnerships, you&#x27;ll be better equipped to navigate this ever-changing landscape. We encourage our readers to share their own experiences and insights in the comments section below, let&#x27;s foster a community of learning, growth, and collaboration! #techtrends #stayinformed #professionaldevelopment.</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Uncertainty in the Tech Industry</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/74-how-to-deal-with-the-uncertainty-in-the-tech-industry/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/74-how-to-deal-with-the-uncertainty-in-the-tech-industry/</id>
+        <summary type="html">In today&#x27;s tech-driven world, uncertainty has become an inherent part of our everyday lives. From emerging technologies to economic uncertainties and global pandemics, the tech sector is constantly grappling with unpredictability. In this blog post, we explore ten ways to help professionals in the tech industry navigate these challenges effectively. We emphasize the importance of embracing change, staying informed, fostering collaboration, developing resilience, prioritizing customer needs, managing risks, fostering innovation, investing in skills development, focusing on long-term strategies, and staying agile. By following these strategies, we can weather the uncertainties of today while building a strong foundation for tomorrow in this dynamic and exciting industry. We hope that by sharing our insights, we can inspire others to learn and grow alongside us. Let&#x27;s continue to navigate uncertainty together!</summary>
+        </entry><entry xml:lang="en">
+        <title>Building Confidence in Tech Decision-Making</title>
+        <published>2024-02-22T00:00:00+00:00</published>
+        <updated>2024-02-22T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/33-building-confidence-in-tech-decision-making/</id>
+        <summary type="html">In today&#x27;s tech-driven world, making informed and effective tech decisions has become essential for business success. However, navigating the complex and ever-changing tech landscape can be daunting, especially for those without a background in IT. In this blog post, we&#x27;ll explore ten practical tips that will help build confidence in your tech decision-making abilities. From defining your tech strategy to fostering a culture of continuous learning, these tips will guide you through the process and ensure that each new tech investment delivers real value to your business. By following our advice, you can stay ahead of the curve in terms of tech innovation and best practice, driving real value to your organization and delivering on your strategic goals. So whether you&#x27;re a seasoned tech pro or a relative newcomer, this guide is for you! Join us as we explore the world of tech decision-making and build confidence in your ability to lead your business into the future.</summary>
+        </entry>
+</feed>

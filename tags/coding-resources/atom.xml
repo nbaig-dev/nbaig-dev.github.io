@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - coding-resources</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/coding-resources/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/coding-resources/atom.xml</id><entry xml:lang="en">
+        <title>Strategies for Learning to Code in a Competitive Environment</title>
+        <published>2024-02-26T00:00:00+00:00</published>
+        <updated>2024-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/189-strategies-for-learning-to-code-in-a-competitive-environment/</id>
+        <summary type="html">In today&#x27;s digitally connected world, coding skills have become an essential requirement for individuals looking to stay ahead in their respective fields. With automation and technology transforming industries worldwide, there is a pressing demand for individuals who can code efficiently and effectively. However, learning to code in such a competitive environment can be daunting. This blog post aims to offer 10 strategies that can help aspiring coders stand out from the crowd and become proficient in coding. From defining goals to continuously improving skills, this guide covers a range of approaches that will equip readers with the knowledge they need to thrive in an increasingly competitive job market. By following these tips, readers can take their coding abilities to new heights and make a real impact in their chosen fields. Whether you&#x27;re a seasoned coder or just starting out on your coding journey, this guide is sure to provide valuable insights and practical advice that will help you stay ahead of the curve. So, let&#x27;s get started!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Good Enough in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/103-how-to-overcome-the-fear-of-not-being-good-enough-in-coding/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an indispensable skill in various industries. However, many beginners feel overwhelmed and doubt their capabilities due to the perceived expertise of seasoned coders. This blog post offers ten practical ways for overcoming the fear of not being good enough in coding. The post encourages readers to understand that everyone starts somewhere, focus on learning rather than perfection, break down complex problems into smaller parts, seek out learning opportunities, practice regularly, collaborate with others, embrace failure, celebrate achievements, reflect on their learning journey, and cultivate a growth mindset. With these tips, readers will be well on their way to becoming confident and competent coders. By sharing this post with your coding community, we can make learning coding more accessible and less intimidating for all!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Making Mistakes in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/96-how-to-overcome-the-fear-of-making-mistakes-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/96-how-to-overcome-the-fear-of-making-mistakes-in-coding/</id>
+        <summary type="html">In today&#x27;s digitally-driven world, coding has become an indispensable skill that opens doors to various opportunities. However, many aspiring coders are deterred by the fear of making mistakes while learning to code, causing them to avoid programming altogether or hesitate to take risks in their programming endeavors. In this blog post, we explore ten practical strategies to help overcome this fear and become a more effective, efficient coder. By understanding that mistakes are natural, embracing failure, breaking down complex problems, testing early and often, collaborating, using version control, learning from mistakes, practicing regularly, focusing on learning rather than perfection, and taking breaks, aspiring coders can gain confidence and ease in handling the coding process. This post encourages the community of coders to share their experiences and support each other in this journey towards mastering coding skills. Let&#x27;s work together to overcome our fears and embrace the learning process!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code Fast Enough</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/97-how-to-overcome-the-fear-of-not-being-able-to-code-fast-enough/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill for anyone looking to succeed in various industries. However, many people are hesitant to learn how to code due to the fear of not being able to do it quickly enough. This fear can be paralyzing and prevent individuals from ever starting their coding journey. In this blog post, we provide practical tips on how to overcome the fear of not being able to code fast enough. With 10 actionable points, we aim to help beginners develop confidence in their abilities, learn at their own pace, and build proficiency in coding. From embracing learning at one&#x27;s own pace to utilizing resources, consistent practice, focusing on understanding concepts, collaborating with others, learning shortcuts and optimization techniques, debugging, and not giving up, this post aims to provide a comprehensive guide for anyone looking to overcome their fear of not being able to code fast enough. We believe that everyone can become proficient in coding with dedication, persistence, and hard work. Join us as we explore these practical tips and create a community of learners who support and encourage one another!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Overcome the Fear of Not Being Able to Code from Scratch</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/98-how-to-overcome-the-fear-of-not-being-able-to-code-from-scratch/</id>
+        <summary type="html">In today&#x27;s digital age, programming skills have become an indispensable asset for professionals in various fields. However, learning how to code from scratch can be intimidating, particularly if you lack prior experience or education in computer science. The fear of not being able to code can hold people back from exploring this exciting field and all the opportunities it offers. In this blog post, we&#x27;re going to explore ten practical tips that can help you overcome your fears and embark on a coding journey with confidence. By starting small, practicing consistently, breaking down complex tasks, utilizing online resources, collaborating with others, embracing failure, learning from others&#x27; code, seeking out mentors, staying curious, and believing in yourself, you can develop the skills and knowledge needed to become a proficient coder. So if you&#x27;re new to coding or have been struggling to overcome your fears, this post is for you. We hope these tips will help you take the first step towards a rewarding and exciting journey into the world of programming!</summary>
+        </entry><entry xml:lang="en">
+        <title>How to Deal with the Constant Learning Curve in Coding</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/55-how-to-deal-with-the-constant-learning-curve-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/55-how-to-deal-with-the-constant-learning-curve-in-coding/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an essential skill in various industries, from technology to finance. However, mastering coding is not an easy feat as the world of coding is constantly evolving with new technologies and trends emerging every day. Dealing with the constant learning curve can be overwhelming for even seasoned developers, leaving them feeling stuck or discouraged. In this blog post, we&#x27;ll explore ten practical tips on how to deal with the constant learning curve in coding. From embracing the learning mindset to seeking feedback, practicing consistently, and keeping up-to-date with the latest trends and technologies, these tips will not only help developers become better at what they do but also build their resilience and confidence in the face of challenges. By following these tips and continuously expanding our knowledge base, we can stay relevant in the industry and grow as individuals. So, whether you&#x27;re just starting or have been coding for years, join us as we explore practical tips on how to deal with the constant learning curve in coding.</summary>
+        </entry>
+</feed>

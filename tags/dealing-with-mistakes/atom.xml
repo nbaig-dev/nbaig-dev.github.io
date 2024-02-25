@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - dealing-with-mistakes</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/dealing-with-mistakes/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-23T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/dealing-with-mistakes/atom.xml</id><entry xml:lang="en">
+        <title>How to Deal with the Fear of Coding Mistakes</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/57-how-to-deal-with-the-fear-of-coding-mistakes/</id>
+        <summary type="html">In today&#x27;s digital age, coding has become an integral part of various industries, with developers playing a crucial role in creating innovative solutions. However, one of the most common fears that plagues developers is the fear of making mistakes while coding. This fear can be debilitating, leading to procrastination, anxiety, or even abandoning a project altogether. But what if we told you that it&#x27;s possible to overcome this fear? In this blog post, we&#x27;ll share 10 actionable tips on how to deal with the fear of coding mistakes. From accepting mistakes as part of the learning process and embracing a growth mindset to seeking feedback, practicing consistently, and staying calm and persistent, our tips aim to help developers approach coding with more confidence and less fear. By implementing these techniques, you can improve your skills, prevent errors, and become a more confident and skilled developer. So, whether you&#x27;re a seasoned coder or just starting your journey, let&#x27;s learn together how to overcome the fear of coding mistakes. Happy reading!</summary>
+        </entry>
+</feed>

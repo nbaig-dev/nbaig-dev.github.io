@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - overcoming-fear-of-failure</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/overcoming-fear-of-failure/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-24T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/overcoming-fear-of-failure/atom.xml</id><entry xml:lang="en">
+        <title>How to Overcome the Fear of Failure in Coding</title>
+        <published>2024-02-24T00:00:00+00:00</published>
+        <updated>2024-02-24T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/95-how-to-overcome-the-fear-of-failure-in-coding/</id>
+        <summary type="html">In this blog post, we delve into one of the most significant obstacles for software developers: the fear of failure. With a combination of tips, anecdotes, and insights from industry experts, we explore practical strategies to overcome this pervasive mindset. We begin by acknowledging that failures are essential for learning, and they should be embraced rather than feared. Next, we advise breaking down complex tasks into smaller pieces, learning to embrace failure as an opportunity for growth, developing a growth mindset, seeking out feedback, collaborating with others, practicing mindfulness, building resilience through self-care, setting realistic goals, and taking risks and embracing change. Our post ends by encouraging developers to take that first step towards overcoming their fear of failure, share their experiences, and inspire the community. Let&#x27;s overcome our fears together and create a more vibrant and thriving developer ecosystem! #OvercomeFailureTogether</summary>
+        </entry>
+</feed>

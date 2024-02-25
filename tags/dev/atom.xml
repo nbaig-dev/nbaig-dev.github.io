@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - dev</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/dev/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-03T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/dev/atom.xml</id><entry xml:lang="en">
+        <title>Escaping Tutorial Hell - A Guide for Aspiring Developers.</title>
+        <published>2024-02-03T00:00:00+00:00</published>
+        <updated>2024-02-03T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/04-escaping-tutorial-hell-a-guide-for-aspiring-developers/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/04-escaping-tutorial-hell-a-guide-for-aspiring-developers/</id>
+        <summary type="html">In the world of self-taught programming, there&#x27;s a phenomenon known as &quot;tutorial hell&quot;. This is a situation where learners get stuck in a cycle of endlessly following tutorials without making progress or truly understanding the concepts they&#x27;re learning. It&#x27;s a common trap that many aspiring developers fall into, and it can be incredibly frustrating and demotivating.</summary>
+        </entry><entry xml:lang="en">
+        <title>Common misconceptions in rust.</title>
+        <published>2024-02-03T00:00:00+00:00</published>
+        <updated>2024-02-03T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/06-rust-common-misconceptions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/06-rust-common-misconceptions/</id>
+        <summary type="html">Exploring the Rust programming language, one might encounter various misconceptions. In this blog post, we debunk various misconceptions, delving into the vibrant, growing community that surrounds Rust, and the robust support it offers.</summary>
+        </entry>
+</feed>
