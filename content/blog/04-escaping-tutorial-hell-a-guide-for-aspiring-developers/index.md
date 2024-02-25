@@ -6,7 +6,7 @@ description = """In the world of self-taught programming, there's a phenomenon k
 
 [taxonomies]
 tags = ["tutorial-hell", "dev", "Misc", "career"]
-category=[career]
+category=["career"]
 
 [extra]
 footnote_backlinks = true
