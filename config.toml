@@ -2,7 +2,7 @@ base_url = "https://nbaig-dev.github.io/"
 title = "~/nbaig-dev"
 description = "I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language."
 author = "welpo"
-generate_feed = true
+# generate_feeds = true
 compile_sass = true
 minify_html = true
 build_search_index = true
@@ -249,6 +249,7 @@ allowed_domains = [
     { directive = "script-src", domains = ["'self'"] },
     { directive = "style-src", domains = ["'self'"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+    { directive = "connect-src", domains = ["https://nbaig-dev.goatcounter.com/count"] },
 ]
 
 # Custom subset of characters for the header.
@@ -267,14 +268,14 @@ service = "goatcounter"
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-# id = "yourID"
+id = "nbaig-dev"
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://tabi-stats.osc.garden"
+# self_hosted_url = "https://tabi-stats.osc.garden"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
