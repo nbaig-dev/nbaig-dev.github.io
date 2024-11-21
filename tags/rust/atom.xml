@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://nbaig-dev.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;nbaig-dev.github.io&#x2F;">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><title>~/nbaig-dev - rust</title>
+        <subtitle>I am a backend web developer with 14+ years of experience. In this blog I will be posting my journey with the Rust Programming Language.</subtitle>
+    <link href="https://nbaig-dev.github.io/tags/rust/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://nbaig-dev.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-07T00:00:00+00:00</updated>
+    <id>https://nbaig-dev.github.io/tags/rust/atom.xml</id><entry xml:lang="en">
+        <title>Turbofish operator in Rust</title>
+        <published>2024-02-07T00:00:00+00:00</published>
+        <updated>2024-02-07T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/05-rust-turbo-fish-operator/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/05-rust-turbo-fish-operator/</id>
+        <summary type="html">In this guide, we&#x27;ll explore its usage, understand its role in different contexts, and learn how to avoid common errors. Let&#x27;s get started on this journey to mastering the Turbofish operator in Rust.</summary>
+        </entry><entry xml:lang="en">
+        <title>Common misconceptions in rust.</title>
+        <published>2024-02-03T00:00:00+00:00</published>
+        <updated>2024-02-03T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/06-rust-common-misconceptions/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/06-rust-common-misconceptions/</id>
+        <summary type="html">Exploring the Rust programming language, one might encounter various misconceptions. In this blog post, we debunk various misconceptions, delving into the vibrant, growing community that surrounds Rust, and the robust support it offers.</summary>
+        </entry><entry xml:lang="en">
+        <title>Understanding rust ownership and borrowing.</title>
+        <published>2024-02-02T00:00:00+00:00</published>
+        <updated>2024-02-02T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/03-understanding-rust-ownership-and-borrowing/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/03-understanding-rust-ownership-and-borrowing/</id>
+        <summary type="html">Welcome to this blog post where I will be sharing my understanding of Rust&#x27;s ownership and borrowing concepts. These are fundamental aspects of Rust that make it unique among programming languages, providing memory safety without the need for a garbage collector. 
+
+Please note that this post is a reflection of my personal journey with Rust and is not intended to replace comprehensive learning resources like the Rust Book. It&#x27;s always a good idea to refer to multiple sources when learning a new concept.</summary>
+        </entry><entry xml:lang="en">
+        <title>CLI alternatives written in Rust.</title>
+        <published>2024-01-28T00:00:00+00:00</published>
+        <updated>2024-01-28T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/02-rust-cli-alternatives/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/02-rust-cli-alternatives/</id>
+        <summary type="html">Welcome to this comprehensive list of command-line interface (CLI) utilities written in Rust. Rust, known for its performance and safety, has been increasingly used to write CLI tools. this post, we will explore some of these tools, their features, and how they can be used as alternatives to their traditional counterparts.</summary>
+        </entry><entry xml:lang="en">
+        <title>My journey learning Rust</title>
+        <published>2024-01-23T00:00:00+00:00</published>
+        <updated>2024-01-23T00:00:00+00:00</updated>
+        <author>
+            <name>welpo</name>
+        </author>
+        <link rel="alternate" href="https://nbaig-dev.github.io/blog/01-rust-learning-journey/" type="text/html"/>
+        <id>https://nbaig-dev.github.io/blog/01-rust-learning-journey/</id>
+        <summary type="html">Hello there! I&#x27;m a seasoned web developer who has recently embarked on a new journey: learning Rust. In this blog post, I&#x27;ll be sharing my experiences, challenges, and the resources I&#x27;ve used along the way. Whether you&#x27;re a fellow Rustacean or someone curious about the language, I hope my journey provides some insights and encouragement for your own learning path. Let&#x27;s dive in!</summary>
+        </entry>
+</feed>
